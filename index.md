@@ -8,5 +8,7 @@ layout: home
 
 **Zuletzt** inszenierte die mikro-kit Kompanie [Home-Made](http://mikro-kit.de)
 (Premiere am 22.09.2015 im Theatre de Vidy, Lausanne)
-Aktuell arbeiten wir an der Wiederaufnahme von <a href="http://www.timoschuhmacher.de" target="_blank">Hamlet dans les ecoles</a>(21-24.03.2016 und 09.05.-10.06.2016 in den Schulen des Kantons Waadts und Genf)
+
+**Aktuell** arbeiten wir an der Wiederaufnahme von [Hamlet dans les écoles](http://mikro-kit.de)(21-24.03.2016 und 09.05.-10.06.2016 in den Schulen des Kantons Waadts und Genf)
+
 Außerdem folgt das nächste Projekt der Kompanie <a href="#">Luxus/Liebe</a>, das im Rahmen des Nachwuchsstipendiums der Stadt Lausanne und des Kantons Waadt 2017 stattfinden soll.
