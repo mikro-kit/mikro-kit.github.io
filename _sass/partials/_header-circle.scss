@@ -1,0 +1,89 @@
+.section__title img {
+  height: auto;
+  width: 100%;
+}
+
+.module {
+  background: url('../images/auftrag02.jpg');
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 100vh;
+  overflow: hidden;
+  width: 100vw;
+
+  @media screen and (min-width: $breakpoint-desktop-big + 0px) {
+    background-size: 100%;
+  }
+}
+
+.header-circle {
+  &__parent {
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    margin-bottom: -100vh;
+    position: relative;
+    top: -100vh;
+  }
+
+  &__quote {
+    align-items: center;
+    background-color: $circle-white;
+    border-radius: 50%;
+    // box-shadow: 0 2px 6px $shadow-grey;
+    display: inherit;
+    justify-content: center;
+    text-align: center;
+
+    @media screen and (orientation: landscape) {
+      height: 80vh;
+      width: 80vh;
+    }
+
+    @media screen and (orientation: portrait) {
+      height: 80vw;
+      width: 80vw;
+    }
+  }
+
+  &__text {
+    padding-top: 15%; // damit der Text optisch mittig sitzt, justifiy-content bezieht sich auf quote UND speaker
+    width: 90%;
+
+    p {
+      color: $quote-black;
+      font-family: $quote-font-family;
+    }
+
+    &--quote {
+      font-size: 24 * $to-rems + rem;
+      font-style: italic;
+      letter-spacing: .1rem;
+      line-height: 32 * $to-rems + rem;
+      padding-bottom: 0;
+
+      @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
+        font-size: 48 * $to-rems + rem;
+        line-height: 56 * $to-rems + rem;
+        margin-bottom: inherit;
+        padding-bottom: 28 * $to-rems + rem;
+      }
+    }
+
+    &--speaker {
+      font-size: 12 * $to-rems + rem;
+      font-weight: $fw-bold;
+      letter-spacing: .2rem;
+      margin-top: 16 * $to-rems + rem;
+      text-transform: uppercase;
+
+      @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
+        font-size: 16 * $to-rems + rem;
+      }
+    }
+  }
+
+
+}

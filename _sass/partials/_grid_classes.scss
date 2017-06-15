@@ -1,0 +1,52 @@
+// =====================
+// Generate Grid Classes
+// =====================
+.row {
+  @include row($width: $breakpoint-phone-portrait);
+
+  @media screen and (min-width: $breakpoint-phone-landscape + 0px) {
+    @include row($width: $breakpoint-phone-landscape);
+  }
+
+  @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
+    @include row($width: $breakpoint-tablet-portrait, $if-max: true);
+  }
+
+  @media screen and (min-width: $breakpoint-tablet-landscape + 0px) {
+    @include row($width: $breakpoint-tablet-landscape, $if-max: true);
+  }
+
+  @media screen and (min-width: $breakpoint-desktop-big + 0px) {
+    @include row($width: $breakpoint-desktop-big, $if-max: true);
+  }
+}
+
+.row-left {
+  @include row($justify: flex-start);
+}
+
+.row-right {
+  @include row($justify: flex-end);
+}
+
+@for $i from 1 through $default-total-cols {
+  .col-#{$i} {
+    @include cols($colspan: 1, $total-cols: 1);
+
+    @media screen and (min-width: $breakpoint-phone-landscape + 0px) {
+      flex: 1 0 50%;
+    }
+
+    @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
+      @include cols($colspan: $i, $total-cols: $i);
+    }
+
+    @media screen and (min-width: $breakpoint-tablet-landscape + 0px) {
+      @include cols($colspan: $i);
+    }
+  }
+}
+
+@for $i from 1 through $default-total-cols {
+  .offset-#{$i} {margin-left: $i * 100 / $default-total-cols + 0%;}
+}

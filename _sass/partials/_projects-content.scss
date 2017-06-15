@@ -1,0 +1,17 @@
+.module__hm {
+  background: url('../images/HM_02.png');
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  width: 100vw;
+}
+
+.project-press-list {
+  display: flex;
+
+  li {
+    margin: 16 * $to-rems + rem;
+  }
+}

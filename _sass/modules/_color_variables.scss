@@ -1,0 +1,56 @@
+// =====================
+// Color variables
+// =====================
+
+// Color-Codes:
+$vivid-cyan: #11f1ed;
+$strong-cyan: #00b9b3;
+$dark-cyan: #1d9694;
+$prussian-blue: #253156;
+
+$pure-yellow: #ff0;
+$darker-yellow: #ffde00;
+
+$white: #fff;
+$grey: #aaa;
+$black: #000;
+
+$circle-white: rgba(255, 255, 255, .7);
+$quote-black: rgba(0, 0, 0, .8);
+$transparent: rgba(0, 0, 0, 0);
+$shadow-grey: rgba(0, 0, 0, .35);
+
+// Color-Theme
+$default-color: $strong-cyan;
+
+$highlight-color01: $pure-yellow;
+$highlight-color02: $dark-cyan;
+$highlight-color03: $darker-yellow;
+
+$text-color: $prussian-blue;
+$link-color: $vivid-cyan;
+$visited-link-color: $dark-cyan;
+
+$header-bg-color: $strong-cyan; // $transparent; //
+$header-text-color: $white;
+
+// Colors in Document
+$color-bg-section-title: $grey;
+$color-font-section-title: $white; // font-color muss über section > p {} gesetzt werden damit sie funktioniert!!
+
+$color-bg-section-info: $white;
+$color-font-section-info: $default-color;
+
+$color-bg-section-projects: $highlight-color02;
+$color-font-section-projects: $text-color;
+
+$color-bg-section-team: $highlight-color03;
+$color-font-section-team: $default-color;
+
+$color-bg-section-press: $white;
+
+$color-bg-section-contact: $highlight-color02;
+
+$color-bg-section-footer: $white;
+
+$color-bg-section-neutral: $white;

@@ -1,0 +1,51 @@
+%section {
+  @include section();
+}
+
+.section {
+  &__title {
+    @include section(
+      $padding-top: 0,
+      $add-padding: 0,
+      $padding-bottom: 0
+    );
+    background-color: $color-bg-section-title;
+  }
+
+  &__info {
+    @include section($add-padding: 124 * $to-rems + rem);
+    background-color: $color-bg-section-info;
+  }
+
+  &__projects {
+    @extend %section;
+    background-color: $color-bg-section-projects;
+  }
+
+  &__team {
+    @extend %section;
+    background-color: $color-bg-section-team;
+  }
+
+  &__press {
+    @extend %section;
+    background-color: $color-bg-section-press;
+  }
+
+  &__contact {
+    @extend %section;
+    background-color: $color-bg-section-contact;
+  }
+
+  &__footer {
+    background-color: $color-bg-section-footer;
+    padding-bottom: 3rem;
+    padding-top: $default-section-padding-top + $default-add-padding;
+    width: 100%;
+  }
+
+  &__neutral {
+    @include section($add-padding: 124 * $to-rems + rem);
+    background-color: $color-bg-section-neutral;
+  }
+}

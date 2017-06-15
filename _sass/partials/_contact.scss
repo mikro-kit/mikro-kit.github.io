@@ -1,0 +1,52 @@
+.contact-form {
+  &-text {
+    padding: 20 * $to-rems + rem;
+  }
+
+  &-input {
+
+    &__text,
+    &__textarea {
+      @extend %text;
+      border: {
+        color: $grey;
+        radius: 4px;
+        style: solid;
+        width: 1px;
+      }
+      margin: 16 * $to-rems + rem 0;
+      padding: 12 * $to-rems + rem;
+      width: 100%;
+    }
+
+    &__textarea {
+      height: 256 * $to-rems + rem;
+      resize: none;
+    }
+
+    &__submit {
+      background-color: $highlight-color02;
+      border: {
+        color: $white;
+        radius: 4px;
+        style: solid;
+        width: 3px;
+      }
+
+      color: $prussian-blue;
+      cursor: default;
+      font: {
+        family: $header-font-family;
+        size: 32 * $to-rems + rem;
+        weight: $header-font-weight;
+      }
+    }
+
+    &__submit:hover {
+      background-color: $highlight-color03;
+      border: {
+        color: $grey;
+      }
+    }
+  }
+}

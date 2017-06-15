@@ -26,7 +26,9 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
+sass:
+  sass_dir: _sass
+#theme: minima
 gems:
   - jekyll-feed
 exclude:

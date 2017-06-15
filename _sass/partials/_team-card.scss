@@ -1,0 +1,24 @@
+// .team-card__img in figures.scss
+.team-card {
+  align-items: center;
+  margin-bottom: 32 * $to-rems + rem;
+  padding: 20 * $to-rems + rem;
+
+  &__content {
+    padding: 32 * $to-rems + rem 0;
+  }
+
+  &__link {
+    align-items: flex-end;
+    display: inherit;
+  }
+
+  &__title {
+    //font-size: 32 * $to-rems + rem;
+    margin-bottom: 16 * $to-rems + rem;
+  }
+
+  &__text {
+    padding: 20 * $to-rems + rem;
+  }
+}

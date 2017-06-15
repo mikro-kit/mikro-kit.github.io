@@ -1,0 +1,32 @@
+// =====================
+// Grid Mixins
+// =====================
+
+@mixin row ($justify: $default-justify, $width: $default-width, $padding: $default-row-padding, $margin: $default-row-margin, $if-max: false) {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: $justify;
+  margin: $margin;
+  @if $if-max == true {
+    max-width: $width * $to-rems + rem;
+  }
+  width: 100%;
+}
+
+@mixin cols ($grow: 1, $colspan: $default-colspan, $total-cols: $default-total-cols) {
+  flex-grow: $grow;
+  flex-shrink: 0;
+  flex-basis: $colspan / $total-cols * 100 + 0%;
+}
+
+
+// =====================
+// Section Mixins
+// =====================
+
+@mixin section ($color: $default-color, $padding-top: $default-section-padding-top, $add-padding: $default-add-padding, $padding-bottom:  $default-section-padding-bottom) {
+  min-height: 100vh;
+  padding-top: $padding-top + $add-padding;
+  padding-bottom: $padding-bottom;
+  width: 100%;
+}

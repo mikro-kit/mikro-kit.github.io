@@ -1,0 +1,50 @@
+.press-list {
+  margin-bottom: 40 * $to-rems + rem;
+
+  h3 {
+    min-height: 64 * $to-rems + rem;
+
+  }
+
+  li {
+    background-color: $white;
+  }
+
+  &__title {
+    padding: 0 20 * $to-rems + rem;
+
+    &--home {
+      min-height: 64 * $to-rems + rem;
+      padding: 0 20 * $to-rems + rem;
+    }
+  }
+
+  &-link {
+    box-shadow: 0 2px 6px $shadow-grey;
+    display: inline-block;
+    margin: 20 * $to-rems + rem;
+    padding: 16 * $to-rems + rem;
+
+    &__title {
+      color: $visited-link-color;
+    }
+
+    &:hover &__title {
+      color: $link-color;
+    }
+
+    &__meta {
+      justify-content: flex-end;
+      padding-right: 20 * $to-rems + rem;
+    }
+
+    p {
+      font-size: 12 * $to-rems + rem;
+      letter-spacing: 3 * $to-rems + rem;
+    }
+
+    &__author {
+      font-weight: $fw-bold;
+    }
+  }
+}

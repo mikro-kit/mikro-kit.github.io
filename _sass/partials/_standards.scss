@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: $link-color;
+}
+
+body {
+  min-height: 100vh;
+  position: relative;
+}
+
+a {
+  display: inline-block;
+}

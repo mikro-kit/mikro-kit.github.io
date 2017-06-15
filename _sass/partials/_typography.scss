@@ -1,0 +1,128 @@
+%text {
+  color: $text-color;
+  font: {
+    family: $base-font-family;
+    size: 14 * $to-rems + rem;
+    weight: $light;
+  }
+  letter-spacing: .05rem;
+  line-height: 24 * $to-rems + rem;
+}
+
+%headlinetext {
+  color: $text-color;
+  font-family: $header-font-family;
+  font-weight: $fw-black;
+  letter-spacing: 2 * $to-rems + rem;
+}
+
+%headertext {
+  color: $header-text-color;
+  font: {
+    family: $header-alt-font-family;
+    size: 24 * $to-rems + rem;
+    weight: $header-font-weight;
+  }
+  letter-spacing: 2 * $to-rems + rem;
+}
+
+h1 {
+  @extend %headertext;
+}
+
+h2 {
+  @extend %headlinetext;
+  color: lighten($highlight-color02, 3%);
+  font-size: 3rem;
+  padding: 40 * $to-rems + rem 20 * $to-rems + rem;
+}
+
+h3 {
+  @extend %headlinetext;
+  font-size: 1.5rem;
+  line-height: 32 * $to-rems + rem;
+}
+
+h4 {
+  @extend %headlinetext;
+  font-size: 1.25rem;
+  letter-spacing: .55rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h5 {
+  @extend %headlinetext;
+  font-size: 1rem;
+  font-weight: $light;
+  text-align: center;
+}
+
+h6 {
+  @extend %headlinetext;
+  font-size: 1rem;
+  line-height: 24 * $to-rems + rem;
+}
+
+p {
+  @extend %text;
+  padding-bottom: 28 * $to-rems + rem;
+
+  > a {
+    color: $link-color;
+    text-decoration: underline;
+
+    &:visted {
+      color: $visited-link-color;
+    }
+
+    &:hover {
+      color: $visited-link-color;
+    }
+  }
+}
+
+strong {
+  font-weight: $fw-bold;
+}
+
+ul {
+  li {
+    @extend %text;
+  }
+}
+
+%menutext {
+  @extend %headertext;
+  font: {
+    family: $header-font-family;
+    weight: $regular;
+  }
+}
+
+.header__menu-top {
+  @extend %menutext;
+}
+
+.drawer__menu {
+  @extend %menutext;
+}
+
+.header__title {
+  //text-shadow: 0 2px 1px $shadow-grey;
+}
+
+.header__switch-lang-btn {
+  @extend %headertext;
+}
+
+.content__info > p,
+.content__project-item > p {
+  @extend %text;
+
+  @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
+    font-size: 24 * $to-rems + rem;
+    line-height: 1.8;
+    padding: 12 * $to-rems + rem 0;
+  }
+}
