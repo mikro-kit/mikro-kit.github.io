@@ -8,7 +8,7 @@
   justify-content: $justify;
   margin: $margin;
   @if $if-max == true {
-    max-width: $width * $to-rems + rem;
+    max-width: $width * $to-rems;
   }
   width: 100%;
 }

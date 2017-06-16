@@ -1,6 +1,13 @@
 .contact-form {
-  &-text {
-    padding: 20 * $to-rems + rem;
+  &-text,
+  &-form {
+    @include cols($colspan: 1, $total-cols: 1);
+
+    @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
+      @include cols($colspan: 6);
+    }
+
+    padding: 20 * $to-rems;
   }
 
   &-input {
@@ -9,44 +16,42 @@
     &__textarea {
       @extend %text;
       border: {
-        color: $grey;
+        color: $black;
         radius: 4px;
-        style: solid;
+        style: none;
         width: 1px;
       }
-      margin: 16 * $to-rems + rem 0;
-      padding: 12 * $to-rems + rem;
+      margin: 16 * $to-rems 0;
+      padding: 12 * $to-rems;
       width: 100%;
     }
 
     &__textarea {
-      height: 256 * $to-rems + rem;
+      height: 256 * $to-rems;
       resize: none;
     }
 
     &__submit {
-      background-color: $highlight-color02;
+      background-color: $color-bg-section-contact;
       border: {
         color: $white;
         radius: 4px;
         style: solid;
-        width: 3px;
+        width: 1px;
       }
-
-      color: $prussian-blue;
-      cursor: default;
+      color: $white;
+      cursor: pointer;
       font: {
         family: $header-font-family;
-        size: 32 * $to-rems + rem;
-        weight: $header-font-weight;
+        size: 16 * $to-rems;
+        weight: $regular;
       }
+      padding: 8 * $to-rems 16 * $to-rems;
     }
 
     &__submit:hover {
-      background-color: $highlight-color03;
-      border: {
-        color: $grey;
-      }
+      background-color: $white;
+      color: $color-bg-section-contact;
     }
   }
 }

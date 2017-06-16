@@ -11,7 +11,7 @@ $fw-black: 900;
 // Base Font
 $base-font-family: 'Merriweather Sans', sans-serif;
 $base-font-weight: $light;
-$base-font-size: 13 * $to-rems + rem;
+$base-font-size: 13 * $to-rems;
 $base-line-height: 1.4;
 
 // Fixed Font
@@ -22,7 +22,7 @@ $fixed-line-height: $base-line-height;
 // Headings
 $header-font-family: 'Montserrat', sans-serif;
 $header-font-weight: $fw-bold;
-$header-font-size: 13 * $to-rems + rem;
+$header-font-size: 13 * $to-rems;
 $header-line-height: 1.4;
 
 $header-alt-font-family: 'Montserrat Alternates', sans-serif;

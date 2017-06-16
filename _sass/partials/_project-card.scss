@@ -1,22 +1,22 @@
 // .project-card__img in figures.scss
 .project-card {
   align-items: center;
-  margin-bottom: 64 * $to-rems + rem;
-  padding: 20 * $to-rems + rem;
+  margin-bottom: 64 * $to-rems;
+  padding: 20 * $to-rems;
 
   &__content {
-    padding: 48 * $to-rems + rem 0 0;
+    padding: 48 * $to-rems 0 0;
 
     @media screen and (min-width: $breakpoint-phone-landscape + 0px) {
-      padding: 0 0 0 20 * $to-rems + rem;
+      padding: 0 0 0 20 * $to-rems;
     }
 
     @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
-      padding: 48 * $to-rems + rem 0 0;
+      padding: 48 * $to-rems 0 0;
     }
 
     @media screen and (min-width: $breakpoint-tablet-landscape + 0px) {
-      padding: 0 0 0 20 * $to-rems + rem;
+      padding: 0 0 0 20 * $to-rems;
     }
   }
 
@@ -26,7 +26,7 @@
     width: 100%;
 
     @media screen and (min-width: $breakpoint-phone-landscape + 0px) {
-      padding: 0 20 * $to-rems + rem 0 0;
+      padding: 0 20 * $to-rems 0 0;
     }
 
     @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
@@ -34,7 +34,7 @@
     }
 
     @media screen and (min-width: $breakpoint-tablet-landscape + 0px) {
-      padding: 0 20 * $to-rems + rem 0 0;
+      padding: 0 20 * $to-rems 0 0;
     }
   }
 
@@ -54,26 +54,26 @@
 
   &__meta {
     font-weight: $fw-bold;
-    margin: 16 * $to-rems + rem 0 0;
+    margin: 16 * $to-rems 0 0;
     text-align: right;
 
     @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
-      margin: 16 * $to-rems + rem 0 32 * $to-rems + rem;
+      margin: 16 * $to-rems 0 32 * $to-rems;
     }
 
     span {
       letter-spacing: 0;
-      padding: 0 .5 * $to-rems + rem;
+      padding: 0 .5 * $to-rems;
     }
   }
 
   &__title {
-    font-size: 32 * $to-rems + rem;
-    line-height: 32 * $to-rems + rem;
+    font-size: 32 * $to-rems;
+    line-height: 32 * $to-rems;
 
     @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
-      font-size: 64 * $to-rems + rem;
-      line-height: 64 * $to-rems + rem;
+      font-size: 64 * $to-rems;
+      line-height: 64 * $to-rems;
     }
   }
 }

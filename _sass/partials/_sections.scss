@@ -13,7 +13,7 @@
   }
 
   &__info {
-    @include section($add-padding: 124 * $to-rems + rem);
+    @include section($add-padding: 124 * $to-rems);
     background-color: $color-bg-section-info;
   }
 
@@ -45,7 +45,7 @@
   }
 
   &__neutral {
-    @include section($add-padding: 124 * $to-rems + rem);
+    @include section($add-padding: 124 * $to-rems);
     background-color: $color-bg-section-neutral;
   }
 }

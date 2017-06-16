@@ -1,11 +1,20 @@
-// .team-card__img in figures.scss
 .team-card {
+  @include cols($colspan: 1, $total-cols: 1);
+
+  @media screen and (min-width: $breakpoint-phone-landscape + 0px) {
+    flex: 1 0 50%;
+  }
+
+  @media screen and (min-width: $breakpoint-tablet-landscape + 0px) {
+    @include cols($colspan: 3);
+  }
+
   align-items: center;
-  margin-bottom: 32 * $to-rems + rem;
-  padding: 20 * $to-rems + rem;
+  margin-bottom: 32 * $to-rems;
+  padding: 20 * $to-rems;
 
   &__content {
-    padding: 32 * $to-rems + rem 0;
+    padding: 32 * $to-rems 0;
   }
 
   &__link {
@@ -13,12 +22,19 @@
     display: inherit;
   }
 
+  &__img {
+    img {
+      height: auto;
+      width: 100%;
+    }
+  }
+
   &__title {
-    //font-size: 32 * $to-rems + rem;
-    margin-bottom: 16 * $to-rems + rem;
+    //font-size: 32 * $to-rems;
+    margin-bottom: 16 * $to-rems;
   }
 
   &__text {
-    padding: 20 * $to-rems + rem;
+    padding: 20 * $to-rems;
   }
 }
