@@ -7,7 +7,7 @@
       @include cols($colspan: 6);
     }
 
-    padding: 20 * $to-rems;
+    padding: 20 * $to-rems + rem;
   }
 
   &-input {
@@ -21,13 +21,13 @@
         style: none;
         width: 1px;
       }
-      margin: 16 * $to-rems 0;
-      padding: 12 * $to-rems;
+      margin: 16 * $to-rems + rem 0;
+      padding: 12 * $to-rems + rem;
       width: 100%;
     }
 
     &__textarea {
-      height: 256 * $to-rems;
+      height: 256 * $to-rems + rem;
       resize: none;
     }
 
@@ -43,10 +43,10 @@
       cursor: pointer;
       font: {
         family: $header-font-family;
-        size: 16 * $to-rems;
+        size: 16 * $to-rems + rem;
         weight: $regular;
       }
-      padding: 8 * $to-rems 16 * $to-rems;
+      padding: 8 * $to-rems + rem 16 * $to-rems + rem;
     }
 
     &__submit:hover {

@@ -10,11 +10,11 @@
   }
 
   align-items: center;
-  margin-bottom: 32 * $to-rems;
-  padding: 20 * $to-rems;
+  margin-bottom: 32 * $to-rems + rem;
+  padding: 20 * $to-rems + rem;
 
   &__content {
-    padding: 32 * $to-rems 0;
+    padding: 32 * $to-rems + rem 0;
   }
 
   &__link {
@@ -30,11 +30,10 @@
   }
 
   &__title {
-    //font-size: 32 * $to-rems;
-    margin-bottom: 16 * $to-rems;
+    margin-bottom: 16 * $to-rems + rem;
   }
 
   &__text {
-    padding: 20 * $to-rems;
+    padding: 20 * $to-rems + rem;
   }
 }

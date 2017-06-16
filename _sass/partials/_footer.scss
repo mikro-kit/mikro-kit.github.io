@@ -1,18 +1,18 @@
 .footer-list {
   &-title {
-    padding: 16 * $to-rems 0;
+    padding: 16 * $to-rems + rem 0;
   }
 
   &-item {
     color: $grey;
     font: {
       family: $header-font-family;
-      size: 16 * $to-rems;
+      size: 16 * $to-rems + rem;
       weight: $regular;
     }
 
     letter-spacing: .0rem;
-    padding: 8 * $to-rems 0;
+    padding: 8 * $to-rems + rem 0;
 
     &:hover {
       color: $black;
@@ -22,5 +22,5 @@
 
 .footer-copyright-link {
   justify-content: space-between;
-  padding: 72 * $to-rems 20 * $to-rems 0;
+  padding: 72 * $to-rems + rem 20 * $to-rems + rem 0;
 }

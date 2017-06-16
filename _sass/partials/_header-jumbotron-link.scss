@@ -10,10 +10,10 @@
   }
 
   &__text {
-    padding: 32 * $to-rems 64 * $to-rems;
+    padding: 32 * $to-rems + rem 64 * $to-rems + rem;
 
     a {
-      border-bottom: 8 * $to-rems solid $white;
+      border-bottom: 8 * $to-rems + rem solid $white;
       cursor: pointer;
 
       h3 {
@@ -22,7 +22,7 @@
       }
 
       &:hover {
-        border-bottom: 8 * $to-rems solid $visited-link-color;
+        border-bottom: 8 * $to-rems + rem solid $visited-link-color;
 
         h3 {
           color: $visited-link-color;

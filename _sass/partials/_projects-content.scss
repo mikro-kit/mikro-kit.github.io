@@ -12,6 +12,6 @@
   display: flex;
 
   li {
-    margin: 16 * $to-rems;
+    margin: 16 * $to-rems + rem;
   }
 }

@@ -8,7 +8,7 @@
   justify-content: $justify;
   margin: $margin;
   @if $if-max == true {
-    max-width: $width * $to-rems;
+    max-width: $width * $to-rems + rem;
   }
   width: 100%;
 }
@@ -26,7 +26,7 @@
 
 @mixin section ($color: $default-color, $padding-top: $default-section-padding-top, $add-padding: $default-add-padding, $padding-bottom:  $default-section-padding-bottom) {
   min-height: 100vh;
-  padding-top: $padding-top + $add-padding;
-  padding-bottom: $padding-bottom;
+  padding-top: $padding-top + $add-padding + rem;
+  padding-bottom: $padding-bottom + rem;
   width: 100%;
 }

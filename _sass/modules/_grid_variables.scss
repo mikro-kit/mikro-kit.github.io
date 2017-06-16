@@ -9,7 +9,7 @@ $default-margin-bottom: 0;
 $default-margin-top: 0;
 $default-padding: 20 * $to-rems;
 $default-row-margin: 0 auto;
-$default-row-padding: 20 * $to-rems 0;
+$default-row-padding: 20 * $to-rems + rem 0;
 $default-section-padding-top: 44 * $to-rems;
 $default-add-padding: 0;
 $default-section-padding-bottom: 192 * $to-rems;

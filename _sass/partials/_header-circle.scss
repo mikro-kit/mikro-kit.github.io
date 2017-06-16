@@ -58,29 +58,29 @@
     }
 
     &--quote {
-      font-size: 24 * $to-rems;
+      font-size: 24 * $to-rems + rem;
       font-style: italic;
       letter-spacing: .1rem;
-      line-height: 32 * $to-rems;
+      line-height: 32 * $to-rems + rem;
       padding-bottom: 0;
 
       @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
-        font-size: 48 * $to-rems;
-        line-height: 56 * $to-rems;
+        font-size: 48 * $to-rems + rem;
+        line-height: 56 * $to-rems + rem;
         margin-bottom: inherit;
-        padding-bottom: 28 * $to-rems;
+        padding-bottom: 28 * $to-rems + rem;
       }
     }
 
     &--speaker {
-      font-size: 12 * $to-rems;
+      font-size: 12 * $to-rems + rem;
       font-weight: $fw-bold;
       letter-spacing: .2rem;
-      margin-top: 16 * $to-rems;
+      margin-top: 16 * $to-rems + rem;
       text-transform: uppercase;
 
       @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
-        font-size: 16 * $to-rems;
+        font-size: 16 * $to-rems + rem;
       }
     }
   }

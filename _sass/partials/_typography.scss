@@ -2,28 +2,28 @@
   color: $text-color;
   font: {
     family: $base-font-family;
-    size: 14 * $to-rems;
+    size: 14 * $to-rems + rem;
     weight: $light;
   }
   letter-spacing: .05rem;
-  line-height: 24 * $to-rems;
+  line-height: 24 * $to-rems + rem;
 }
 
 %headlinetext {
   color: $text-color;
   font-family: $header-font-family;
   font-weight: $fw-black;
-  letter-spacing: 2 * $to-rems;
+  letter-spacing: 2 * $to-rems + rem;
 }
 
 %headertext {
   color: $header-text-color;
   font: {
     family: $header-alt-font-family;
-    size: 24 * $to-rems;
+    size: 24 * $to-rems + rem;
     weight: $header-font-weight;
   }
-  letter-spacing: 2 * $to-rems;
+  letter-spacing: 2 * $to-rems + rem;
 }
 
 h1 {
@@ -34,13 +34,13 @@ h2 {
   @extend %headlinetext;
   color: lighten($highlight-color02, 3%);
   font-size: 3rem;
-  padding: 40 * $to-rems 20 * $to-rems;
+  padding: 40 * $to-rems + rem 20 * $to-rems + rem;
 }
 
 h3 {
   @extend %headlinetext;
   font-size: 1.5rem;
-  line-height: 32 * $to-rems;
+  line-height: 32 * $to-rems + rem;
 }
 
 h4 {
@@ -61,12 +61,12 @@ h5 {
 h6 {
   @extend %headlinetext;
   font-size: 1rem;
-  line-height: 24 * $to-rems;
+  line-height: 24 * $to-rems + rem;
 }
 
 p {
   @extend %text;
-  padding-bottom: 28 * $to-rems;
+  padding-bottom: 28 * $to-rems + rem;
 
   > a {
     color: $link-color;
@@ -121,8 +121,8 @@ ul {
   @extend %text;
 
   @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
-    font-size: 24 * $to-rems;
+    font-size: 24 * $to-rems + rem;
     line-height: 1.8;
-    padding: 12 * $to-rems 0;
+    padding: 12 * $to-rems + rem 0;
   }
 }

@@ -1,26 +1,26 @@
 .page-team {
   .section__team {
     .team-member {
-      padding-top: 80 * $to-rems;
+      padding-top: 80 * $to-rems + rem;
     }
 
     .team-member__title {
-      padding: 20 * $to-rems;
+      padding: 20 * $to-rems + rem;
     }
 
     &-vita {
-      padding: 20 * $to-rems;
+      padding: 20 * $to-rems + rem;
 
       ul {
         li {
-          padding: 8 * $to-rems 0;
+          padding: 8 * $to-rems + rem 0;
         }
       }
     }
 
     &-img {
       min-width: 100%;
-      padding: 26 * $to-rems 20 * $to-rems;
+      padding: 26 * $to-rems + rem 20 * $to-rems + rem;
     }
   }
 }

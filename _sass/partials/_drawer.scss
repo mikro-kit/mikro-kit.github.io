@@ -1,7 +1,7 @@
 .drawer {
   background-color: $highlight-color03;
   display: block;
-  padding: 54 * $to-rems 16 * $to-rems 18 * $to-rems;
+  padding: 54 * $to-rems + rem 16 * $to-rems + rem 18 * $to-rems + rem;
   position: fixed;
   width: 80%;
 
@@ -9,7 +9,7 @@
 
     &-item {
       display: block;
-      margin: 9 * $to-rems 0;
+      margin: 9 * $to-rems + rem 0;
     }
 
   }
