@@ -1,9 +1,9 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="">
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title></title>
+  <title>{{ site.title | escape }}{% if page.title %}{{ page.title | escape | prepend:' | '  }}{% endif %}</title>
 
   <!-- Disable tap highlight on IE -->
   <meta name="msapplication-tap-highlight" content="no">
@@ -13,13 +13,13 @@
 
   <!-- Add to homescreen for Chrome on Android -->
   <meta name="mobile-web-app-capable" content="yes">
-  <meta name="application-name" content="mikro-kit">
+  <meta name="application-name" content="{{ site.title | escape }}">
   <link rel="icon" sizes="192x192" href="images/touch/chrome-touch-icon-192x192.png">
 
   <!-- Add to homescreen for Safari on iOS -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="Web Starter Kit">
+  <meta name="apple-mobile-web-app-title" content="{{ site.title | escape }}">
   <link rel="apple-touch-icon" href="images/touch/apple-touch-icon.png">
 
   <!-- Tile icon for Win8 (144x144 + tile color) -->
@@ -31,5 +31,5 @@
 
   <!-- Your styles -->
   <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Montserrat+Alternates:400,700|Merriweather+Sans:300,700,900|Libre+Baskerville:400i,700' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="assets/main.css">
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 </head>
