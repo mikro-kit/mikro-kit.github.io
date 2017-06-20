@@ -1,7 +1,7 @@
 header {
   background-color: $header-bg-color;
   border-bottom: 1px solid $visited-link-color;
-  height: 60 * $to-rems + rem;
+  height: $header-height * $to-rems + rem;
   padding-top: 20 * $to-rems + rem;
   position: fixed;
   width: 100%;
