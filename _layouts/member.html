@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<main class="page-team">
+  <div class="section__team">
+    <div class="row">
+      <h2 class="col-12">team</h2>
+    </div>
+    {% for member in site.members %}
+    <div class="row team-member" id="{{ member.title }}">
+      <div class="row"><h4 class="team-member__title">{{ member.title }}</h4></div>
+      <div class="row">
+        <div class="col-5"><img class="section__team-img" src="{{ member.image | prepend: "/assets/images/" | relative_url}}" alt=""></div>
+        <div class="col-7 section__team-vita">
+          {{ content }}
+        </div>
+      </div>
+    </div> <!-- end team-member -->
+    {% endfor %}
+  </div>
+</main>

@@ -30,6 +30,11 @@ markdown: kramdown
 sass:
   sass_dir: _sass
 
+collections:
+  members:
+    output: true
+    permalink: /:collection/:name
+
 github: [metadata]
 #theme: minima
 gems:
