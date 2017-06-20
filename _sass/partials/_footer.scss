@@ -1,10 +1,13 @@
 .footer-list {
+  padding: 0;
+
   &-title {
     padding: 16 * $to-rems + rem 0;
   }
 
   &-item {
     color: $grey;
+    display: block;
     font: {
       family: $header-font-family;
       size: 16 * $to-rems + rem;

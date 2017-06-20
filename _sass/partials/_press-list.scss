@@ -5,6 +5,7 @@
 
   justify-content: center;
   margin-bottom: 40 * $to-rems + rem;
+  padding: 0;
 
   h3 {
     min-height: 64 * $to-rems + rem;
@@ -13,6 +14,7 @@
 
   li {
     background-color: $white;
+    display: inline;
   }
 
   &__title {

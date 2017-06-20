@@ -12,6 +12,12 @@
     background-color: $color-bg-section-title;
   }
 
+  &__heading {
+    @include cols(12);
+    margin: 0;
+    padding: 40 * $to-rems + rem 20 * $to-rems + rem;
+  }
+
   &__info {
     @include section($add-padding: 124 * $to-rems);
     background-color: $color-bg-section-info;

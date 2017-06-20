@@ -30,7 +30,19 @@
   }
 
   &__title {
+    @extend %headlinetext;
+    font-size: 1.25rem;
+    letter-spacing: .55rem;
     margin-bottom: 16 * $to-rems + rem;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  &__ut {
+    @extend %headlinetext;
+    font-size: 1rem;
+    font-weight: $light;
+    text-align: center;
   }
 
   &__text {

@@ -2,12 +2,8 @@
 layout: default
 ---
 
-<main>
+{% include jumbotron.html %}
 
-  {% include jumbotron.html %}
+{{ content }}
 
-  {{ content }}
-
-  {% include prototype.html %}
-
-</main>
+{% include prototype.html %}
