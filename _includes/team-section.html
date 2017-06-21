@@ -1,0 +1,27 @@
+<div class="section__team" id="Team">
+  <div class="row">
+    <h2 class="section__heading">team</h2>
+  </div>
+  <div class="row content__team">
+
+  {% for member in site.members %}
+
+    <div class="team-card">
+      <a href="/team.html#{{ member.title | replace:' ', '-' }}" class="team-card__link">
+        <div class="team-card__img">
+          <img src="{{ member.image | prepend: "/assets/images/" | relative_url}}" alt="">
+        </div>
+        <div class="team-card__content">
+          <div class="team-card__title">{{ member.title }}</div>
+          <div class="team-card__ut">{{ member.role }}</div>
+          <div class="team-card__text">
+            {{ member.excerpt }}
+          </div>
+        </div>
+      </a>
+    </div>
+
+    {% endfor %}
+
+  </div> <!-- end content__team -->
+</div> <!-- end section__team -->

@@ -1,7 +1,8 @@
 ---
-title: Magali Tosato
 layout: member
+title: Magali Tosato
 image: mt.webp
+role: Regie
 ---
 
 Von 2010 bis 2014 studierte Magali Tosato Regie an der HfS Ernst Busch Berlin. Sie arbeitete außerdem als Regieassistentin und Dramaturgin in verschiedenen Kompanien in der Romandie (u.a. Cie Gianni Schneider, Cie Pasquier-Rossier, Cie Un Air de Rien, Cie FullPetalMachine).
