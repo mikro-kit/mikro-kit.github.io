@@ -3,21 +3,30 @@
     <h2 class="section__heading">projekte</h2>
   </div>
   <ul class="row content__projects">
+
+  {% assign projects = site.projects | sort: "year" | reverse %}
+
+  {% for project in projects %}
+
     <li class="row project-card">
-      <a href="/projects.html" class="project-card__link">
+      <a href="{{ project.url | relative_url }}" class="project-card__link">
         <div class="col-8">
-          <img src="http://lorempixel.com/480/480/nightlife" alt="" class="project-card__img">
+          {% capture dir %}/assets/images/projects/{{ project.title | replace:' ', '-' | downcase }}/{% endcapture %}
+          <img src="{{ project.image | prepend: dir | relative_url}}" alt="" class="project-card__img">
         </div>
         <div class="col-4">
           <div class="project-card__content">
-            <h3 class="project-card__title">Luxus / Liebe</h3>
-            <p class="project-card__meta"><span class="project-card__meta-year">2017</span>–<span class="project-card__meta-location">Theatre de Vidy, Lausanne</span></p>
-            <p class="project-card__text">Project-Card01 - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae ut, incidunt dolores sit laborum cumque vitae eum magnam, aliquam dolorum cupiditate cum nobis natus molestias</p>
+            <h3 class="project-card__title">{{ project.title }}</h3>
+            <p class="project-card__meta"><span class="project-card__meta-year">{{ project.year }}</span>–<span class="project-card__meta-location">{{ project.location }}</span></p>
+            {{ project.excerpt }}
           </div>
         </div>
       </a>
     </li>
-    <li class="row project-card">
+
+    {% endfor %}
+
+    <!-- <li class="row project-card">
       <a href="" class="project-card__link">
         <div class="col-8">
           <img src="http://lorempixel.com/480/480/nightlife" alt="" class="project-card__img">
@@ -72,6 +81,6 @@
           </div>
         </div>
       </a>
-    </li>
+    </li> -->
   </ul> <!-- end content__projects -->
 </div> <!-- end section__projects -->

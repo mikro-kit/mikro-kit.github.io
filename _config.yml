@@ -30,10 +30,14 @@ markdown: kramdown
 sass:
   sass_dir: _sass
 
+# Collections
 collections:
-  members:
-    output: false
+  projects:
+    output: true
     permalink: /:collection/:name
+
+  members:
+
 
 github: [metadata]
 #theme: minima
