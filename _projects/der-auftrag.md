@@ -2,7 +2,7 @@
 layout: project
 title: Der Auftrag
 subtitle:
-image: DA_01.png
+image: DA-01.jpg
 year: 2015
 location: BAt, Berlin
 ---
