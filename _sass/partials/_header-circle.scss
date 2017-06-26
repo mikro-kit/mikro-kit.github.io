@@ -1,22 +1,3 @@
-.section__title img {
-  height: auto;
-  width: 100%;
-}
-
-.module {
-  background: url('../assets/images/projects/der-auftrag/DA-01.jpg');
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: auto;
-  height: 100vh;
-  overflow: hidden;
-  width: 100vw;
-
-  @media screen and (min-width: $breakpoint-desktop-big + 0px) {
-    background-size: 100%;
-  }
-}
-
 .header-circle {
   &__parent {
     align-items: center;
@@ -25,7 +6,6 @@
     justify-content: center;
     margin-bottom: -100vh;
     position: relative;
-    top: -100vh;
   }
 
   &__quote {
