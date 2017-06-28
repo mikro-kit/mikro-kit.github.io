@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Franziska Keune
-image: fk.webp
+image: fk
 role: Bühnenbild
 ---
 Franziska Keune assistierte nach dem Abitur am Deutschen Theater Berlin, der Volksbühne Berlin sowie dem Hans-Otto-Theater in Potsdam. Daraufhin studierte sie Bühnenbild an der Universität der Künste Berlin und absolvierte 2012 mit der Oper **„Calisto“** (R: Matthias Schönfeldt) ihr Diplom.

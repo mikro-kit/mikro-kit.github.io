@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Jakob Klaffs
-image: jk.webp
+image: jk
 role: Video
 ---
 Geboren 1981 in Hamburg. Seit Abschluss seines Studiums der Musiktheater-Regie an der Theaterakademie Hamburg arbeitet  Jakob Klaffs als Videokünstler. Neben Kurzfilmen, Musikvideos und Dokumentationen entwickelt er vor allem Videoinstallationen für Theater- und Opernproduktionen.

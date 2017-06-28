@@ -6,10 +6,24 @@ layout: default
     <h1 class="section__heading">team</h1>
   </div>
   {% for member in site.members %}
+
+  {% capture memberpath %}{{ member.image | prepend: "/assets/images/team/" }}_team-{% endcapture %}
+  {% assign picWidth = '427 768 854 1134' | split: ' ' %}
+  {% capture srcsetString %}
+    {% for item in picWidth %}
+      {% if forloop.last %}
+        {% capture appendix %}{{ item }}.jpg {{ item }}w{% endcapture %}
+      {% else %}
+        {% capture appendix %}{{ item }}.jpg {{ item }}w,{% endcapture %}
+      {% endif %}
+      {{ memberpath | append: appendix }}
+    {% endfor %}
+  {% endcapture %}
+
   <div class="row team-member" id="{{ member.title | replace:' ', '-' }}">
     <div class="row"><h4 class="team-member__title">{{ member.title }}</h4></div>
     <div class="row">
-      <div class="col-5"><img class="section__team-img" src="{{ member.image | prepend: "/assets/images/team/" | relative_url}}" alt=""></div>
+      <div class="col-5"><img class="section__team-img" src="{{ memberpath | prepend: "1134.jpg" | relative_url}}" alt="" srcset="{{ srcsetString }}"></div>
       <div class="col-7 section__team-vita">
         {{ member.content }}
       </div>

@@ -33,6 +33,7 @@
     @extend %headlinetext;
     font-size: 1.25rem;
     letter-spacing: .55rem;
+    line-height: 1.5rem;
     margin-bottom: 16 * $to-rems + rem;
     text-align: center;
     text-transform: uppercase;
@@ -46,6 +47,6 @@
   }
 
   &__text {
-    padding: 20 * $to-rems + rem;
+    padding: 20 * $to-rems + rem 0;
   }
 }

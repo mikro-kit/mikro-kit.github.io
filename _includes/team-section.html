@@ -6,10 +6,23 @@
 
   {% for member in site.members %}
 
+  {% capture memberpath %}{{ member.image | prepend: "/assets/images/team/" }}_home-{% endcapture %}
+  {% assign picWidth = '216 260 343 432 520 527 686 1054' | split: ' ' %}
+  {% capture srcsetString %}
+    {% for item in picWidth %}
+      {% if forloop.last %}
+        {% capture appendix %}{{ item }}.jpg {{ item }}w{% endcapture %}
+      {% else %}
+        {% capture appendix %}{{ item }}.jpg {{ item }}w,{% endcapture %}
+      {% endif %}
+      {{ memberpath | append: appendix }}
+    {% endfor %}
+  {% endcapture %}
+
     <div class="team-card">
       <a href="/team.html#{{ member.title | replace:' ', '-' }}" class="team-card__link">
         <div class="team-card__img">
-          <img src="{{ member.image | prepend: "/assets/images/team/" | relative_url }}" alt="">
+          <img src="{{ memberpath | append: "1054.jpg" }}" alt="" srcset="{{ srcsetString }}">
         </div>
         <div class="team-card__content">
           <div class="team-card__title">{{ member.title }}</div>

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Magali Tosato
-image: mt.webp
+image: mt
 role: Regie
 ---
 

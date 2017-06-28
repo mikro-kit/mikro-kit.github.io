@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Lydia Dimitrow
-image: ld.webp
+image: ld
 role: Dramaturgie
 ---
 Lydia Dimitrow studiert seit 2008 Allgemeine und Vergleichende Literaturwissenschaft, französische Philologie und Neuere Deutsche Literatur an der FU Berlin und an der Université de Lausanne, hat 2012 mit dem Bachelor abgeschlossen und befindet sich derzeit im Masterstudium.
