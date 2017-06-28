@@ -5,11 +5,13 @@
     height: 100vh;
     justify-content: flex-end;
     margin-bottom: -100vh;
+    pointer-events: none;
     position: relative;
   }
 
   &__text {
     padding: 32 * $to-rems + rem 64 * $to-rems + rem;
+    pointer-events: all;
 
     a {
       border-bottom: 8 * $to-rems + rem solid $white;
@@ -17,14 +19,14 @@
 
       h3 {
         color: $white;
-        text-shadow: 0 3px 0px $shadow-grey;
+        text-shadow: 0 3px 0 $shadow-grey;
       }
 
       &:hover {
-        border-bottom: 8 * $to-rems + rem solid $visited-link-color;
+        border-bottom: 8 * $to-rems + rem solid $link-color;
 
         h3 {
-          color: $visited-link-color;
+          color: $link-color;
         }
       }
     }
