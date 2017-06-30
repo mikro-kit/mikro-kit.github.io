@@ -50,8 +50,6 @@ var turbotron = (function() {
     offsets = Array.apply(null, {length: turbotronLength}).map(function(value, index) {
       return (index - 1) * -1 * (Math.round(10000 / turbotronLength) / 100);
     });
-    console.log(turbotronLength);
-    console.log(offsets);
     addEventListeners();
   }
 

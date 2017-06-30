@@ -102,19 +102,27 @@
   color: $white;
   font-size: 3rem;
   opacity: .7;
+  padding: 1rem;
   text-shadow: 0 2px 1px $black;
   transition: opacity .3s ease-in-out;
   will-change: opacity;
 }
 
+#btn-prev {
+  justify-content: flex-start;
+}
+
+#btn-next {
+  justify-content: flex-end;
+}
+
 .button-field {
   align-items: center;
   display: flex;
-  height: 8vw;
-  justify-content: center;
+  height: 20vw;
   min-width: 70px;
   pointer-events: all;
-  width: 8vw;
+  width: 20vw;
 
   &:hover {
     cursor: pointer;
