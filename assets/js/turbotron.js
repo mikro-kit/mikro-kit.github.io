@@ -25,6 +25,7 @@ var turbotron = (function() {
   var click = true;
   var prevDirection = 1;
   var translateX = 0;
+  var moveDirection = 0;
 
   // Variables for touch
   var draggingPic = false;
@@ -35,9 +36,7 @@ var turbotron = (function() {
   var triggerTreshold = 0;
 
   // Variables to resize
-  var thresholdValue = 0.05;
-  var imageWidth = 0;
-  var threshold = 0;
+  var threshold = 4.5;
 
   //////////////////////
   // Functions
@@ -48,9 +47,7 @@ var turbotron = (function() {
     offsets = Array.apply(null, {length: turbotronLength}).map(function(value, index) {
       return (index - 1) * -1 * baseOffset;
     });
-    Inner.style.width = turbotronLength * 100 + '%';
-    Inner.style.left = offsets[slide] + '%';
-    console.log(offsets);
+    //console.log(offsets);
     addEventListeners();
   }
 
@@ -60,7 +57,7 @@ var turbotron = (function() {
   function changeSlide() {
     //console.log('changeSlide');
     slide = (slide + turbotronLength + 1 * prevDirection) % turbotronLength;
-    console.log('chhangeSlide slide: ' + slide);
+    //console.log('changeSlide slide: ' + slide);
     window.requestAnimationFrame(moveSlide);
   }
 
@@ -71,39 +68,39 @@ var turbotron = (function() {
     // captionBox.style.transform = 'translate(' + translateCaption[slide] + '%, 0%)';
     // indicators[oldSlide].style.opacity = '0';
     // indicators[slide].style.opacity = '1';
-    Inner.addEventListener('transitionend', checkSlide, false);
+    Inner.addEventListener('transitionend', endTransition, false);
   }
 
   function checkSlide() {
-    if (slide == 0) {
-      console.log('if slide: ' + slide);
+    if (slide == 0 && prevDirection < 0) {
+      //console.log('if slide: ' + slide);
       switchSlide(false);
-    } else if (slide == turbotronLength - 1) {
-      console.log('else if slide: ' + slide);
+    } else if (slide == turbotronLength - 1 && prevDirection > 0) {
+      //console.log('else if slide: ' + slide);
       switchSlide(true);
     } else {
-      console.log('else');
-      endTransition();
+      //console.log('else');
+      changeSlide();
     }
   }
 
   function endTransition() {
-    console.log('endTransition');
+    //console.log('endTransition');
     click = true;
-    Inner.removeEventListener('transitionend', checkSlide, false);
+    Inner.removeEventListener('transitionend', endTransition, false);
   }
 
   function switchSlide(forward) {
-    console.log('switchSlide');
+    //console.log('switchSlide');
     if (forward) {
       slide = 0;
     } else {
       slide = turbotronLength - 1 ;
     }
-    console.log('switchSlide slide: ' + slide);
+    //console.log('switchSlide slide: ' + slide);
     Inner.style.transitionDuration = '0s';
     Inner.style.transform = 'translate(' + offsets[slide] + '%, 0%)';
-    endTransition();
+    changeSlide();
   }
 
   //////////////////////
@@ -113,7 +110,7 @@ var turbotron = (function() {
     //console.log('onStartMouse');
     // get mouse x-position
     posstartX = evt.pageX || evt.touches[0].pageX;
-    startX = posstartX * 100 / document.body.clientWidth / 3;
+    startX = posstartX * 100 / document.body.clientWidth / turbotronLength;
     currentX = startX;
     draggingPic = true;
 
@@ -122,17 +119,29 @@ var turbotron = (function() {
   }
 
   function onMoveMouse(evt) {
-    //console.log('onMoveMouse');
-    // set mouse x-position for update
-    posX = evt.pageX  || evt.touches[0].pageX;
-    currentX = posX * 100 / document.body.clientWidth / 3;
-    window.requestAnimationFrame(update);
+    if (draggingPic) {
+      //console.log('onMoveMouse');
+      // set mouse x-position for update
+      posX = evt.pageX  || evt.touches[0].pageX;
+      currentX = posX * 100 / document.body.clientWidth / turbotronLength;
+      moveDirection = currentX - startX;
+      //console.log('moveDirection: ' + moveDirection);
+      if (slide == 0 && moveDirection > 0) {
+        //console.log('rand links!');
+        slide = turbotronLength - 1;
+      } else if (slide == turbotronLength - 1 && moveDirection < 0) {
+        //console.log('rand rechts!');
+        slide = 0;
+      }
+      translateX = offsets[slide] + moveDirection;
+      window.requestAnimationFrame(update);
+    }
   }
 
   function update() {
     //console.log('update');
     // get distance from start to current position and translate IMG
-    translateX = offsets[slide] + currentX - startX;
+    //console.log('translateX: ' + translateX);
     //console.log('currentX: ' + currentX + ' // startX: ' + startX + ' // translateX: ' + translateX);
     Inner.style.transform = 'translate(' + translateX + '%, 0px)';
   }
@@ -143,12 +152,9 @@ var turbotron = (function() {
     draggingPic = false;
     Inner.style.transitionDuration = '.4s';
 
-    triggerTreshold = currentX - startX;
-    translateX = offsets[slide] + triggerTreshold;
-
     // Is the user dragging far enough?
-    if (Math.abs(triggerTreshold) > threshold) {
-      if (triggerTreshold > 0) {
+    if (Math.abs(moveDirection) > threshold) {
+      if (moveDirection > 0) {
         prevDirection = -1;
       } else {
         prevDirection = 1;
@@ -182,8 +188,8 @@ var turbotron = (function() {
         } else {
           prevDirection = 1;
         }
-        console.log('prevDirection: ' + prevDirection);
-        changeSlide();
+        //console.log('prevDirection: ' + prevDirection);
+        checkSlide();
       }
       // if target is IMG, then it HAVE to be inner!!
     } else if (evt.target.nodeName == 'IMG' && click) {
@@ -242,7 +248,7 @@ function globalInit() {
 }
 
 function onDown(evt) {
-  console.log('down');
+  //console.log('down');
   turbotron.down(evt);
 }
 
