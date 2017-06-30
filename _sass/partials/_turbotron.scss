@@ -50,25 +50,6 @@
   top: -100vh;
 }
 
-.button-field {
-  align-items: center;
-  background-color: rgba(255, 255, 255, .0);
-  display: flex;
-  height: 8vw;
-  justify-content: center;
-  min-width: 70px;
-  opacity: .4;
-  pointer-events: all;
-  transition: opacity .3s ease-in-out;
-  width: 8vw;
-  will-change: opacity;
-
-  &:hover {
-    cursor: pointer;
-    opacity: 1;
-  }
-}
-
 .button {
   height: 61px;
   margin-top: -30px;
@@ -79,5 +60,27 @@
 
 .material-icons {
   color: $white;
-  font-size: 48px;
+  font-size: 3rem;
+  opacity: .7;
+  text-shadow: 0 2px 1px $black;
+  transition: opacity .3s ease-in-out;
+  will-change: opacity;
+}
+
+.button-field {
+  align-items: center;
+  display: flex;
+  height: 8vw;
+  justify-content: center;
+  min-width: 70px;
+  pointer-events: all;
+  width: 8vw;
+
+  &:hover {
+    cursor: pointer;
+
+    .material-icons {
+      opacity: 1;
+    }
+  }
 }

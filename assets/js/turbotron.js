@@ -19,6 +19,10 @@ var turbotron = (function() {
   var baseOffset = Math.round(10000 / turbotronLength) / 100;
   var offsets = [0];
 
+  // Timing
+  var animateSec = '.7s';
+  var noAnimate = '0s';
+
   // Variables
   var slide = 1;
   var oldSlide = 0;
@@ -63,7 +67,7 @@ var turbotron = (function() {
 
   function moveSlide() {
     //console.log('moveSlide');
-    Inner.style.transitionDuration = '.4s';
+    Inner.style.transitionDuration = animateSec;
     Inner.style.transform = 'translate(' + offsets[slide] + '%, 0%)';
     // captionBox.style.transform = 'translate(' + translateCaption[slide] + '%, 0%)';
     // indicators[oldSlide].style.opacity = '0';
@@ -98,7 +102,7 @@ var turbotron = (function() {
       slide = turbotronLength - 1 ;
     }
     //console.log('switchSlide slide: ' + slide);
-    Inner.style.transitionDuration = '0s';
+    Inner.style.transitionDuration = noAnimate;
     Inner.style.transform = 'translate(' + offsets[slide] + '%, 0%)';
     changeSlide();
   }
@@ -115,7 +119,7 @@ var turbotron = (function() {
     draggingPic = true;
 
     // set duration, so img is glued to cursor
-    Inner.style.transitionDuration = '0s';
+    Inner.style.transitionDuration = noAnimate;
   }
 
   function onMoveMouse(evt) {
@@ -150,7 +154,7 @@ var turbotron = (function() {
     //console.log('onEndMouse');
     // no dragging anymore & duration back to normal for smooth transform
     draggingPic = false;
-    Inner.style.transitionDuration = '.4s';
+    Inner.style.transitionDuration = animateSec;
 
     // Is the user dragging far enough?
     if (Math.abs(moveDirection) > threshold) {
