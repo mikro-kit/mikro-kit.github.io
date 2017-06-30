@@ -11,12 +11,9 @@ var turbotron = (function() {
   //////////////////////
 
   // Constants
-  var myTurbotronObjects = document.querySelectorAll('.turbotron-slide');
   var Inner = document.getElementById('turbotron-inner');
-  //var indicators = document.querySelectorAll('.turbotron-indicators-fill');
-  //var captionBox = document.querySelectorAll('.turbotron-caption-box')[0];
-  var turbotronLength = myTurbotronObjects.length;
-  var baseOffset = Math.round(10000 / turbotronLength) / 100;
+  var indicators = document.getElementsByClassName('turbotron-indicators__fill');
+  var turbotronLength = document.querySelectorAll('.turbotron-slide').length;
   var offsets = [0];
 
   // Timing
@@ -25,7 +22,7 @@ var turbotron = (function() {
 
   // Variables
   var slide = 1;
-  var oldSlide = 0;
+  var indicatorSlide = 0;
   var click = true;
   var prevDirection = 1;
   var translateX = 0;
@@ -37,9 +34,6 @@ var turbotron = (function() {
   var posX = 0;
   var posstartX = 0;
   var startX = 0;
-  var triggerTreshold = 0;
-
-  // Variables to resize
   var threshold = 4.5;
 
   //////////////////////
@@ -48,10 +42,16 @@ var turbotron = (function() {
 
   // Begin with init and resize
   function init() {
+    // Erzeugt ein Array mit den Werten für transform: translateX()
+    // - index - 1 ergibt [-1, 0, 1, 2, etc.]
+    // - * -1 damit die Werte zum Verschieben negativ sind
+    // - (Math.round etc.) teilt die Breite (100%) durch die Anzahl der Objekte
+    // 10000 & / 100 sorgen für Werte mit 2 Dezimalstellen
     offsets = Array.apply(null, {length: turbotronLength}).map(function(value, index) {
-      return (index - 1) * -1 * baseOffset;
+      return (index - 1) * -1 * (Math.round(10000 / turbotronLength) / 100);
     });
-    //console.log(offsets);
+    console.log(turbotronLength);
+    console.log(offsets);
     addEventListeners();
   }
 
@@ -60,7 +60,24 @@ var turbotron = (function() {
   //////////////////////
   function changeSlide() {
     //console.log('changeSlide');
+    //
+    if (slide == 0 || slide == turbotronLength) {
+      indicatorSlide = 2;
+    } else {
+      indicatorSlide = slide - 1;
+    }
+
+    indicators[indicatorSlide].classList.remove('turbotron-indicators__active');
+
     slide = (slide + turbotronLength + 1 * prevDirection) % turbotronLength;
+
+    if (slide == 0 || slide == turbotronLength) {
+      indicatorSlide = 2;
+    } else {
+      indicatorSlide = slide - 1;
+    }
+    indicators[indicatorSlide].classList.add('turbotron-indicators__active');
+
     //console.log('changeSlide slide: ' + slide);
     window.requestAnimationFrame(moveSlide);
   }
@@ -68,7 +85,7 @@ var turbotron = (function() {
   function moveSlide() {
     //console.log('moveSlide');
     Inner.style.transitionDuration = animateSec;
-    Inner.style.transform = 'translate(' + offsets[slide] + '%, 0%)';
+    Inner.style.transform = 'translateX(' + offsets[slide] + '%)';
     // captionBox.style.transform = 'translate(' + translateCaption[slide] + '%, 0%)';
     // indicators[oldSlide].style.opacity = '0';
     // indicators[slide].style.opacity = '1';
@@ -103,7 +120,7 @@ var turbotron = (function() {
     }
     //console.log('switchSlide slide: ' + slide);
     Inner.style.transitionDuration = noAnimate;
-    Inner.style.transform = 'translate(' + offsets[slide] + '%, 0%)';
+    Inner.style.transform = 'translateX(' + offsets[slide] + '%)';
     changeSlide();
   }
 
@@ -129,7 +146,6 @@ var turbotron = (function() {
       posX = evt.pageX  || evt.touches[0].pageX;
       currentX = posX * 100 / document.body.clientWidth / turbotronLength;
       moveDirection = currentX - startX;
-      //console.log('moveDirection: ' + moveDirection);
       if (slide == 0 && moveDirection > 0) {
         //console.log('rand links!');
         slide = turbotronLength - 1;
@@ -145,9 +161,7 @@ var turbotron = (function() {
   function update() {
     //console.log('update');
     // get distance from start to current position and translate IMG
-    //console.log('translateX: ' + translateX);
-    //console.log('currentX: ' + currentX + ' // startX: ' + startX + ' // translateX: ' + translateX);
-    Inner.style.transform = 'translate(' + translateX + '%, 0px)';
+    Inner.style.transform = 'translateX(' + translateX + '%)';
   }
 
   function onEndMouse() {
