@@ -1,0 +1,134 @@
+.turbotron {
+  overflow: hidden;
+  position: static;
+
+  &-inner {
+    backface-visibility: hidden;
+    display: flex;
+    flex-direction: row;
+    margin-left: -100%;
+    transition: transform .7s cubic-bezier(.4, 0, .6, 1);
+    will-change: transform;
+  }
+
+  &-slide {
+    display: block;
+    position: static;
+    top: 0;
+  }
+
+  &-flex-frame {
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    overflow: hidden;
+    position: static;
+    width: 100vw;
+
+    img {
+      max-height: 100%;
+      max-width: none;
+
+      @media screen and (min-aspect-ratio: 3/2) {
+        max-height: none;
+        max-width: 100%;
+      }
+    }
+  }
+
+  &-indicators {
+    align-items: center;
+    display: flex;
+    height: .5rem;
+    justify-content: center;
+    margin-bottom: -1rem;
+    padding-bottom: 1rem;
+    position: relative;
+    top: -1rem;
+
+    &__button {
+      margin: 0 1rem;
+    }
+
+    &__fill,
+    &__stroke {
+      border-radius: 50%;
+      height: .5rem;
+      width: .5rem;
+    }
+
+    &__fill {
+      background-color: $white;
+      opacity: .0;
+      transition: opacity .4s ease-in;
+      will-change: opacity;
+    }
+
+    &__stroke {
+      border: solid .01rem $white;
+      margin-top: -.5rem;
+      opacity: .5;
+    }
+
+    &__active {
+      opacity: .7;
+      transition: opacity .1s ease-out;
+    }
+  }
+}
+
+// Navigation
+.nav-turbotron {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: space-between;
+  margin-bottom: -100vh;
+  pointer-events: none;
+  position: relative;
+  top: -100vh;
+}
+
+.button {
+  height: 61px;
+  margin-top: -30px;
+  position: absolute;
+  top: 50%;
+  width: 60px;
+}
+
+.material-icons {
+  color: $white;
+  font-size: 3rem;
+  opacity: .7;
+  padding: 1rem;
+  text-shadow: 0 2px 1px $black;
+  transition: opacity .3s ease-in-out;
+  will-change: opacity;
+}
+
+#btn-prev {
+  justify-content: flex-start;
+}
+
+#btn-next {
+  justify-content: flex-end;
+}
+
+.button-field {
+  align-items: center;
+  display: flex;
+  height: 20vw;
+  min-width: 70px;
+  pointer-events: all;
+  width: 20vw;
+
+  &:hover {
+    cursor: pointer;
+
+    .material-icons {
+      opacity: 1;
+    }
+  }
+}

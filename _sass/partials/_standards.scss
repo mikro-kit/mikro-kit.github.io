@@ -7,10 +7,41 @@ html {
 }
 
 body {
+  background-color: $white;
   min-height: 100vh;
   position: relative;
 }
 
 a {
   display: inline-block;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+table {
+  @extend %text;
+  border-collapse: collapse;
+  margin-bottom: 32 * $to-rems + rem;
+  width: 100%;
+}
+
+thead {
+  display: table-header-group;
+  font-weight: $fw-bold;
+  vertical-align: middle;
+}
+
+tr {
+  border-color: inherit;
+  display: table-row;
+  vertical-align: inherit;
+}
+
+th,
+td {
+  border-bottom: .0625rem solid $grey;
+  padding: .6rem 1rem;
 }

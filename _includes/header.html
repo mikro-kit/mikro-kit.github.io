@@ -1,24 +1,24 @@
 <header>
-        <div class="content__header">
-          <div class="header__logo">
-            <a class="header__menu-btn"></a>
-            <h1 class="header__title">mikro-kit</h1>
-          </div>
-          <nav class="header__menu-top">
-            <a href="#Projekte" class="header__menu-item header__menu-item--selected">projekte</a>
-            <a href="#Team" class="header__menu-item">team</a>
-            <a href="#Presse" class="header__menu-item">presse</a>
-            <a href="#Kontakt" class="header__menu-item">kontakt</a>
-            <div class="header__switch-lang-btn"><span class="header__switch-lang-span--active">D</span> <span class="header__switch-lang-span">F</span></div>
-          </nav>
-        </div>
-    </header>
-    <div class="drawer">
-      <!-- <div class="drawer__title">mikro-kit</div> -->
-      <nav class="drawer__menu">
-        <a href="#" class="drawer__menu-item drawer__menu-item--selected">projekte</a>
-        <a href="#" class="drawer__menu-item">team</a>
-        <a href="#" class="drawer__menu-item">presse</a>
-        <a href="#" class="drawer__menu-item">kontakt</a>
-      </nav>
+  <div class="content__header">
+    <div class="header__logo">
+      <a class="header__menu-btn"></a>
+      <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     </div>
+    <nav class="header__menu-top">
+      <a href="#Projekte" class="header__menu-item header__menu-item--selected">projekte</a>
+      <a href="#Team" class="header__menu-item">team</a>
+      <a href="#Presse" class="header__menu-item">presse</a>
+      <a href="#Kontakt" class="header__menu-item">kontakt</a>
+      <div class="header__switch-lang-btn"><span class="header__switch-lang-span--active">D</span> <span class="header__switch-lang-span">F</span></div>
+    </nav>
+  </div>
+</header>
+<div class="drawer">
+<!-- <div class="drawer__title">mikro-kit</div> -->
+<nav class="drawer__menu">
+  <a href="#" class="drawer__menu-item drawer__menu-item--selected">projekte</a>
+  <a href="#" class="drawer__menu-item">team</a>
+  <a href="#" class="drawer__menu-item">presse</a>
+  <a href="#" class="drawer__menu-item">kontakt</a>
+</nav>
+</div>

@@ -14,6 +14,7 @@
   font-family: $header-font-family;
   font-weight: $fw-black;
   letter-spacing: 2 * $to-rems + rem;
+  margin-bottom: 1rem;
 }
 
 %headertext {
@@ -26,15 +27,19 @@
   letter-spacing: 2 * $to-rems + rem;
 }
 
-h1 {
+.site-title {
   @extend %headertext;
+}
+
+h1 {
+  @extend %headlinetext;
+  font-size: 4rem;
 }
 
 h2 {
   @extend %headlinetext;
-  color: lighten($highlight-color02, 3%);
+  //color: lighten($highlight-color02, 3%);
   font-size: 3rem;
-  padding: 40 * $to-rems + rem 20 * $to-rems + rem;
 }
 
 h3 {
@@ -46,16 +51,11 @@ h3 {
 h4 {
   @extend %headlinetext;
   font-size: 1.25rem;
-  letter-spacing: .55rem;
-  text-align: center;
-  text-transform: uppercase;
 }
 
 h5 {
   @extend %headlinetext;
   font-size: 1rem;
-  font-weight: $light;
-  text-align: center;
 }
 
 h6 {
@@ -82,14 +82,64 @@ p {
   }
 }
 
+blockquote {
+  border-left: 4 * $to-rems + rem solid lighten($text-color, 20);
+  color: lighten($text-color, 20);
+  font-style: italic;
+  margin-bottom: 16 * $to-rems + rem;
+  padding-left: 28 * $to-rems + rem;
+
+  > :last-child {
+    padding-bottom: 0;
+  }
+}
+
 strong {
   font-weight: $fw-bold;
 }
 
 ul {
-  li {
-    @extend %text;
-  }
+  display: block;
+  list-style-type: disc;
+  margin-bottom: 32 * $to-rems + rem;
+  padding-left: 2rem;
+}
+
+ol {
+  display: block;
+  list-style-type: decimal;
+  margin-bottom: 32 * $to-rems + rem;
+  padding-left: 2rem;
+}
+
+ul ul,
+ol ul {
+  list-style-type: circle;
+}
+
+ul ul ul,
+ol ul ul,
+ol ol ul {
+  list-style-type: square;
+}
+
+li {
+  @extend %text;
+  display: list-item;
+}
+
+dl {
+  @extend %text;
+  display: block;
+  margin-bottom: 32 * $to-rems + rem;
+}
+
+dt {
+  font-weight: $fw-bold;
+}
+
+dd {
+  padding-left: 2rem;
 }
 
 %menutext {

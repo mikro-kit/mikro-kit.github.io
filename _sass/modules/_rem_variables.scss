@@ -3,4 +3,4 @@
 // =====================
 $base-px: 16; //set to the most common base px size used in browsers, should generally be left at default
 $to-rems: (1 / $base-px); //allows you to set values as the default px size to target, which is then converted into scalable rem values.
-$to-ems: (1 / $base-px); //same as above, but with em values
+//$to-ems: (1 / $base-px) + em; //same as above, but with em values
