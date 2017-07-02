@@ -2,10 +2,6 @@
   opacity: 1;
 
   @media screen and (min-width: $breakpoint-tablet-landscape + 0px) {
-    opacity: 0;
+    opacity: 1;
   }
-}
-
-.drawer {
-  display: none;
 }

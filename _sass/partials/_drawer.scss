@@ -1,9 +1,23 @@
 .drawer {
   background-color: $highlight-color03;
-  display: block;
+  display: flex;
+  height: 100%;
+  left: 0;
+  max-width: 25rem;
   padding: 54 * $to-rems + rem 16 * $to-rems + rem 18 * $to-rems + rem;
   position: fixed;
-  width: 80%;
+  top: 0;
+  width: 90%;
+  transform: translateX(100%);
+  will-change: transform;
+  z-index: 20;
+
+  &__button-menu,
+  &__button-close {
+    color: $white;
+    cursor: pointer;
+    padding: 0 .5rem;
+  }
 
   &__menu {
 

@@ -1,4 +1,5 @@
 .header__menu-btn { // box shadow solution
+  cursor: pointer;
   padding-left: 2rem;
   position: relative;
 
@@ -12,4 +13,10 @@
     top: 6 * $to-rems + rem;
     width: 1.25rem;
   }
+
+  &:hover {
+    &::before {
+    background: $header-text-color; // hier kann was rein, wenn es einen hover-Effekt geben soll!
+  }
+}
 }

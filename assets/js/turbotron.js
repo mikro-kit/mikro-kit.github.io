@@ -204,8 +204,8 @@ var turbotron = (function() {
     } else if (
       // mousedown on buttons, check outer div.button-field and inner div
       evt.target.className == 'button-field' ||
-      evt.target.className == 'material-icons button-next' ||
-      evt.target.className == 'material-icons button-prev'
+      evt.target.className == 'material-icons button__turbotron button-next' ||
+      evt.target.className == 'material-icons button__turbotron button-prev'
     ) {
       // 'click = false' blocks further clicking while executing
       if (click) {
