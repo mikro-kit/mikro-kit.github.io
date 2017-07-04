@@ -15,16 +15,18 @@
     </nav>
   </div>
 </header>
-<aside class="js-side-drawer drawer">
+<aside class="js-drawer drawer">
   <!-- <div class="drawer__title">mikro-kit</div> -->
-  <nav class="drawer__container">
+  <nav class="js-drawer-container drawer__container">
     <div class="drawer__logo">
       <div class="js-menu-hide"><i class="material-icons drawer__button-close">close</i></div>
       <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     </div>
-    <a href="#" class="drawer__menu-item drawer__menu-item--selected">projekte</a>
-    <a href="#" class="drawer__menu-item">team</a>
-    <a href="#" class="drawer__menu-item">presse</a>
-    <a href="#" class="drawer__menu-item">kontakt</a>
+    <div class="drawer__content">
+      <a href="#Projekte" class="drawer__menu-item drawer__menu-item--selected">projekte</a>
+      <a href="#Team" class="drawer__menu-item">team</a>
+      <a href="#Presse" class="drawer__menu-item">presse</a>
+      <a href="#Kontakt" class="drawer__menu-item">kontakt</a>
+    </div>
   </nav>
 </aside>
