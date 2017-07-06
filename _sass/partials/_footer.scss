@@ -1,24 +1,39 @@
 .footer-list {
   padding: 0;
 
+  &__container {
+    @include cols($colspan: 1, $total-cols: 1);
+
+    max-width: 100%;
+    padding-right: 2rem;
+
+    @media screen and (min-width: $breakpoint-phone-landscape + 0px) {
+      @include cols($colspan: 1, $total-cols: 2);
+    }
+
+    @media screen and (min-width: $breakpoint-phone-landscape + 0px) {
+      @include cols($colspan: 1, $total-cols: 4);
+    }
+  }
+
   &-title {
     padding: 16 * $to-rems + rem 0;
   }
 
   &-item {
-    color: $grey;
+    color: #777;
     display: block;
     font: {
       family: $header-font-family;
-      size: 16 * $to-rems + rem;
+      size: 14 * $to-rems + rem;
       weight: $regular;
     }
 
-    letter-spacing: .0rem;
-    padding: 8 * $to-rems + rem 0;
+    letter-spacing: .1rem;
+    padding: 4 * $to-rems + rem 0;
 
     &:hover {
-      color: $black;
+      color: $link-color;
     }
   }
 }

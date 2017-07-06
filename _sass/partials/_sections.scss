@@ -45,8 +45,8 @@
 
   &__footer {
     background-color: $color-bg-section-footer;
-    padding-bottom: 48 $to-rems + rem;
-    padding-top: $default-section-padding-top + $default-add-padding;
+    padding-bottom: 48 * $to-rems + rem;
+    padding-top: $default-section-padding-top + $default-add-padding + rem;
     width: 100%;
   }
 
