@@ -33,10 +33,18 @@ sass:
 # Collections
 collections:
   projects:
+    nameDE: Projekte
     output: true
     permalink: /:collection/:name
 
   members:
+    nameDE: Team
+
+  press:
+    nameDE: Presse
+
+  contact:
+    nameDE: Kontakt
 
 
 github: [metadata]

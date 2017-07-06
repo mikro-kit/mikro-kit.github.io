@@ -32,6 +32,7 @@
 @for $i from 1 through $default-total-cols {
   .col-#{$i} {
     @include cols($colspan: 1, $total-cols: 1);
+    max-width: 100%;
 
     @media screen and (min-width: $breakpoint-phone-landscape + 0px) {
       flex: 1 0 50%;
