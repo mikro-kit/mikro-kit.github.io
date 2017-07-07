@@ -1,25 +1,29 @@
 navItems:
 
-- titleDE: Projekte
-  titleFR: projets
-  slug: projects
+- title:
+    de: Projekte
+    fr: projets
+  ref: projects
   top-url: /#Projekte
   side-url: /#Projekte
 
-- titleDE: Team
-  titleFR: équipe
-  slug: members
+- title:
+    de: Team
+    fr: équipe
+  ref: members
   top-url: /#Team
   side-url: /team
 
-- titleDE: Presse
-  titleFR: presse
-  slug: press
+- title:
+    de: Presse
+    fr: presse
+  ref: press
   top-url: /#Presse
   side-url: /#Presse
 
-- titleDE: Kontakt
-  titleFR: contact
-  slug: contact
+- title:
+    de: Kontakt
+    fr: contact
+  ref: contact
   top-url: /#Kontakt
   side-url: /#Kontakt

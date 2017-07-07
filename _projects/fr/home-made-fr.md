@@ -1,13 +1,13 @@
 ---
-layout: project
 title: Home-Made
-subtitle: Eine Stückentwicklung
+subtitle: FR - Eine Stückentwicklung
+ref: pr-home-made
 image: HM_02.png
 year: 2017
 location: Théâtre de Vidy, Lausanne
 ---
 
-**Was könnte mehr „home-made“ sein als ein Kind?**
+**Qu'est que peut être plus HOME-MADE comme un entfant?**
 Home – Heimat, Zuhause, Mutter, Umfeld.
 Ein Fixpunkt in der Frage nach Herkunft und Zugehörigkeit.
 Ein Geflecht aus Regeln und Konventionen.

@@ -1,11 +1,11 @@
 ---
-layout: member
 title: Magali Tosato
 image: mt
-role: Regie
+role: realisateuse
+ref: magali
 ---
 
-Von 2010 bis 2014 studierte Magali Tosato Regie an der HfS Ernst Busch Berlin. Sie arbeitete außerdem als Regieassistentin und Dramaturgin in verschiedenen Kompanien in der Romandie (u.a. Cie Gianni Schneider, Cie Pasquier-Rossier, Cie Un Air de Rien, Cie FullPetalMachine).
+FR! - Von 2010 bis 2014 studierte Magali Tosato Regie an der HfS Ernst Busch Berlin. Sie arbeitete außerdem als Regieassistentin und Dramaturgin in verschiedenen Kompanien in der Romandie (u.a. Cie Gianni Schneider, Cie Pasquier-Rossier, Cie Un Air de Rien, Cie FullPetalMachine).
 
 Sie realisierte mehrere Inszenierungen u.a.:
 - **„Messer und Brot“** (bat-Studiotheater und Maxim Gorki Studio, Berlin, 2011)

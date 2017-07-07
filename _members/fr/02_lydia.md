@@ -1,10 +1,10 @@
 ---
-layout: member
 title: Lydia Dimitrow
 image: ld
-role: Dramaturgie
+role: dramateux
+ref: lydia
 ---
-Lydia Dimitrow studiert seit 2008 Allgemeine und Vergleichende Literaturwissenschaft, französische Philologie und Neuere Deutsche Literatur an der FU Berlin und an der Université de Lausanne, hat 2012 mit dem Bachelor abgeschlossen und befindet sich derzeit im Masterstudium.
+FR - Lydia Dimitrow studiert seit 2008 Allgemeine und Vergleichende Literaturwissenschaft, französische Philologie und Neuere Deutsche Literatur an der FU Berlin und an der Université de Lausanne, hat 2012 mit dem Bachelor abgeschlossen und befindet sich derzeit im Masterstudium.
 
 Lydia Dimitrow ist Übersetzerin aus dem Französischen. 2012 wurde sie ausgewählt für das Young-Translators-Partnership-Programm der ProHelvetia und hat in diesem Rahmen ihren ersten Roman übersetzt (Isabelle Flükiger: Bestseller, Rotpunktverlag).
 2014 wurde sie ausgewählt fürs Hieronymus-Programm (Robert Bosch Stiftung und Deutscher Übersetzerfonds), 2015 ist sie Stipendiatin des Georges-ArthurGoldschmidt-Programms für junge Literaturübersetzer.

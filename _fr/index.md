@@ -1,11 +1,11 @@
 ---
 layout: intro
-title: Aktuell
-lang: de
+title: Actuél
+lang: fr
 ref: aktuell
 ---
-# Die Kompanie mikro-kit
-vereint junge franko-schweizer und Berliner Künstler. Unser gemeinsames Ziel ist, gesellschaftlichen Phänomenen nachzuspüren, indem wir individuelle Lebenswege, singuläre Situationen und Mikrokosmen beleuchten und auf die Bühne bringen.
+# Le compagnie mikro-kit
+ah oui, mes amies, les mikro-kits. Unser gemeinsames Ziel ist, gesellschaftlichen Phänomenen nachzuspüren, indem wir individuelle Lebenswege, singuläre Situationen und Mikrokosmen beleuchten und auf die Bühne bringen.
 
 **Zuletzt** inszenierte die mikro-kit Kompanie [Home-Made](http://mikro-kit.de)
 (Premiere am 22.09.2015 im Theatre de Vidy, Lausanne)

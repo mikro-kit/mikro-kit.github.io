@@ -4,15 +4,20 @@
       <div class="js-menu-show"><i class="material-icons drawer__button-menu">menu</i></div>
 
       <!-- <div class="js-menu-show header__menu-btn"></div> -->
-      <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      <a class="site-title" href="{{ site.url }}/{% if page.lang == "fr" %}fr{% endif %}">{{ site.title | escape }}</a>
     </div>
     <nav class="header__menu-top">
 
       {% for item in site.data.nav.navItems %}
-        <a href="{{ item.top-url }}" class="header__menu-item">{{ item.titleDE | downcase }}</a>
+        <a href="{{site.url}}/{% if page.lang == "fr" %}fr{% endif %}{{ item.top-url }}" class="header__menu-item">{{ item.title[page.lang] | downcase }}</a>
       {% endfor %}
 
-      <div class="header__switch-lang-btn"><span class="header__switch-lang-span--active">D</span> <span class="header__switch-lang-span">F</span></div>
+      <div class="header__switch-lang-btn">
+        {% assign references = site.documents | where:"ref", page.ref | sort: 'lang' %}
+        {% for reference in references %}
+          <a href="{{ reference.url }}" class="header__switch-lang-span {% if reference.lang == page.lang %}header__switch-lang-span--active{% endif %}">{% if forloop.first %}D{% else %}F{% endif %}</a>
+        {% endfor %}
+      </div>
     </nav>
   </div>
 </header>
@@ -26,25 +31,26 @@
     <div class="drawer__content">
 
       {% for item in site.data.nav.navItems %}
-        {% case item.slug %}
+        {% case item.ref %}
         {% when 'projects' %}
           {% assign array = page.url | split:"/" %}
-          <a href="{{ item.side-url }}" class="drawer__menu-item {% if array contains 'projects' %}drawer__menu-item--active{% endif %}">{{ item.titleDE | downcase }}</a>
-          {% assign projects = site.projects | sort: "year" | reverse %}
+          <a href="{{ item.side-url }}" class="drawer__menu-item {% if array contains 'projects' %}drawer__menu-item--active{% endif %}">{{ item.title[page.lang] | downcase }}</a>
+          {% assign projects = site.projects | where: "lang", page.lang | sort: "year" | reverse %}
           {% for project in projects %}
             <a href="{{ project.url | relative_url }}" class="drawer__submenu-item {% if project.url == page.url %}drawer__menu-item--active{% endif %}">{{ project.title }}</a>
           {% endfor %}
           {% continue %}
 
         {% when 'members' %}
-          <a href="{{ item.side-url }}" class="drawer__menu-item {% if page.url == '/team.html' %}drawer__menu-item--active{% endif %}">{{ item.titleDE | downcase }}</a>
-          {% for member in site.members %}
-            <a href="/team.html#{{ member.title | replace:' ', '-' }}" class="drawer__submenu-item">{{ member.title }}</a>
+          <a href="{{ item.side-url }}" class="drawer__menu-item {% if page.url == '/team.html' %}drawer__menu-item--active{% endif %}">{{ item.title[page.lang] | downcase }}</a>
+          {% assign members = site.members | where: "lang", page.lang %}
+          {% for member in members %}
+            <a href="/team#{{ member.title | replace:' ', '-' }}" class="drawer__submenu-item">{{ member.title }}</a>
           {% endfor %}
           {% continue %}
         {% endcase %}
 
-        <a href="{{ item.side-url }}" class="drawer__menu-item" data-paage="{{page.url}}">{{ item.titleDE | downcase }}</a>
+        <a href="{{ item.side-url }}" class="drawer__menu-item" data-paage="{{page.url}}">{{ item.title[page.lang] | downcase }}</a>
       {% endfor %}
     </div>
   </nav>

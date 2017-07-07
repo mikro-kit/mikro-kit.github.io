@@ -33,22 +33,48 @@ sass:
 # Collections
 collections:
   projects:
-    nameDE: Projekte
     output: true
     permalink: /:collection/:name
 
   members:
-    nameDE: Team
 
   press:
-    nameDE: Presse
 
-  contact:
-    nameDE: Kontakt
+  fr:
+    output: true
 
+# Defaults
+defaults:
+  -
+    scope:
+      path: "_projects/de"
+    values:
+      layout: "project"
+      lang: "de"
+
+  -
+    scope:
+      path: "_projects/fr"
+    values:
+      layout: "project"
+      lang: "fr"
+
+  -
+    scope:
+      path: "_members/de"
+    values:
+      layout: "member"
+      lang: "de"
+
+  -
+    scope:
+      path: "_members/fr"
+    values:
+      layout: "member"
+      lang: "fr"
 
 github: [metadata]
-#theme: minima
+
 gems:
   - jekyll-feed
 exclude:

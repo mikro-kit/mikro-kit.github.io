@@ -1,13 +1,13 @@
 ---
-layout: project
-title: Der Auftrag
+title: Le auftrag
 subtitle:
+ref: pr-auftrag
 image: DA-01.jpg
 year: 2015
-location: BAt, Berlin
+location: BAT, Berlin
 ---
 
-Hier steht Content zu "Der Auftrag"
+Ici c'est une text à la "Der Auftrag"
 
 Und ein zweiter Absatz
 
