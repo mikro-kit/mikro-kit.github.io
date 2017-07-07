@@ -215,7 +215,7 @@ var turbotron = (function() {
         // check if it's the prev button to set direction for changeSlide
         if (
           evt.target.id == 'btn-prev' ||
-          evt.target.className == 'material-icons button-prev'
+          evt.target.className == 'material-icons button__turbotron button-prev'
         ) {
           prevDirection = -1;
         } else {
