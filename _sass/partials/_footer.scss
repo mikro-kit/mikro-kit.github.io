@@ -11,29 +11,36 @@
       @include cols($colspan: 1, $total-cols: 2);
     }
 
-    @media screen and (min-width: $breakpoint-phone-landscape + 0px) {
+    @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
       @include cols($colspan: 1, $total-cols: 4);
     }
   }
 
   &-title {
-    padding: 16 * $to-rems + rem 0;
+    color: $visited-link-color;
+    margin-bottom: 0;
+    padding: 8 * $to-rems + rem 0;
   }
 
   &-item {
     color: #777;
+        cursor: pointer;
     display: block;
     font: {
-      family: $header-font-family;
+      family: $base-font-family;
       size: 14 * $to-rems + rem;
       weight: $regular;
     }
 
-    letter-spacing: .1rem;
-    padding: 4 * $to-rems + rem 0;
+    letter-spacing: .05rem;
+    padding: 2 * $to-rems + rem 0;
 
     &:hover {
       color: $link-color;
+    }
+
+    a {
+      cursor: pointer;
     }
   }
 }
@@ -41,4 +48,9 @@
 .footer-copyright-link {
   justify-content: space-between;
   padding: 72 * $to-rems + rem 20 * $to-rems + rem 0;
+
+  h6 {
+    color: $visited-link-color;
+
+  }
 }

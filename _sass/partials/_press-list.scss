@@ -18,6 +18,7 @@
   }
 
   &__title {
+    color: $color-font-section-press;
     padding: 0 20 * $to-rems + rem;
 
     &--home {
