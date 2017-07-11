@@ -3,6 +3,8 @@ layout: intro
 title: Aktuell
 lang: de
 ref: aktuell
+redirect_from:
+  - /
 ---
 # Die Kompanie mikro-kit
 vereint junge franko-schweizer und Berliner Künstler. Unser gemeinsames Ziel ist, gesellschaftlichen Phänomenen nachzuspüren, indem wir individuelle Lebenswege, singuläre Situationen und Mikrokosmen beleuchten und auf die Bühne bringen.

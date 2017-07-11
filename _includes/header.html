@@ -50,7 +50,7 @@
           {% continue %}
         {% endcase %}
 
-        <a href="{{ item.side-url }}" class="drawer__menu-item" data-paage="{{page.url}}">{{ item.title[page.lang] | downcase }}</a>
+        <a href="{{ item.side-url }}" class="drawer__menu-item" data-page="{{page.url}}">{{ item.title[page.lang] | downcase }}</a>
       {% endfor %}
     </div>
   </nav>
