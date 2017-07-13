@@ -1,15 +1,15 @@
 ---
-title: Le auftrag
+title: Luxus/Liebe
 subtitle:
-ref: pr-auftrag
-image: auftrag
-quote: Auftrag FR QUOTE
-speaker: Auftrag FR Speaker
-year: 2015
-location: BAT, Berlin
+ref: pr-amour
+image: amourluxe
+quote: Luxus/Liebe DE QUOTE
+speaker: Luxus/Liebe DE Speaker
+year: 2017
+location: Vidy, Berlin
 ---
 
-Ici c'est une text à la "Der Auftrag"
+Hier steht Content zu "Luxus/Liebe"
 
 Und ein zweiter Absatz
 

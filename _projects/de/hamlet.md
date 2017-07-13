@@ -1,15 +1,15 @@
 ---
-title: Le auftrag
-subtitle:
-ref: pr-auftrag
-image: auftrag
-quote: Auftrag FR QUOTE
-speaker: Auftrag FR Speaker
-year: 2015
-location: BAT, Berlin
+title: Hamlet
+subtitle: in den Schulen
+ref: pr-hamlet
+image: hamlet
+quote: Hamlet DE QUOTE
+speaker: Hamlet DE Speaker
+year: 2014
+location: Vidy, Berlin
 ---
 
-Ici c'est une text à la "Der Auftrag"
+Hier steht Content zu "DE Hamlet"
 
 Und ein zweiter Absatz
 

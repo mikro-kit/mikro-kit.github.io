@@ -2,7 +2,9 @@
 title: Der Auftrag
 subtitle:
 ref: pr-auftrag
-image: DA-01.jpg
+image: auftrag
+quote: Auftrag DE QUOTE
+speaker: Auftrag DE Speaker
 year: 2015
 location: BAT, Berlin
 ---

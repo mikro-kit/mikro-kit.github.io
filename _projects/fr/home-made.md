@@ -2,7 +2,9 @@
 title: Home-Made
 subtitle: FR - Eine Stückentwicklung
 ref: pr-home-made
-image: HM_02.png
+image: homemade
+quote: Home-Made FR QUOTE
+speaker: Home-Made FR Speaker
 year: 2017
 location: Théâtre de Vidy, Lausanne
 ---

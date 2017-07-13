@@ -1,15 +1,15 @@
 ---
-title: Le auftrag
+title: I love Italy and Italy loves me
 subtitle:
-ref: pr-auftrag
-image: auftrag
-quote: Auftrag FR QUOTE
-speaker: Auftrag FR Speaker
-year: 2015
+ref: pr-italy
+image: italy
+quote: Italy FR QUOTE
+speaker: Italy FR Speaker
+year: 2013
 location: BAT, Berlin
 ---
 
-Ici c'est une text à la "Der Auftrag"
+Ici c'est une text à la "Italy FR"
 
 Und ein zweiter Absatz
 
