@@ -5,7 +5,7 @@ ref: pr-auftrag
 image: auftrag
 quote: Auftrag FR QUOTE
 speaker: Auftrag FR Speaker
-year: 2015
+year: 2013
 location: BAT, Berlin
 ---
 

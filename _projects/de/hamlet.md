@@ -5,7 +5,7 @@ ref: pr-hamlet
 image: hamlet
 quote: Hamlet DE QUOTE
 speaker: Hamlet DE Speaker
-year: 2014
+year: 2015
 location: Vidy, Berlin
 ---
 
