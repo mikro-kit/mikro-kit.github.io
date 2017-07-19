@@ -2,7 +2,7 @@
 title: Amoure/Lux
 subtitle:
 ref: pr-amour
-image: amourelux
+image: amourluxe
 quote: Luxus/Liebe FR QUOTE
 speaker: Luxus/Liebe FR Speaker
 year: 2017
