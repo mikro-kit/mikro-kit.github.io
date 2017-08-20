@@ -3,17 +3,19 @@
     {% assign heading = site.data.nav.navItems | where: "ref", "projects" %}
     <h2 class="section__heading">{{ heading[0].title[page.lang] }}</h2>
   </div>
-  <ul class="row content__projects">
+  <div class="row content__projects">
 
   {% assign projects = site.projects | where: "lang", page.lang | sort: "year" | reverse %}
 
   {% for project in projects %}
 
-    <li class="row project-card">
+    <div class="row project-card">
       <a href="{{ project.url | relative_url  }}" class="project-card__link">
         <div class="col-8">
-          {% capture dir %}/assets/images/projects/{{ project.ref | replace:' ', '-' | downcase }}/{% endcapture %}
-          <img src="{{ project.image | prepend: dir | relative_url }}" alt="" class="project-card__img">
+          <div class="project-card__img-padding">
+            {% capture imagepath %}/assets/images/projects/{{ project.ref }}/{{ project.image }}{% endcapture %}
+            <img src="{{ imagepath }}.jpg" alt="" class="project-card__img">
+          </div>
         </div>
         <div class="col-4">
           <div class="project-card__content">
@@ -23,9 +25,9 @@
           </div>
         </div>
       </a>
-    </li>
+    </div>
 
     {% endfor %}
 
-  </ul> <!-- end content__projects -->
+  </div> <!-- end content__projects -->
 </div> <!-- end section__projects -->

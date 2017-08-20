@@ -22,19 +22,22 @@
 
   &__img {
     border-radius: 50%;
+    box-shadow: 0 2px 4px $shadow-grey;
     height: auto;
     width: 100%;
 
-    @media screen and (min-width: $breakpoint-phone-landscape + 0px) {
-      padding: 0 20 * $to-rems + rem 0 0;
-    }
+    &-padding {
+      @media screen and (min-width: $breakpoint-phone-landscape + 0px) {
+        padding: 0 20 * $to-rems + rem 0 0;
+      }
 
-    @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
-      padding: 0;
-    }
+      @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
+        padding: 0;
+      }
 
-    @media screen and (min-width: $breakpoint-tablet-landscape + 0px) {
-      padding: 0 20 * $to-rems + rem 0 0;
+      @media screen and (min-width: $breakpoint-tablet-landscape + 0px) {
+        padding: 0 20 * $to-rems + rem 0 0;
+      }
     }
   }
 
