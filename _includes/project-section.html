@@ -1,18 +1,36 @@
 <div class="section__projects" id="Projekte">
   <div class="row">
-    <h2 class="section__heading">projekte</h2>
+    {% assign heading = site.data.nav.navItems | where: "ref", "projects" %}
+    <h2 class="section__heading">{{ heading[0].title[page.lang] }}</h2>
   </div>
-  <ul class="row content__projects">
+  <div class="row content__projects">
 
-  {% assign projects = site.projects | sort: "year" | reverse %}
+  {% assign projects = site.projects | where: "lang", page.lang | sort: "year" | reverse %}
 
   {% for project in projects %}
 
-    <li class="row project-card">
-      <a href="{{ project.url | relative_url }}" class="project-card__link">
+    <div class="row project-card">
+      <a href="{{ project.url | relative_url  }}" class="project-card__link">
         <div class="col-8">
-          {% capture dir %}/assets/images/projects/{{ project.title | replace:' ', '-' | downcase }}/{% endcapture %}
-          <img src="{{ project.image | prepend: dir | relative_url}}" alt="" class="project-card__img">
+          <div class="project-card__img-padding">
+            {% capture imagepath %}/assets/images/projects/{{ project.ref }}/{{ project.image }}{% endcapture %}
+            <img src="{{ imagepath }}-square-1507.jpg" alt="" class="project-card__img"
+            srcset="{{ imagepath }}-square-488.jpg 488w,
+                    {{ imagepath }}-square-560.jpg 560w,
+                    {{ imagepath }}-square-587.jpg 587w,
+                    {{ imagepath }}-square-636.jpg 636w,
+                    {{ imagepath }}-square-670.jpg 670w,
+                    {{ imagepath }}-square-754.jpg 754w,
+                    {{ imagepath }}-square-984.jpg 984w,
+                    {{ imagepath }}-square-1122.jpg 1122w,
+                    {{ imagepath }}-square-1272.jpg 1272w,
+                    {{ imagepath }}-square-1456.jpg 1456w,
+                    {{ imagepath }}-square-1507.jpg 1507w"
+            sizes="(max-width: 414px) 100%,
+                   (max-width: 737px) 50%,
+                   (max-width: 768px) 100%,
+                   66,66%">
+          </div>
         </div>
         <div class="col-4">
           <div class="project-card__content">
@@ -22,9 +40,9 @@
           </div>
         </div>
       </a>
-    </li>
+    </div>
 
     {% endfor %}
-    
-  </ul> <!-- end content__projects -->
+
+  </div> <!-- end content__projects -->
 </div> <!-- end section__projects -->

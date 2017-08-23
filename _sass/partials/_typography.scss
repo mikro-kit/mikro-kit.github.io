@@ -33,13 +33,20 @@
 
 h1 {
   @extend %headlinetext;
-  font-size: 4rem;
+  font-size: 2.5rem;
+
+  @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
+    font-size: 4rem;
+  }
 }
 
 h2 {
   @extend %headlinetext;
-  //color: lighten($highlight-color02, 3%);
-  font-size: 3rem;
+  font-size: 2rem;
+
+  @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
+    font-size: 3rem;
+  }
 }
 
 h3 {
@@ -154,7 +161,7 @@ dd {
   @extend %menutext;
 }
 
-.drawer__menu {
+.drawer__container {
   @extend %menutext;
 }
 

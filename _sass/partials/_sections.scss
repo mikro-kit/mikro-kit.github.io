@@ -16,6 +16,10 @@
     @include cols(12);
     margin: 0;
     padding: 40 * $to-rems + rem 20 * $to-rems + rem;
+
+    &--press {
+      color: $color-font-section-press;
+    }
   }
 
   &__info {
@@ -45,8 +49,8 @@
 
   &__footer {
     background-color: $color-bg-section-footer;
-    padding-bottom: 48 $to-rems + rem;
-    padding-top: $default-section-padding-top + $default-add-padding;
+    padding-bottom: 48 * $to-rems + rem;
+    padding-top: $default-section-padding-top + $default-add-padding + rem;
     width: 100%;
   }
 

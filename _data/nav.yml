@@ -1,0 +1,29 @@
+navItems:
+
+- title:
+    de: Projekte
+    fr: projets
+  ref: projects
+  top-url: /#Projekte
+  side-url: /#Projekte
+
+- title:
+    de: Team
+    fr: équipe
+  ref: members
+  top-url: /#Team
+  side-url: /team
+
+- title:
+    de: Presse
+    fr: presse
+  ref: press
+  top-url: /#Presse
+  side-url: /#Presse
+
+- title:
+    de: Kontakt
+    fr: contact
+  ref: contact
+  top-url: /#Kontakt
+  side-url: /#Kontakt

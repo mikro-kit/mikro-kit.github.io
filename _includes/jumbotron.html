@@ -1,92 +1,85 @@
 <div class="section__title">
   <div class="turbotron">
-    <div class="turbotron-inner" id="turbotron-inner" style="width: 400%;">
-    <div id="3" class="turbotron-slide">
+    {% assign projects = site.projects | where: "lang", page.lang | sort: "year" | reverse %}
+
+    {% assign width = projects.size | plus:'1' | times:100 %}
+
+
+    <div class="turbotron-inner" id="turbotron-inner" style="width: {{ width }}%;">
+
+    {% assign project = projects.last %}
+    {% capture imagepath %}../assets/images/projects/{{ project.ref }}/{{ project.image }}{% endcapture%}
+    <div class="turbotron-slide">
       <div class="header-circle__parent">
         <div class="header-circle__quote">
           <div class="header-circle__text">
-            <p class="header-circle__text--quote">Sind wir aus unserem Auftrag noch nicht entlassen?</p>
-            <p class="header-circle__text--speaker">Sasportas</p>
+            <p class="header-circle__text--quote">{{ project.quote }}</p>
+            <p class="header-circle__text--speaker">{{ project.speaker }}</p>
           </div>
         </div>
       </div>
       <div class="header-jumbotron-link__parent">
-        <div class="header-jumbotron-link__text"><a href="#"><h3>Der Auftrag3</h3></a></div>
+        <div class="header-jumbotron-link__text"><a href="{{ project.url | relative_url }}"><h3>{{ project.title }}</h3></a></div>
       </div>
       <div class="turbotron-flex-frame">
-        <img id="image-2" src="assets/images/projects/home-made/HM-06.jpg" alt="" draggable="false">
+        <picture>
+          {% capture imagepath %}../assets/images/projects/{{ project.ref }}/{{ project.image }}{% endcapture%}
+          <source media="(max-aspect-ratio: 6/10)" srcset="{{ imagepath }}-16_9-portrait-640.jpg 640w, {{ imagepath }}-16_9-portrait-750.jpg 750w, {{ imagepath }}-16_9-portrait-1242.jpg 3x" sizes="100%">
+          <source media="(max-aspect-ratio: 3/4)" srcset="{{ imagepath }}-4_3-portrait-1536.jpg 1536w, {{ imagepath }}-4_3-portrait-2024.jpg 2024w" sizes="100%">
+          <source media="(max-aspect-ratio: 4/3)" srcset="{{ imagepath }}-4_3-landscape-800.jpg 800w, {{ imagepath }}-4_3-landscape-2024.jpg 2024w, {{ imagepath }}-4_3-landscape-2732.jpg 2732w" sizes="100%">
+          <source media="(min-aspect-ratio: 10/6)" srcset="{{ imagepath }}-16_9-landscape-1136.jpg 1136w, {{ imagepath }}-16_9-landscape-1334.jpg 1334w, {{ imagepath }}-16_9-landscape-1920.jpg 1920w, {{ imagepath }}-16_9-landscape-2208.jpg 3x, {{ imagepath }}-16_9-landscape-2560.jpg 2560w" sizes="100%">
+          <img src="{{ imagepath }}-16_9-landscape-1920.jpg" alt="" draggable="false">
+        </picture>
       </div>
     </div>
-      <div id="0" class="turbotron-slide">
-        <div class="header-jumbotron-link__parent">
-          <div class="header-jumbotron-link__text"><a href="#"><h3>Der Auftrag1</h3></a></div>
-        </div>
-        <div class="header-circle__parent">
-          <div class="header-circle__quote">
-            <div class="header-circle__text">
-              <p class="header-circle__text--quote">Sind wir aus unserem Auftrag noch nicht entlassen?</p>
-              <p class="header-circle__text--speaker">Sasportas</p>
-            </div>
+
+    {% for project in projects %}
+
+    <div class="turbotron-slide">
+      <div class="header-circle__parent">
+        <div class="header-circle__quote">
+          <div class="header-circle__text">
+            <p class="header-circle__text--quote">{{ project.quote }}</p>
+            <p class="header-circle__text--speaker">{{ project.speaker }}</p>
           </div>
-        </div>
-        <div class="turbotron-flex-frame">
-          <img id="image-0" src="assets/images/projects/home-made/HM_01.jpg" alt="" draggable="false">
         </div>
       </div>
-      <div id="1" class="turbotron-slide">
-        <div class="header-circle__parent">
-          <div class="header-circle__quote">
-            <div class="header-circle__text">
-              <p class="header-circle__text--quote">Sind wir aus unserem Auftrag noch nicht entlassen?</p>
-              <p class="header-circle__text--speaker">Sasportas</p>
-            </div>
-          </div>
-        </div>
-        <div class="header-jumbotron-link__parent">
-          <div class="header-jumbotron-link__text"><a href="#"><h3>Der Auftrag2</h3></a></div>
-        </div>
-        <div class="turbotron-flex-frame">
-          <img id="image-1" src="assets/images/projects/home-made/HM-05.jpg" alt="" draggable="false">
-        </div>
+      <div class="header-jumbotron-link__parent">
+        <div class="header-jumbotron-link__text"><a href="{{ project.url | relative_url }}"><h3>{{ project.title }}</h3></a></div>
       </div>
-      <div id="2" class="turbotron-slide">
-        <div class="header-circle__parent">
-          <div class="header-circle__quote">
-            <div class="header-circle__text">
-              <p class="header-circle__text--quote">Sind wir aus unserem Auftrag noch nicht entlassen?</p>
-              <p class="header-circle__text--speaker">Sasportas</p>
-            </div>
-          </div>
-        </div>
-        <div class="header-jumbotron-link__parent">
-          <div class="header-jumbotron-link__text"><a href="#"><h3>Der Auftrag3</h3></a></div>
-        </div>
-        <div class="turbotron-flex-frame">
-          <img id="image-2" src="assets/images/projects/home-made/HM-06.jpg" alt="" draggable="false">
-        </div>
+      <div class="turbotron-flex-frame">
+        <picture>
+          {% capture imagepath %}../assets/images/projects/{{ project.ref }}/{{ project.image }}{% endcapture%}
+          <source media="(max-aspect-ratio: 6/10)" srcset="{{ imagepath }}-16_9-portrait-640.jpg 640w, {{ imagepath }}-16_9-portrait-750.jpg 750w, {{ imagepath }}-16_9-portrait-1242.jpg 3x" sizes="100%">
+          <source media="(max-aspect-ratio: 3/4)" srcset="{{ imagepath }}-4_3-portrait-1536.jpg 1536w, {{ imagepath }}-4_3-portrait-2024.jpg 2024w" sizes="100%">
+          <source media="(max-aspect-ratio: 4/3)" srcset="{{ imagepath }}-4_3-landscape-800.jpg 800w, {{ imagepath }}-4_3-landscape-2024.jpg 2024w, {{ imagepath }}-4_3-landscape-2732.jpg 2732w" sizes="100%">
+          <source media="(min-aspect-ratio: 10/6)" srcset="{{ imagepath }}-16_9-landscape-1136.jpg 1136w, {{ imagepath }}-16_9-landscape-1334.jpg 1334w, {{ imagepath }}-16_9-landscape-1920.jpg 1920w, {{ imagepath }}-16_9-landscape-2208.jpg 3x, {{ imagepath }}-16_9-landscape-2560.jpg 2560w" sizes="100%">
+          <img src="{{ imagepath }}-16_9-landscape-1920.jpg" alt="" draggable="false">
+        </picture>
       </div>
     </div>
+
+    {% endfor %}
+
   </div>
   <div class="nav-turbotron">
     <div class="button-field" id="btn-prev">
-      <i class="material-icons button-prev">keyboard_arrow_left</i>
+      <i class="material-icons button__turbotron button-prev">keyboard_arrow_left</i>
     </div>
     <div class="button-field" id="btn-next">
-      <i class="material-icons button-next">keyboard_arrow_right</i>
+      <i class="material-icons button__turbotron button-next">keyboard_arrow_right</i>
     </div>
   </div>
   <div class="turbotron-indicators">
-    <div class="turbotron-indicators__button">
-      <div class="turbotron-indicators__fill turbotron-indicators__active"></div>
-      <div class="turbotron-indicators__stroke"></div>
-    </div>
-    <div class="turbotron-indicators__button">
-      <div class="turbotron-indicators__fill"></div>
-      <div class="turbotron-indicators__stroke"></div>
-    </div>
+
+    {% for project in projects %}
+
     <div class="turbotron-indicators__button">
       <div class="turbotron-indicators__fill"></div>
       <div class="turbotron-indicators__stroke"></div>
     </div>
+
+    {% endfor %}
+
   </div>
 </div> <!-- end section__title -->

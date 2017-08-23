@@ -1,0 +1,43 @@
+  <div class="section__press" id="Presse">
+    <div class="row">
+      <h2 class="section__heading--press">presse</h2>
+    </div>
+    <div class="row content__press">
+
+
+
+      {% assign projects = site.projects | where: "lang", page.lang | sort: "year" | reverse %}
+
+      {% for project in projects %}
+
+      {% assign lang_articles = site.articles | where: "lang", page.lang %}
+
+      {% assign articles = lang_articles | where: "ref", project.ref %}
+
+      {% if articles.size > 0 %}
+
+      <div class="row press-list__title"><h3>{{ project.title }}</h3></div>
+      <div class="row press-list">
+
+        {% for article in articles %}
+
+        <div class="press-article">
+          <a href="/presse-artikel.html" class="press-article-link">
+            <h6 class="press-article-link__title">{{ article.title }}</h6>
+            <p>
+              <span class="press-article-link__author">{{ article.author }}</span><br>
+              <span class="press-article-link__date">{{ article.published}}</span>
+              <span class="press-article-link__press">{{ article.paper }}</span>
+            </p>
+          </a>
+        </div>
+
+        {% endfor %}
+
+      </div> <!-- end press-list -->
+
+      {% endif %}
+
+      {% endfor %}
+    </div>
+  </div>

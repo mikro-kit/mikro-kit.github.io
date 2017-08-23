@@ -1,16 +1,104 @@
 .drawer {
-  background-color: $highlight-color03;
-  display: block;
-  padding: 54 * $to-rems + rem 16 * $to-rems + rem 18 * $to-rems + rem;
+  height: 100%;
+  left: 0;
+  overflow: hidden;
+  pointer-events: none;
   position: fixed;
-  width: 80%;
+  top: 0;
+  width: 100%;
+  z-index: 20;
+
+  &::before {
+    background: $shadow-grey;
+    content: '';
+    display: block;
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    transition: opacity .3s cubic-bezier(0, 0, .3, 1);
+    width: 100%;
+    will-change: opacity;
+  }
+
+  &--visible {
+    pointer-events: auto;
+
+    &::before {
+      opacity: 1;
+    }
+  }
+
+  &--visible.drawer--animatable &__container {
+    transition: transform .33s cubic-bezier(0, 0, .3, 1);
+  }
+
+  &--animatable &__container {
+    transition: transform .13s cubic-bezier(0, 0, .3, 1);
+  }
+
+  &--visible &__container {
+    transform: none;
+  }
+
+  &__logo {
+    border-bottom: 1px solid rgba(255, 255, 255, .6);
+    display: flex;
+    padding: 1.25rem 0 .75rem 1rem;
+  }
+
+
+  &__container {
+    background-color: $highlight-color03;
+    box-shadow: 3px 0 10px $shadow-grey;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    left: 0;
+    max-width: 25rem;
+    //padding: 54 * $to-rems + rem 16 * $to-rems + rem 18 * $to-rems + rem;
+    position: relative;
+    top: 0;
+    transform: translateX(-103%);
+    width: 90%;
+    will-change: transform;
+  }
+
+  &__content {
+    padding-left: 3.5rem;
+  }
+
+
+
+  &__button-menu,
+  &__button-close {
+    color: $white;
+    cursor: pointer;
+    padding: 0 .5rem;
+  }
 
   &__menu {
 
     &-item {
       display: block;
       margin: 9 * $to-rems + rem 0;
-    }
+      padding: .5rem 0;
 
+      &--active {
+        color: $visited-link-color;
+        //text-shadow: 1px 0 2px $shadow-grey;
+      }
+    }
+  }
+
+  &__submenu-item {
+    display: block;
+    font-size: 1rem;
+    padding: 1rem;
+
+    &--active {
+      color: $visited-link-color;
+    }
   }
 }

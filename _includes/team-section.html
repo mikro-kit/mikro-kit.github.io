@@ -1,10 +1,12 @@
 <div class="section__team" id="Team">
   <div class="row">
-    <h2 class="section__heading">team</h2>
+    {% assign heading = site.data.nav.navItems | where: "ref", "members" %}
+    <h2 class="section__heading">{{ heading[0].title[page.lang] }}</h2>
   </div>
   <div class="row content__team">
 
-  {% for member in site.members %}
+  {% assign members = site.members | where: "lang", page.lang %}
+  {% for member in members %}
 
   {% capture memberpath %}{{ member.image | prepend: "/assets/images/team/" }}_home-{% endcapture %}
   {% assign picWidth = '216 260 343 432 520 527 686 1054' | split: ' ' %}
@@ -20,7 +22,7 @@
   {% endcapture %}
 
     <div class="team-card">
-      <a href="/team.html#{{ member.title | replace:' ', '-' }}" class="team-card__link">
+      <a href="{{ site.url }}/{{ page.lang }}/team#{{ member.title | replace:' ', '-' }}" class="team-card__link">
         <div class="team-card__img">
           <img src="{{ memberpath | append: "1054.jpg" }}" alt="" srcset="{{ srcsetString }}">
         </div>

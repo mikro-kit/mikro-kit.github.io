@@ -41,6 +41,7 @@ var turbotron = (function() {
 
   // Begin with init and resize
   function init() {
+    //console.log(turbotronLength);
     //console.log('init!');
     // Erzeugt ein Array mit den Werten für transform: translateX()
     // - index - 1 ergibt [-1, 0, 1, 2, etc.]
@@ -70,21 +71,23 @@ var turbotron = (function() {
   function changeSlide() {
     //console.log('changeSlide');
     //
-    if (slide == 0 || slide == turbotronLength) {
-      indicatorSlide = 2;
+    //console.log('currentSlide: ' + slide);
+    if (slide == 0) {
+      indicatorSlide = turbotronLength - 2 ;
     } else {
       indicatorSlide = slide - 1;
     }
-
+    //console.log('indicatorSlide: ' + indicatorSlide);
     indicators[indicatorSlide].classList.remove('turbotron-indicators__active');
 
     slide = (slide + turbotronLength + 1 * prevDirection) % turbotronLength;
 
-    if (slide == 0 || slide == turbotronLength) {
-      indicatorSlide = 2;
+    if (slide == 0) {
+      indicatorSlide = turbotronLength - 2 ;
     } else {
       indicatorSlide = slide - 1;
     }
+    //console.log('indicatorSlideNow: ' + indicatorSlide);
     indicators[indicatorSlide].classList.add('turbotron-indicators__active');
 
     //console.log('changeSlide slide: ' + slide);
@@ -204,8 +207,8 @@ var turbotron = (function() {
     } else if (
       // mousedown on buttons, check outer div.button-field and inner div
       evt.target.className == 'button-field' ||
-      evt.target.className == 'material-icons button-next' ||
-      evt.target.className == 'material-icons button-prev'
+      evt.target.className == 'material-icons button__turbotron button-next' ||
+      evt.target.className == 'material-icons button__turbotron button-prev'
     ) {
       // 'click = false' blocks further clicking while executing
       if (click) {
@@ -215,7 +218,7 @@ var turbotron = (function() {
         // check if it's the prev button to set direction for changeSlide
         if (
           evt.target.id == 'btn-prev' ||
-          evt.target.className == 'material-icons button-prev'
+          evt.target.className == 'material-icons button__turbotron button-prev'
         ) {
           prevDirection = -1;
         } else {

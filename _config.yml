@@ -20,8 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
   EDIT.. Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "/de" # the subpath of your site, e.g. /blog
+url: "http://www.mikro-kit.de" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -34,15 +34,67 @@ sass:
 collections:
   projects:
     output: true
-    permalink: /:collection/:name
+    # permalink: /:collection/:name
 
   members:
 
+  articles:
+    output: true
+
+  fr:
+    output: true
+
+  de:
+    output: true
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: "_projects/de"
+    values:
+      layout: "project"
+      lang: "de"
+
+  -
+    scope:
+      path: "_projects/fr"
+    values:
+      layout: "project"
+      lang: "fr"
+
+  -
+    scope:
+      path: "_members/de"
+    values:
+      layout: "member"
+      lang: "de"
+
+  -
+    scope:
+      path: "_members/fr"
+    values:
+      layout: "member"
+      lang: "fr"
+
+  -
+    scope:
+      path: "_articles/de"
+    values:
+      layout: "article"
+      lang: "de"
+
+  -
+    scope:
+      path: "_articles/fr"
+    values:
+      layout: "article"
+      lang: "fr"
 
 github: [metadata]
-#theme: minima
+
 gems:
-  - jekyll-feed
+  - jekyll-redirect-from
 exclude:
   - Gemfile
   - Gemfile.lock
