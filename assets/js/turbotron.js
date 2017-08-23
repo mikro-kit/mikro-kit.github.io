@@ -57,12 +57,12 @@ var turbotron = (function() {
 
   function automateSlides() {
     //console.log('aS');
-    //timeOutID = setTimeout(function() {down('auto');}, 5000);
+    timeOutID = setTimeout(function() {down('auto');}, 5000);
   }
 
   function stopAutomateSlides() {
     //console.log('cT');
-    //clearTimeout(timeOutID);
+    clearTimeout(timeOutID);
   }
 
   //////////////////////
