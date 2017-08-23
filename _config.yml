@@ -38,7 +38,8 @@ collections:
 
   members:
 
-  press:
+  articles:
+    output: true
 
   fr:
     output: true
@@ -74,6 +75,20 @@ defaults:
       path: "_members/fr"
     values:
       layout: "member"
+      lang: "fr"
+
+  -
+    scope:
+      path: "_articles/de"
+    values:
+      layout: "article"
+      lang: "de"
+
+  -
+    scope:
+      path: "_articles/fr"
+    values:
+      layout: "article"
       lang: "fr"
 
 github: [metadata]
