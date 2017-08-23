@@ -24,7 +24,10 @@
       <div class="turbotron-flex-frame">
         <picture>
           {% capture imagepath %}../assets/images/projects/{{ project.ref }}/{{ project.image }}{% endcapture%}
-          <source media="(max-width: 320px)" srcset="{{ imagepath }}-16_9-portrait-640.jpg 2x">
+          <source media="(max-aspect-ratio: 6/10)" srcset="{{ imagepath }}-16_9-portrait-640.jpg 320w, {{ imagepath }}-16_9-portrait-750.jpg 375w, {{ imagepath }}-16_9-portrait-1242.jpg 3x" sizes="100%">
+          <source media="(max-aspect-ratio: 3/4)" srcset="{{ imagepath }}-4_3-portrait-1536.jpg 768w, {{ imagepath }}-4_3-portrait-2024.jpg 1024w" sizes="100%">
+          <source media="(max-aspect-ratio: 4/3)" srcset="{{ imagepath }}-4_3-landscape-800.jpg 800w, {{ imagepath }}-4_3-landscape-2024.jpg 1024w, {{ imagepath }}-4_3-landscape-2732.jpg 1366w" sizes="100%">
+          <source media="(min-aspect-ratio: 10/6)" srcset="{{ imagepath }}-16_9-landscape-1136.jpg 568w, {{ imagepath }}-16_9-landscape-1334.jpg 667w, {{ imagepath }}-16_9-landscape-1920.jpg 1920w, {{ imagepath }}-16_9-landscape-2208.jpg 3x, {{ imagepath }}-16_9-landscape-2560.jpg 2560w" sizes="100%">
           <img src="{{ imagepath }}-16_9-landscape-1920.jpg" alt="" draggable="false">
         </picture>
       </div>
@@ -50,7 +53,7 @@
           <source media="(max-aspect-ratio: 6/10)" srcset="{{ imagepath }}-16_9-portrait-640.jpg 320w, {{ imagepath }}-16_9-portrait-750.jpg 375w, {{ imagepath }}-16_9-portrait-1242.jpg 3x" sizes="100%">
           <source media="(max-aspect-ratio: 3/4)" srcset="{{ imagepath }}-4_3-portrait-1536.jpg 768w, {{ imagepath }}-4_3-portrait-2024.jpg 1024w" sizes="100%">
           <source media="(max-aspect-ratio: 4/3)" srcset="{{ imagepath }}-4_3-landscape-800.jpg 800w, {{ imagepath }}-4_3-landscape-2024.jpg 1024w, {{ imagepath }}-4_3-landscape-2732.jpg 1366w" sizes="100%">
-          <source media="(min-aspect-ratio: 10/6)" srcset="{{ imagepath }}-16_9-landscape-1136.jpg 568w, {{ imagepath }}-16_9-landscape-1334.jpg 667w, {{ imagepath }}-16_9-landscape-1920.jpg 1920w {{ imagepath }}-16_9-landscape-2208.jpg 736w {{ imagepath }}-16_9-landscape-2560.jpg 2560w" sizes="100%">
+          <source media="(min-aspect-ratio: 10/6)" srcset="{{ imagepath }}-16_9-landscape-1136.jpg 568w, {{ imagepath }}-16_9-landscape-1334.jpg 667w, {{ imagepath }}-16_9-landscape-1920.jpg 1920w, {{ imagepath }}-16_9-landscape-2208.jpg 3x, {{ imagepath }}-16_9-landscape-2560.jpg 2560w" sizes="100%">
           <img src="{{ imagepath }}-16_9-landscape-1920.jpg" alt="" draggable="false">
         </picture>
       </div>
