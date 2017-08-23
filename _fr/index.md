@@ -1,9 +1,4 @@
 ---
-<<<<<<< HEAD:index.md
-layout: default
----
-Hello world.
-=======
 layout: intro
 title: Actuél
 lang: fr
@@ -18,4 +13,3 @@ ah oui, mes amies, les mikro-kits. Unser gemeinsames Ziel ist, gesellschaftliche
 **Aktuell** arbeiten wir an der Wiederaufnahme von [Hamlet dans les écoles](http://mikro-kit.de)(21-24.03.2016 und 09.05.-10.06.2016 in den Schulen des Kantons Waadts und Genf)
 
 Außerdem folgt das **nächste Projekt** der Kompanie [Luxus/Liebe](http://mikro-kit.de), das im Rahmen des Nachwuchsstipendiums der Stadt Lausanne und des Kantons Waadt 2017 stattfinden soll.
->>>>>>> workbranch:_fr/index.md
