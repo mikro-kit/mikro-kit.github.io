@@ -1,5 +1,5 @@
 ---
-title: Luxus/Liebe
+title: Luxus/ Liebe
 subtitle:
 ref: pr-amour
 image: amourluxe

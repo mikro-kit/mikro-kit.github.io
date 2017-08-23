@@ -14,7 +14,22 @@
         <div class="col-8">
           <div class="project-card__img-padding">
             {% capture imagepath %}/assets/images/projects/{{ project.ref }}/{{ project.image }}{% endcapture %}
-            <img src="{{ imagepath }}.jpg" alt="" class="project-card__img">
+            <img src="{{ imagepath }}-square-1507.jpg" alt="" class="project-card__img"
+            srcset="{{ imagepath }}-square-488.jpg 488w,
+                    {{ imagepath }}-square-560.jpg 560w,
+                    {{ imagepath }}-square-587.jpg 587w,
+                    {{ imagepath }}-square-636.jpg 636w,
+                    {{ imagepath }}-square-670.jpg 670w,
+                    {{ imagepath }}-square-754.jpg 754w,
+                    {{ imagepath }}-square-984.jpg 984w,
+                    {{ imagepath }}-square-1122.jpg 1122w,
+                    {{ imagepath }}-square-1272.jpg 1272w,
+                    {{ imagepath }}-square-1456.jpg 1456w,
+                    {{ imagepath }}-square-1507.jpg 1507w"
+            sizes="(max-width: 414px) 100%,
+                   (max-width: 737px) 50%,
+                   (max-width: 768px) 100%,
+                   66,66%">
           </div>
         </div>
         <div class="col-4">
