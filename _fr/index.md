@@ -2,6 +2,7 @@
 layout: intro
 title: Actuél
 lang: fr
+permalink: /fr/
 ref: aktuell
 ---
 # Le compagnie mikro-kit

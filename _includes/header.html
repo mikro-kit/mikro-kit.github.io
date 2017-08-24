@@ -2,14 +2,12 @@
   <div class="content__header">
     <div class="header__logo">
       <div class="js-menu-show"><i class="material-icons drawer__button-menu">menu</i></div>
-
-      <!-- <div class="js-menu-show header__menu-btn"></div> -->
-      <a class="site-title" href="{{ site.url }}/{% if page.lang == "fr" %}fr{% endif %}">{{ site.title | escape }}</a>
+      <a class="site-title" href="{{ site.url }}/{% if page.lang == "fr" %}fr/{% else %}de/{% endif %}">{{ site.title | escape }}</a>
     </div>
     <nav class="header__menu-top">
 
       {% for item in site.data.nav.navItems %}
-        <a href="{{site.url}}/{% if page.lang == "fr" %}fr{% endif %}{{ item.top-url }}" class="header__menu-item">{{ item.title[page.lang] | downcase }}</a>
+        <a href="{{site.url}}/{% if page.lang == "fr" %}fr{% else %}de{% endif %}{{ item.top-url }}" class="header__menu-item">{{ item.title[page.lang] | downcase }}</a>
       {% endfor %}
 
       <div class="header__switch-lang-btn">
@@ -34,7 +32,7 @@
         {% case item.ref %}
         {% when 'projects' %}
           {% assign array = page.url | split:"/" %}
-          <a href="{{ item.side-url }}" class="drawer__menu-item {% if array contains 'projects' %}drawer__menu-item--active{% endif %}">{{ item.title[page.lang] | downcase }}</a>
+          <a href="/{{ page.lang }}{{ item.side-url }}" class="drawer__menu-item {% if array contains 'projects' %}drawer__menu-item--active{% endif %}">{{ item.title[page.lang] | downcase }}</a>
           {% assign projects = site.projects | where: "lang", page.lang | sort: "year" | reverse %}
           {% for project in projects %}
             <a href="{{ project.url | relative_url }}" class="drawer__submenu-item {% if project.url == page.url %}drawer__menu-item--active{% endif %}">{{ project.title }}</a>
@@ -42,10 +40,10 @@
           {% continue %}
 
         {% when 'members' %}
-          <a href="{{ item.side-url }}" class="drawer__menu-item {% if page.url == '/team.html' %}drawer__menu-item--active{% endif %}">{{ item.title[page.lang] | downcase }}</a>
+          <a href="/{{ page.lang }}{{ item.side-url }}" class="drawer__menu-item {% if array contains 'team' %}drawer__menu-item--active{% endif %}">{{ item.title[page.lang] | downcase }}</a>
           {% assign members = site.members | where: "lang", page.lang %}
           {% for member in members %}
-            <a href="/team#{{ member.title | replace:' ', '-' }}" class="drawer__submenu-item">{{ member.title }}</a>
+            <a href="/{{ page.lang }}/team/#{{ member.title | replace:' ', '-' }}" class="drawer__submenu-item">{{ member.title }}</a>
           {% endfor %}
           {% continue %}
         {% endcase %}

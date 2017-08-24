@@ -3,6 +3,7 @@ layout: intro
 title: Aktuell
 lang: de
 ref: aktuell
+permalink: /de/
 redirect_from:
   - /
 ---
