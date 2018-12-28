@@ -3,7 +3,7 @@ title: Home-Made
 subtitle: Eine Stückentwicklung
 ref: pr-home-made
 image: homemade
-quote: Aber für mich ist diese ganze Sache noch nicht geregelt. Wem zuliebe sollte ich schweigen?
+quote: Wem zuliebe sollte ich schweigen?
 speaker: Home-Made 
 year: 2016
 location: Théâtre de Vidy, Lausanne
