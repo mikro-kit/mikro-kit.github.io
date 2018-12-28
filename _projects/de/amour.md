@@ -13,7 +13,9 @@ Liebe, Zuneigung, Zugehörigkeit, der Traum von einem Ort für die gemeinsame Zu
 
 **Luxus/Liebe** führt den Zuschauer mitten hinein in die Wirren der Liebe, nach der sich jeder sehnt, und des Gesetzes, dem niemand entgeht.
 Inspiriert von Gesprächen mit binationalen Paaren und verschiedenen Experten, hinterfragt die Kompanie mikro-kit unsere Vorstellungen von romantischer Liebe. In einem vielstimmigen Dokumentartheaterstück werden bürokratische Feuerproben, die dazu dienen, echte von falschen Paaren zu unterscheiden, in Perspektive gesetzt mit den Biographien der Schauspieler. Wer ist in der Position, über die Aufrichtigkeit unserer Gefühle zu urteilen?
+
 Infolge einer immer restriktiveren Migrationspolitik sind Zivilstandsbeamte in der Schweiz heutzutage dazu angehalten, die Intention heiratswilliger Paare zu überprüfen. Wer nicht aus der EU kommt, aber einen Schweizer oder eine Schweizerin heiraten will, steht unter dem Verdacht, durch die Ehe lediglich das geltende Ausländerrecht umgehen zu wollen. Um ihre Landsleute vor etwaigem „emotionalen Betrug“ oder einem Missbrauch ihrer Gefühle zu schützen, nehmen die Beamten die Paare und das Wesen ihrer Beziehung unter die Lupe.
+
 Was sind wir bereit, für das Leben zu geben, das wir uns erträumen? Um mit dem Menschen
 zusammenzuleben, den wir lieben?
 **Luxus/Liebe** zeigt unser Potential auf, dem Verwaltetwerden etwas entgegenzusetzen und für das zukämpfen, das uns wichtig ist.
