@@ -4,7 +4,7 @@ subtitle: Eine Stückentwicklung
 ref: pr-italy
 image: italy
 quote: Youkali ist ein Land, das man sucht; ein Stern, dem man folgt; ein Traum.
-speaker: Italy
+speaker: I love Italy and Italy loves me
 year: 2014
 location: bat-Studiotheater, Berlin
 ---
