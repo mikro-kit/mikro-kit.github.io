@@ -3,14 +3,29 @@ title: Hamlet
 subtitle: in den Schulen
 ref: pr-hamlet
 image: hamlet
-quote: Ça commence mal et le pire est à venir.
-speaker: Hamlet dans les écoles
+quote: Schlimm nun beginnt’s, Schlimmres folgt hinterdrein.
+speaker: Hamlet in den Schulen
 year: 2015
 location: Théâtre de Vidy, Lausanne
 ---
 
-Votre salle de classe, quatre comédiens et un grand classique de la littérature théâtrale sont les ingrédients de ce spectacle scolaire itinérant. Le théâtre s’immisce dans le quotidien et invite les élèves à mener une enquête, à suivre autant de pistes qu'il y a d'interprétations possibles du texte de Shakespeare.
+Einen Klassenraum voller Schüler, vier Schauspieler und einen Theaterklassiker: Mehr braucht es nicht für diese Inszenierung. Das Theater schleicht sich in den Alltag der Jugendlichen ein, ohne aufwendige Kulisse oder große Effekte, sondern nur durch das Spiel selbst.
+ 
+Nach dem verdächtigen Tod seines Vaters und der überstürzten Hochzeit seiner Mutter Gertrude mit seinem Onkel Claudius, versinkt der junge Hamlet in eine tiefe Melancholie. Da erscheint ihm sein verstorbener Vater glatt als Geist und verlangt von ihm, die Wahrheit über seine Todesumstände aufdeckzudecken, um ihn zu rächen … Doch was ist die Wahrheit? 
 
-Mêlant le texte de Shakespeare à des réécritures contemporaines, les comédiens invitent les élèves à redécouvrir ce grand classique de la littérature. Ils engagent un dialogue et créent des interactions, transformant l’espace familier de la salle de cours en un terrain d’investigation. Au commencement du drame, le défunt père du jeune Hamlet lui apparaît sous la forme d’un spectre et exige de lui qu’il découvre la vérité sur sa mort suspecte pour le venger… De quelle vérité s’agit-il ?
-
-Et si les paroles du spectre étaient un appel à affirmer son propre point de vue ? Un acte d’émancipation pour le jeune prince comme pour le spectateur ?
+Und wenn die Wortes des Geistes ein Aufruf wären, die eigene Sichtweise zu behaupten? Geht es nicht eher um einen emanzipatorischen Akt für den jungen Prinzen – und vielleicht auch für die Zuschauer?
+ 
+ 
+**Es spielen:** 
+Alain Borek
+Claire Deutsch
+Baptiste Gilliéron
+Nora Steinig
+ 
+**Text:** "Hamlet" von William Shakespeare, in einer Übersetzung von Pascal Collin und einer Adaption von lydia Dimitrow und Magali Tosato
+**Regie:** Magali Tosato
+**Kostüme:** Franziska Keune
+**Dramaturgie:** Lydia Dimitrow
+ 
+Premiere am 23.02.2015, danach weitere Vorstellungen von 2015 bis 2018 in den Klassenräumen verschiedenster Schulen in den Kantonen Waadt und Genf (CH) sowie auf La Réunion (FR). 
+ 
