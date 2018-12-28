@@ -3,7 +3,7 @@ title: Der Auftrag
 subtitle: Von Heiner Müller
 ref: pr-auftrag
 image: auftrag
-quote: gib mir meine tränen zurück es hat sich nicht gelohnt. gib mir dein auto und dein geld. ich fahre fort. ich gründe eine welt.
+quote: gib mir dein auto und dein geld. ich fahre fort. ich gründe eine welt.
 speaker: Der Auftrag 
 year: 2013
 location: bat-Studiotheater, Berlin
