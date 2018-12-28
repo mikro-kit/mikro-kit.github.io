@@ -3,8 +3,8 @@ title: Home-Made
 subtitle: Eine Stückentwicklung
 ref: pr-home-made
 image: homemade
-quote: Home-Made DE QUOTE
-speaker: Home-Made DE Speaker
+quote: Aber für mich ist diese ganze Sache noch nicht geregelt. Wem zuliebe sollte ich schweigen?
+speaker: Home-Made 
 year: 2016
 location: Théâtre de Vidy, Lausanne
 ---
@@ -25,11 +25,13 @@ Diesem Eintauchen in seine Erinnerungen entspringt eine so präzise wie harte Kr
 Im Spannungsverhältnis zwischen Anziehung und Abstoßung versucht Home-Made das ambivalente Verhältnis eines Individuums zu seinem familiären und sozialen Umfeld freizulegen, von dem ausgehend es sich selbst konstruiert.
 Dabei webt die Theaterkompanie mikro-kit einige Motive aus Mars in den eigenen durch Improvisationen und Recherche inspirierten Text, stellt durch das Prisma individueller Lebenswege die Frage nach dem Konstruktionsprozess von Identität und verschränkt fiktive Figuren mit dokumentarischem Material.
 
-Es spielen: Baptiste Coustenoble und Tomas Gonzalez
-Text und Regie: Magali Tosato
-Text und Dramaturgie: Lydia Dimitrow
-Bühne und Kostüme: Franziska Keune
-Video: Fanny Guichard
-Deutsche Übertitel: Lydia Dimitrow
+**Es spielen:** 
+Baptiste Coustenoble und Tomas Gonzalez
 
-Premiere am 22.09.2015 / Théâtre de Vidy Lausanne
+**Text und Regie:** Magali Tosato
+**Text und Dramaturgie:** Lydia Dimitrow
+**Bühne und Kostüme:** Franziska Keune
+**Video:** Fanny Guichard
+**Deutsche Übertitel:** Lydia Dimitrow
+
+Premiere am 22.09.2015 / Théâtre de Vidy, Lausanne
