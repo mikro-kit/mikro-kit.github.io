@@ -10,8 +10,9 @@ location: bat-Studiotheater, Berlin
 ---
 
 Sklaverei: Zustand, in dem Menschen als Eigentum anderer behandelt werden. Und wenn ich dir sage, dass ich deins bin und du meins bist, bin ich frei?
+Drei französische Revolutionäre werden nach Jamaika geschickt, um dort einen Sklavenaufstand anzuzetteln. Aber bevor sie diesen Auftrag erfüllen können, kommt Napoleon an die Macht und erklärt ihn für obsolet. 
 
-Drei französische Revolutionäre werden nach Jamaika geschickt, um dort einen Sklavenaufstand anzuzetteln. Aber bevor sie diesen Auftrag erfüllen können, kommt Napoleon an die Macht und erklärt ihn für obsolet. Während wir in unserem Wohnzimmer sitzen und grübeln. Aber was tun? Den Auftrag zurück ins Regal stellen – Erinnerung an eine Revolution? Soll die Welt wieder das werden, was sie war, "eine Heimat für Herren und Sklaven", oder sind wir, "solange es Herren und Sklaven gibt, aus unserem Auftrag nicht entlassen"? Habe ich  einen Auftrag? Und wer hat ihn mir gegeben?
+Währenddessen sitze wir in unserem Wohnzimmer  und grübeln. Aber was tun? Den Auftrag zurück ins Regal stellen – Erinnerung an eine Revolution? Soll die Welt wieder das werden, was sie war, "eine Heimat für Herren und Sklaven", oder sind wir, "solange es Herren und Sklaven gibt, aus unserem Auftrag nicht entlassen"? Habe ich  einen Auftrag? Und wer hat ihn mir gegeben?
  
 Eine Inszenierung des dritten Studienjahres der HfS Ernst Busch.
  
