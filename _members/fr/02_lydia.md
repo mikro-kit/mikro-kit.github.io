@@ -1,7 +1,7 @@
 ---
 title: Lydia Dimitrow
 image: ld
-role: dramateux
+role: Dramaturgie
 ref: lydia
 ---
 Lydia Dimitrow studierte Allgemeine und Vergleichende Literaturwissenschaft, französische Philologie und Neuere Deutsche Literatur an der FU Berlin und an der Université de Lausanne. Sie ist Autorin, Dramaturgin und Literaturübersetzerin.
