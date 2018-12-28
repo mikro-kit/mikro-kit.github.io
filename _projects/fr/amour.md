@@ -1,5 +1,5 @@
 ---
-title: Amoure /Lux
+title: Amour /Luxe
 subtitle:
 ref: pr-amour
 image: amourluxe
