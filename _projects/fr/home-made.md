@@ -1,35 +1,30 @@
 ---
 title: Home-Made
-subtitle: FR - Eine Stückentwicklung
+subtitle: Écriture de plateau
 ref: pr-home-made
 image: homemade
-quote: Home-Made FR QUOTE
-speaker: Home-Made FR Speaker
+quote: Qui devrais-je épargner par mon silence ?
+speaker: Home-Made 
 year: 2016
 location: Théâtre de Vidy, Lausanne
 ---
 
 **Qu'est que peut être plus HOME-MADE comme un entfant?**
-Home – Heimat, Zuhause, Mutter, Umfeld.
-Ein Fixpunkt in der Frage nach Herkunft und Zugehörigkeit.
-Ein Geflecht aus Regeln und Konventionen.
-Ein Ort der Geborgenheit, vielleicht auch der Enge.
-Wie soll man sich von diesem Raum lösen bei dem Versuch, einzigartig und anders zu werden?
-Von diesem Raum, den man vielleicht gerade deswegen „Zuhause“ nennt, weil man ihn inzwischen verlassen hat; weil man dort seine Vertrauten findet, weil er einem vertraut ist.
-Ein Traumort, ein Sehnsuchtsort, ein Ort der Kindheit, der längst der Vergangenheit angehört, der Erinnerung, dem Unerreichbaren.
-
-Home-Made ist von Fritz Zorns autobiographischen Roman Mars inspiriert.
-Dessen Protagonist, ein junger Züricher Milliardär, beginnt in dem Moment, als er von seiner unheilbaren Krankheit erfährt, die eigene Erziehung radikal in Frage zu stellen.
-Diesem Eintauchen in seine Erinnerungen entspringt eine so präzise wie harte Kritik an seiner bürgerlichen Erziehung.
-
-Im Spannungsverhältnis zwischen Anziehung und Abstoßung versucht Home-Made das ambivalente Verhältnis eines Individuums zu seinem familiären und sozialen Umfeld freizulegen, von dem ausgehend es sich selbst konstruiert.
-Dabei webt die Theaterkompanie mikro-kit einige Motive aus Mars in den eigenen durch Improvisationen und Recherche inspirierten Text, stellt durch das Prisma individueller Lebenswege die Frage nach dem Konstruktionsprozess von Identität und verschränkt fiktive Figuren mit dokumentarischem Material.
-
-Es spielen: Baptiste Coustenoble und Tomas Gonzalez
-Text und Regie: Magali Tosato
-Text und Dramaturgie: Lydia Dimitrow
-Bühne und Kostüme: Franziska Keune
-Video: Fanny Guichard
-Deutsche Übertitel: Lydia Dimitrow
-
-Premiere am 22.09.2015 / Théâtre de Vidy Lausanne
+Qu'y a-t-il de plus 'fait maison' qu’un enfant ? Maison – mère, foyer, milieu social. Un ensemble de règles et un point d'attache, d'origine, d'appartenance. Un espace accueillant, protecteur, étouffant peut-être. Comment s'en défaire pour devenir unique et autre ? Et pour pouvoir ensuite l'appeler 'Home', parce qu'on en est sorti ; parce qu'on y trouve ses semblables ; parce qu'on s'y sent 'chez soi'. Lieu rêvé, lieu désiré, lieu passé, associé à l’enfance, au souvenir, à l'inaccessible.
+ 
+"Home-Made" s'inspire librement du roman autobiographique Mars de Fritz Zorn. Son protagoniste, un jeune milliardaire zurichois, remet radicalement en cause son éducation au moment où il se sait atteint d’une maladie incurable. Cette plongée dans la mémoire le conduit à une critique aussi drôle qu'impitoyable de son éducation bourgeoise.
+ 
+Oscillant entre adhésion et contestation, "Home-made" révèle les tensions qui marquent le rapport de l’individu à l'édifice familial et social sur lequel il se construit. Mêlant certains motifs de Mars à une écriture personnelle issue d'improvisations et de recherches documentaires, la compagnie mikro-kit s'intéresse à la fabrique de l’identité par le prisme de trajectoires individuelles, croisant personnages de fiction et matériau documentaire.
+ 
+ 
+**Avec :** 
+Baptiste Coustenoble et Tomas Gonzalez
+ 
+**Texte et mise en scène :** Magali Tosato
+**Texte et Dramaturgie :** Lydia Dimitrow
+**Scénographie et costumes :** Franziska Keune
+**Collaboration artistique et vidéo :** Fanny Guichard
+**Surtitres allemands :** Lydia Dimitrow
+ 
+ 
+Première le 22.09.2015 / Théâtre de Vidy, Lausanne
