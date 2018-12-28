@@ -1,7 +1,7 @@
 ---
 title: Magali Tosato
 image: mt
-role: realisateuse
+role: Mise en scène
 ref: magali
 ---
 
