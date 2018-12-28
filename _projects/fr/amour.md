@@ -9,7 +9,7 @@ year: 2017
 location: Théâtre de Vidy, Lausanne
 ---
 
-Aimer, se laisser toucher, s’attacher à un être, chercher un territoire commun pour y ancrer une histoire. Sol mouvant qui, pour certains, risque de se dérober sous leurs pieds à l’échéance de leurpassion ou de leur permis de séjour.
+Aimer, se laisser toucher, s’attacher à un être, chercher un territoire commun pour y ancrer une histoire. Sol mouvant qui, pour certains, risque de se dérober sous leurs pieds à l’échéance de leur passion ou de leur permis de séjour.
 
 **Amour/Luxe** plonge le spectateur dans le vif de l’amour, auquel tous aspirent, et de la loi, à laquelle nul n’échappe. Que sommes-nous prêts à tenter pour mener l’existence dont nous rêvons ? Pour vivre auprès de la personne de notre choix ? Qui est compétent pour juger de la sincérité des sentiments ?
 Sous l’effet d’une politique migratoire de plus en plus restrictive, les officiers d’état civil sont aujourd’hui tenus, en Suisse, de vérifier les motivations des fiancés. Suspectant le partenaire non
