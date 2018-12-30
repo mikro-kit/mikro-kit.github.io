@@ -3,7 +3,7 @@ title: Amour /Luxe
 subtitle:
 ref: pr-amour
 image: amourluxe
-quote: Est-ce que l’amour a un potentiel utopique ? 
+quote: Est-ce que l’amour a un potentiel utopique ?
 speaker: Amour/Luxe
 year: 2017
 location: Théâtre de Vidy, Lausanne
@@ -19,18 +19,18 @@ Poursuivant sa recherche d’un théâtre documentaire polyphonique, la compagni
 
 Peut-on imaginer un lien plus puissant que l’amour pour s’inscrire dans le monde? **Amour/Luxe** célèbre avec poésie les ressources individuelles, la capacité des hommes et des femmes à briser ces mécaniques administratives, à trouver des alternatives pour défendre leurs choix et leur intégrité.
 
-**Avec:** 
-Manuela Beltran Marulanda 
-Charlotte Dumartheray
-Moanda Daddy Kamono
-Luis Alberto Rodriguez Martinez
+**Avec:**  
+Manuela Beltran Marulanda  
+Charlotte Dumartheray  
+Moanda Daddy Kamono  
+Luis Alberto Rodriguez Martinez  
 
-**Texte et mise en scène :** Magali Tosato
-**Texte et dramaturgie :** Lydia Dimitrow
-**Scénographie et costumes :** Franziska Keune
-**Musique :** Hans Block
-**Lumière :** Christophe Glanzmann
-**Assistanat à la mise en scène :** Jean-Daniel Piguet
+**Texte et mise en scène :** Magali Tosato  
+**Texte et dramaturgie :** Lydia Dimitrow  
+**Scénographie et costumes :** Franziska Keune  
+**Musique :** Hans Block  
+**Lumière :** Christophe Glanzmann  
+**Assistanat à la mise en scène :** Jean-Daniel Piguet  
 
 **Training d'Acteur (TAC) :** Inez Cierna
 

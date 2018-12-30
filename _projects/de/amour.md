@@ -3,8 +3,8 @@ title: Luxus/ Liebe
 subtitle:
 ref: pr-amour
 image: amourluxe
-quote: Hat die Liebe das Potential zur Utopie? 
-speaker: Luxus/Liebe 
+quote: Hat die Liebe das Potential zur Utopie?
+speaker: Luxus/Liebe
 year: 2017
 location: Théâtre de Vidy, Lausanne
 ---
@@ -20,19 +20,20 @@ Was sind wir bereit, für das Leben zu geben, das wir uns erträumen? Um mit dem
 zusammenzuleben, den wir lieben?
 **Luxus/Liebe** zeigt unser Potential auf, dem Verwaltetwerden etwas entgegenzusetzen und für das zukämpfen, das uns wichtig ist.
 
-**Es spielen:** 
-Manuela Beltran Marulanda 
-Charlotte Dumartheray
-Moanda Daddy Kamono
-Luis Alberto Rodriguez Martinez
- 
-**Text und Regie:** Magali Tosato
-**Text und Dramaturgie:** Lydia Dimitrow
-**Bühnenbild und Kostüme:** Franziska Keune
-**Musik:** Hans Block
-**Licht:** Christophe Glanzmann
-**Regieassistenz:** Jean-Daniel Piguet
- 
-**Deutsche Übertitel:** Lydia Dimitrow
+**Es spielen:**  
+Manuela Beltran Marulanda  
+Charlotte Dumartheray  
+Moanda Daddy Kamono  
+Luis Alberto Rodriguez Martinez  
+
+**Text und Regie:** Magali Tosato  
+**Text und Dramaturgie:** Lydia Dimitrow  
+**Bühnenbild und Kostüme:** Franziska Keune  
+**Musik:** Hans Block  
+**Licht:** Christophe Glanzmann  
+**Regieassistenz:** Jean-Daniel Piguet  
+
+**Deutsche Übertitel:** Lydia Dimitrow  
 **Training d'Acteur (TAC):** Inez Cierna
-Premiere am 28.02. 2017 / Théâtre de Vidy-Lausanne
+
+Premiere am 28.02. 2017 / Théâtre de Vidy-Lausanne  
