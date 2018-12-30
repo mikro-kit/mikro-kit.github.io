@@ -2,11 +2,11 @@
   @include cols($colspan: 1, $total-cols: 1);
 
   @media screen and (min-width: $breakpoint-phone-landscape + 0px) {
-    flex: 1 0 50%;
+    flex: 0 0 50%;
   }
 
   @media screen and (min-width: $breakpoint-tablet-landscape + 0px) {
-    @include cols($colspan: 3);
+    @include cols($colspan: 4);
   }
 
   align-items: center;
