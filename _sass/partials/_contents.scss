@@ -8,7 +8,7 @@
   }
 
   &__info {
-    padding: 0 16 * $to-rems + rem;
+    padding: 0 20 * $to-rems + rem;
   }
 
   &__footer {
@@ -18,5 +18,6 @@
   &__project-item,
   &__press-item {
     margin-bottom: 64 * $to-rems + rem;
+    padding: 0 20 * $to-rems + rem;
   }
 }
