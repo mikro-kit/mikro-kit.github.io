@@ -15,8 +15,8 @@
 
 @mixin cols ($grow: 0, $colspan: $default-colspan, $total-cols: $default-total-cols) {
   flex-grow: $grow;
-  flex-shrink: 0;
-  flex-basis: $colspan / $total-cols * 100 + 0%;
+  // flex-shrink: 0;
+  flex-basis: $colspan * 100 / $total-cols + 0%;
 }
 
 
