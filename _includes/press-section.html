@@ -1,10 +1,9 @@
   <div class="section__press" id="Presse">
     <div class="row">
-      <h2 class="section__heading--press">presse</h2>
+      {% assign heading = site.data.nav.navItems | where: "ref", "press" %}
+      <h2 class="section__heading section__heading--press">{{ heading[0].title[page.lang] }}</h2>
     </div>
     <div class="row content__press">
-
-
 
       {% assign projects = site.projects | where: "lang", page.lang | sort: "year" | reverse %}
 
@@ -16,7 +15,7 @@
 
       {% if articles.size > 0 %}
 
-      <div class="row press-list__title"><h3>{{ project.title }}</h3></div>
+      <div class="row"><h3 class="press-list__title">{{ project.title }}</h3></div>
       <div class="row press-list">
 
         {% for article in articles %}
