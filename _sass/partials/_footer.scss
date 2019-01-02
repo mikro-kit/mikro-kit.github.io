@@ -16,6 +16,10 @@
     }
   }
 
+  &__lastitems {
+    margin-top: 40 * $to-rems + rem;
+  }
+
   &-title {
     color: $visited-link-color;
     margin-bottom: 0;

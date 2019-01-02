@@ -3,7 +3,8 @@ layout: default
 ---
 <div class="section__team">
   <div class="row">
-    <h1 class="section__heading">team</h1>
+    {% assign heading = site.data.nav.navItems | where: "ref", "members" %}
+    <h1 class="section__heading">{{ heading[0].title[page.lang] }}</h1>
   </div>
   {% assign members = site.members | where: "lang", page.lang %}
   {% for member in members %}
