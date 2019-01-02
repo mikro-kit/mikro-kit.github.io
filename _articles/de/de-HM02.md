@@ -1,11 +1,13 @@
 ---
-title: DE-Anderer Presse-Artikel
+title: DE-HOMEMADE02-Anderer Presse-Artikel
 author: xy
 published: 14.09.2015
 paper: 24 heures
-ref: pr-amour
-project: amour
+press-ref: pr-home-made
+project: home-made
 ---
+
+DE HM_02
 
 skmvevmelav
 ekneklvaeöeöä

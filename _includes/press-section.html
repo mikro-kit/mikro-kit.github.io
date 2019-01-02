@@ -11,7 +11,7 @@
 
       {% assign lang_articles = site.articles | where: "lang", page.lang %}
 
-      {% assign articles = lang_articles | where: "ref", project.ref %}
+      {% assign articles = lang_articles | where: "press-ref", project.ref %}
 
       {% if articles.size > 0 %}
 

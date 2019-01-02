@@ -93,7 +93,7 @@ defaults:
 
 github: [metadata]
 
-gems:
+plugins:
   - jekyll-redirect-from
 exclude:
   - Gemfile
