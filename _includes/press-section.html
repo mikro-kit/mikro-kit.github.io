@@ -15,20 +15,25 @@
 
       {% if articles.size > 0 %}
 
-      <div class="row"><h3 class="press-list__title">{{ project.title }}</h3></div>
+      <div class="row">
+        <h3 class="press-list__title">{{ project.title }}</h3>
+      </div>
       <div class="row press-list">
 
         {% for article in articles %}
 
         <div class="press-article">
-          <a href="/presse-artikel.html" class="press-article-link">
-            <h6 class="press-article-link__title">{{ article.title }}</h6>
+          <div class="press-article-div">
+            <h6 class="press-article-div__title">{{ article.title }}</h6>
             <p>
-              <span class="press-article-link__author">{{ article.author }}</span><br>
-              <span class="press-article-link__date">{{ article.published}}</span>
-              <span class="press-article-link__press">{{ article.paper }}</span>
+              <span class="press-article-div__author">{{ article.author }}</span><br>
+              <span class="press-article-div__date">{{ article.published}}</span>
+              <span class="press-article-div__press">{{ article.paper }}</span>
             </p>
-          </a>
+            <p>
+              {{ article.content }}
+            </p>
+          </div>
         </div>
 
         {% endfor %}

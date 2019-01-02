@@ -3,9 +3,12 @@
     justify-content: flex-start;
   }
 
+  border-bottom-color: $circle-white;
+  border-bottom-style: solid;
+  border-bottom-width: 1 * $to-rems + rem;
   justify-content: center;
-  margin-bottom: 40 * $to-rems + rem;
-  padding: 0;
+  margin-bottom: 80 * $to-rems + rem;
+  padding-bottom: 40 * $to-rems + rem;
 
   h3 {
     min-height: 64 * $to-rems + rem;
@@ -31,36 +34,33 @@
 .press-article {
   @include cols($colspan: 1, $total-cols: 1);
 
-  @media screen and (min-width: $breakpoint-phone-landscape + 0px) {
-    flex: 1 0 50%;
+  // @media screen and (min-width: $breakpoint-phone-landscape + 0px) {
+  //   flex: 0 1 50%;
+  //   max-width: 50%;
+  // }
+
+  @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
+    @include cols($colspan: 6);
     max-width: 50%;
   }
 
-  @media screen and (min-width: $breakpoint-tablet-portrait + 0px) {
-    @include cols($colspan: 4);
-    max-width: 33%;
-  }
+  // @media screen and (min-width: $breakpoint-tablet-landscape + 0px) {
+  //   @include cols($colspan: 3);
+  //   max-width: 25%;
+  // }
 
-  @media screen and (min-width: $breakpoint-tablet-landscape + 0px) {
-    @include cols($colspan: 3);
-    max-width: 25%;
-  }
+  // max-width: 300 * $to-rems + rem;
 
-  max-width: 300 * $to-rems + rem;
-
-  &-link {
+  &-div {
     background-color: $white;
+    border-radius: 3px;
     box-shadow: 0 7px 12px $shadow-grey;
-    display: inline-block;
+    display: block;
     margin: 20 * $to-rems + rem;
     padding: 16 * $to-rems + rem;
 
     &__title {
-      color: $text-color;
-    }
-
-    &:hover &__title {
-      color: $link-color;
+      color: $default-color;
     }
 
     &__meta {
