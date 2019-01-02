@@ -38,7 +38,7 @@
   }
 
   &__press {
-    @extend %section;
+    @include section($padding-bottom: 80 * $to-rems);
     background-color: $color-bg-section-press;
   }
 
@@ -55,7 +55,7 @@
   }
 
   &__neutral {
-    @include section($add-padding: 124 * $to-rems);
+    @include section($add-padding: 124 * $to-rems, $padding-bottom: 80 * $to-rems);
     background-color: $color-bg-section-neutral;
   }
 }

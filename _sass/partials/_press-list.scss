@@ -57,7 +57,7 @@
     box-shadow: 0 7px 12px $shadow-grey;
     display: block;
     margin: 20 * $to-rems + rem;
-    padding: 16 * $to-rems + rem;
+    padding: 32 * $to-rems + rem;
 
     &__title {
       color: $default-color;
@@ -77,4 +77,8 @@
       font-weight: $fw-bold;
     }
   }
+}
+
+.in-project {
+  min-height: 0;
 }

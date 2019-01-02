@@ -33,42 +33,40 @@ layout: default
 
     </div>
   </div>
-  <div class="row press-list__title">
-    <h3>Presse zu „{{ page.title }}“:</h3>
-  </div>
-  <div class="row">
-    <div class="col-12">
-      <ul class="row press-list">
-        <li class="col-3">
-          <a href="#" class="press-list-link">
-            <h6 class="press-list-link__title">L/L - La jeune metteur en scène Magali Tosato ose le grand saut à Vidy</h6>
-            <p>
-              <span class="press-list-link__author">Gérald Cordonier</span><br>
-              <span class="press-list-link__date">14.09.2015</span> –
-              <span class="press-list-link__press">24heures</span>
-            </p>
-          </a>
-        </li>
-        <li class="col-3">
-          <a href="#" class="press-list-link">
-            <h6 class="press-list-link__title">L/L - Un produit de terroir suisse</h6>
-            <p>
-              <span class="press-list-link__author">Jonathan Hofer</span><br>
-              <span class="press-list-link__date">24.09.2015</span> –
-              <span class="press-list-link__press">L'Atelier critique</span>
-            </p>
-          </a>
-        </li>
-        <li class="col-3">
-          <a href="#" class="press-list-link">
-            <h6 class="press-list-link__title">L/L - Lorem ipsum dolor sit amet</h6>
-            <p>
-              <span class="press-list-link__author">incidunt dolore</span><br>
-              <span class="press-list-link__date">24.09.2015</span> –
-              <span class="press-list-link__press">dolorum cupiditate</span>
-            </p>
-          </a>
-        </li>
-      </ul>
-    </div> <!-- end press-list -->
 </div> <!-- end section__neutral -->
+
+{% assign lang_articles = site.articles | where: "lang", page.lang %}
+
+{% assign articles = lang_articles | where: "press-ref", page.ref %}
+
+{% if articles.size > 0 %}
+
+<div class="section__press in-project">
+  <div class="row">
+    <h3 class="press-list__title">Presse zu „{{ page.title }}“:</h3>
+  </div>
+
+  <div class="row press-list">
+
+  {% for article in articles %}
+
+    <div class="press-article">
+      <div class="press-article-div">
+        <h6 class="press-article-div__title">{{ article.title }}</h6>
+        <p>
+          <span class="press-article-div__author">{{ article.author }}</span><br>
+          <span class="press-article-div__date">{{ article.published}}</span>
+          <span class="press-article-div__press">{{ article.paper }}</span>
+        </p>
+        <p>
+          {{ article.content }}
+        </p>
+      </div>
+    </div>
+
+    {% endfor %}
+
+  </div> <!-- end press-list -->
+</div> <!-- end section__press -->
+
+{% endif %}
