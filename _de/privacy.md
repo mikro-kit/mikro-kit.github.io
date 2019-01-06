@@ -42,6 +42,8 @@ Weitere Daten werden durch die Nutzung dieser Website von mirko-kit nicht erhobe
 ## 3. mit welchen Anbietern wir diese Website zur Verfügung stellen
 a) Die von mirko-kit angebotene Website wird durch den Service **GitHub Pages** des Unternehmens [GitHub Inc.](www.github.com) gehostet und damit euch zur Verfügung gestellt. Laut der [Datenschutzerklärung](https://help.github.com/articles/github-privacy-statement/#githubs-global-privacy-practices) von GitHub ist diese konform mit der europäischen Datenschutzverordnung.
 
+b) Falls es ein Kontaktformular gibt muss dazu hier etwas stehen!
+
 ## 4. wie Ihr Erfassung von persönlichen Daten vermeiden könnt
 Für die unter 2. erläuterten Fälle gilt: Wenn ihr mit der Speicherung und Verarbeitung eurer Daten nicht einverstanden seid, schickt sie uns bitte nicht und seht von einer  Kontaktaufnahme ab. Falls ihr das bereits getan habt, widersprecht bitte der Verarbeitung und Speicherung eurer Daten.
 
