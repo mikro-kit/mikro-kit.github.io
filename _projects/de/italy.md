@@ -1,6 +1,6 @@
 ---
 title: I love Italy and Italy loves me
-subtitle: Eine Stückentwicklung
+subtitle: Stückentwicklung
 ref: pr-italy
 image: italy
 quote: Youkali ist ein Land, das man sucht; ein Stern, dem man folgt; ein Traum.
