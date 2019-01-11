@@ -1,37 +1,35 @@
 ---
-title: FR Qui a peur?
+title: Qui a peur d'Hamlet?
 subtitle:
 ref: pr-peur-hamlet
 image: peur-hamlet
-quote: Est-ce que l’amour a un potentiel utopique ?
+quote: C’est pas parce que c’est écrit, et qu’un spectre le dit, que c’est vrai.
 speaker: Amour/Luxe
 year: 2018
 location: Théâtre de Vidy, Lausanne
 ---
 
-Aimer, se laisser toucher, s’attacher à un être, chercher un territoire commun pour y ancrer une histoire. Sol mouvant qui, pour certains, risque de se dérober sous leurs pieds à l’échéance de leur passion ou de leur permis de séjour.
+Comment s’affirmer au sein d’un système contraignant sans sombrer dans la mélancolie, la folie ou la violence ?
+ 
+C’est pour la Compagnie mikro-kit l’énigme que pose Hamlet. En s’attaquant à ce texte fondateur, qui suscite tant de fascination, elle entend questionner notre rapport aux grandes œuvres, à l’autorité du texte et au pouvoir. S’inspirant de l’essai de Pierre Bayard (Enquête sur Hamlet, un dialogue de sourds, 2002) qui défend l’hypothèse du lecteur actif et se lance le défi d’identifier l’assassin du père d’Hamlet, elle rouvre l’enquête sur une énigme qui depuis quatre siècles n’a cessé de faire débat. Que s’est-il réellement passé au royaume d’Elseneur? Qui croire au sujet de la mort du roi ?
+ 
+La Compagnie mikro-kit poursuit sa démarche fondée sur la recherche documentaire et autobiographique, mais qui se déroule cette fois dans les coulisses du drame, pour venir bouleverser le spectacle.
+ 
+Créé d’abord dans des écoles, puis joué plus d’une centaine de fois dans des classes, des foyers ou des hôpitaux Qui a peur d’Hamlet ? est une confrontation directe avec le grand classique shakespearien. Plongé au cœur de l’action scénique, le public est pris à parti dans une enquête qui – même si elle joue avec le fantasme de résoudre un crime – met avant tout en lumière des enjeux humains, sociaux et politiques.
 
-**Amour/Luxe** plonge le spectateur dans le vif de l’amour, auquel tous aspirent, et de la loi, à laquelle nul n’échappe. Que sommes-nous prêts à tenter pour mener l’existence dont nous rêvons ? Pour vivre auprès de la personne de notre choix ? Qui est compétent pour juger de la sincérité des sentiments ?
-Sous l’effet d’une politique migratoire de plus en plus restrictive, les officiers d’état civil sont aujourd’hui tenus, en Suisse, de vérifier les motivations des fiancés. Suspectant le partenaire non
-européen de se servir du mariage dans le seul but de contourner la loi sur les étrangers, les fonctionnaires mènent l’enquête au coeur de l’intimité des couples afin de protéger leurs compatriotes d’une éventuelle « arnaque aux sentiments ».
-
-Poursuivant sa recherche d’un théâtre documentaire polyphonique, la compagnie mikro-kit s’inspire d’entretiens menés avec des couples binationaux et des experts pour questionner nos représentations de l’amour romantique. Les péripéties bureaucratiques, sortes d’épreuves du feu destinées à distinguer les vrais et les faux couples, entrent en résonance avec le vécu des comédiens.
-
-Peut-on imaginer un lien plus puissant que l’amour pour s’inscrire dans le monde? **Amour/Luxe** célèbre avec poésie les ressources individuelles, la capacité des hommes et des femmes à briser ces mécaniques administratives, à trouver des alternatives pour défendre leurs choix et leur intégrité.
-
-**Avec:**  
-Manuela Beltran Marulanda  
-Charlotte Dumartheray  
-Moanda Daddy Kamono  
-Luis Alberto Rodriguez Martinez  
-
-**Texte et mise en scène :** Magali Tosato  
-**Texte et dramaturgie :** Lydia Dimitrow  
-**Scénographie et costumes :** Franziska Keune  
-**Musique :** Hans Block  
-**Lumière :** Christophe Glanzmann  
-**Assistanat à la mise en scène :** Jean-Daniel Piguet  
-
-**Training d'Acteur (TAC) :** Inez Cierna
-
-Première le 28.02.2017 / Théâtre de Vidy Lausanne
+**Texte:** d’après William Shakespeare dans une traduction de Pascal Collin
+**Adaptation et mise en scène:** Magali Tosato
+**Adaptation et dramaturgie:** Lydia Dimitrow
+**Scénographie et costumes:** Franziska Keune
+**Musique:** Hans Block
+**Lumière et régie générale:** Théo Serez
+**Régie son et lumière:** Céline Ribeiro
+**Assistanat mise en scène:** Magali Heu
+ 
+**Avec**
+Alain Borek, Claire Deutsch, Baptiste Gilliéron et Tamaïti Torlasco
+ 
+**Production:** Compagnie mikro-kit
+**Coproduction:** Théâtre Benno Besson, Yverdon-les-Bains - Théâtre Vidy-Lausanne - Théâtre du Pommier, Neuchâtel
+ 
+Création le 30 octobre 2018 / Théâtre Benno Besson, Yverdon-les-Bains
