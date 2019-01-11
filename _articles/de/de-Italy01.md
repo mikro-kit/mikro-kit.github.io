@@ -1,6 +1,6 @@
 ---
 title: DE-ITALY01 -Un produit de tre..
-author: Timo
+author: Horst Rödiger
 published: 14.09.2015
 paper: FAZ
 press-ref: pr-italy
