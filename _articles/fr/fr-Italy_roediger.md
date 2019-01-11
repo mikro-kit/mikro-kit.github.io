@@ -1,5 +1,5 @@
 ---
-title: DE-ITALY01 -Un produit de tre..
+title: I love Italy and Italy loves me
 author: Horst Rödiger
 published: 19.03.2013
 paper: Livekritik.de
