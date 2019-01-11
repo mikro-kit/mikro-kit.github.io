@@ -1,6 +1,6 @@
 ---
 title: Luxus/ Liebe
-subtitle:
+subtitle: Stückentwicklung
 ref: pr-amour
 image: amourluxe
 quote: Hat die Liebe das Potential zur Utopie?
