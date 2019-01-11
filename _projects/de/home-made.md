@@ -1,6 +1,6 @@
 ---
 title: Home-Made
-subtitle: Eine Stückentwicklung
+subtitle: Stückentwicklung
 ref: pr-home-made
 image: homemade
 quote: Wem zuliebe sollte ich schweigen?
@@ -9,7 +9,7 @@ year: 2016
 location: Théâtre de Vidy, Lausanne
 ---
 
-**Was könnte mehr „home-made“ sein als ein Kind?**
+Was könnte mehr „home-made“ sein als ein Kind?
 Home – Heimat, Zuhause, Mutter, Umfeld.
 Ein Fixpunkt in der Frage nach Herkunft und Zugehörigkeit.
 Ein Geflecht aus Regeln und Konventionen.
