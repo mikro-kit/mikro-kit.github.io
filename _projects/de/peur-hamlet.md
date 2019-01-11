@@ -3,7 +3,7 @@ title: Qui a peur d'Hamlet?
 subtitle:
 ref: pr-peur-hamlet
 image: peur-hamlet
-quote: Nur weil etwas geschrieben steht und weil ein Geist was behauptet, muss es noch lange nicht stimmen
+quote: Nur weil etwas geschrieben steht und weil ein Geist was behauptet, muss es noch lange nicht stimmen.
 speaker: Amour/Luxe
 year: 2018
 location: Théâtre Benno Besson, Yverdon-les-Bains
