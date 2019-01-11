@@ -22,9 +22,9 @@ Claire Deutsch
 Baptiste Gilliéron  
 Nora Steinig  
 
-**Text:** „Hamlet“ von William Shakespeare, in einer Übersetzung von Pascal Collin und einer Adaption von lydia Dimitrow und Magali Tosato  
+**Text:** „Hamlet“ von William Shakespeare, in einer Übersetzung von Pascal Collin und einer Adaption von Lydia Dimitrow und Magali Tosato  
 **Regie:** Magali Tosato  
 **Kostüme:** Franziska Keune  
 **Dramaturgie:** Lydia Dimitrow  
 
-Premiere am 23.02.2015, danach weitere Vorstellungen von 2015 bis 2018 in den Klassenräumen verschiedenster Schulen in den Kantonen Waadt und Genf (CH) sowie auf La Réunion (FR).
+Premiere am 23.02.2015, danach weitere Vorstellungen (2015 bis 2018) in den Klassenräumen verschiedenster Schulen in den Kantonen Waadt und Genf (CH) sowie auf La Réunion (FR).
