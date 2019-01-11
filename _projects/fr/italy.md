@@ -1,6 +1,6 @@
 ---
 title: I love Italy and Italy loves me
-subtitle: Écriture de plateau
+subtitle: Création collective
 ref: pr-italy
 image: italy
 quote: Youkali ist ein Land, das man sucht; ein Stern, dem man folgt; ein Traum.
@@ -9,12 +9,11 @@ year: 2014
 location: bat-Studiotheater, Berlin
 ---
 
-Imperia und Gianni, immer gemeinsam. Sechzig Jahre lang. Tanzen, Kinder kriegen, Kaffee trinken, Tanten besuchen. Magali Tosatos Großeltern sind in den 50er Jahren aus Italien emigriert und haben sich in der Schweiz kennengelernt. Auch heute sind sie noch "verliebt wie am ersten Tag", sagt ihr Opa.
-Im Juni 2013 hat Magali Tosato angefangen, Szenen aus ihrem Alltag zu filmen und biografische Interviews mit ihnen zu führen. Die mittlerweile Achtzigjährigen erzählen ihre gemeinsame Lebensgeschichte wie einen Kitschroman, wo anscheinend "nur die Liebe (ge)zählt (hat)".
+Imperia et Gianni, toujours ensemble. Danser, s’occuper des enfants, boire du café, rendre visite à des tantes. Pendant soixante ans. 
+Mes grands-parents ont quittés leur Italie natale dans les années cinquante et se sont rencontrés en Suisse. Aujourd’hui encore ils vivent ensemble, « amoureux comme au premier jour », dit mon grand-père. 
 
-Imperia und Gianni, in ihrer Welt. Eine Insel irgendwo zwischen Schweiz und Italien, zwischen Fabrik und Garten, zwischen Alltag und Passion.
+En juin 2013 j’ai filmé des scènes de leur quotidien, ainsi que des interviews. Les octogénaires racontent leur histoire de vie commune comme un roman à l’eau de rose, où seul l’amour aurait compté. Imperia et Gianni, dans leur monde. Une île quelque part entre la Suisse et l’Italie, entre la fabrique et le jardin, entre le quotidien et la passion. Quelle est notre raison de vivre ? Trente ans de travail pour trente ans de retraite. Est-ce qu’il n’y a vraiment que l’amour qui compte ?
 
-Wofür lebt man? Dreißig Jahre Arbeit für dreißig Jahre Rente. Zählt wirklich nur die Liebe?
 
 Eine Inszenierung des vierten Studienjahres der HfS Ernst Busch.
 
