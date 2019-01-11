@@ -1,39 +1,35 @@
 ---
-title: DE Qui a peur?
+title: Qui a peur d'Hamlet?
 subtitle:
 ref: pr-peur-hamlet
 image: peur-hamlet
-quote: Hat die Liebe das Potential zur Utopie?
-speaker: Luxus/Liebe
+quote: Nur weil etwas geschrieben steht und weil ein Geist was behauptet, muss es noch lange nicht stimmen
+speaker: Amour/Luxe
 year: 2018
-location: Théâtre de Vidy, Lausanne
+location: Théâtre Benno Besson, Yverdon-les-Bains
 ---
 
-Liebe, Zuneigung, Zugehörigkeit, der Traum von einem Ort für die gemeinsame Zukunft, für eine gemeinsame Geschichte. Morscher Boden, der jederzeit unter den Füßen wegzubrechen droht, wenn eine Beziehung die engen Grenzen des Nationalstaats überschreitet.
+Comment s’affirmer au sein d’un système contraignant sans sombrer dans la mélancolie, la folie ou la violence ?
+ 
+C’est pour la Compagnie mikro-kit l’énigme que pose Hamlet. En s’attaquant à ce texte fondateur, qui suscite tant de fascination, elle entend questionner notre rapport aux grandes œuvres, à l’autorité du texte et au pouvoir. S’inspirant de l’essai de Pierre Bayard (Enquête sur Hamlet, un dialogue de sourds, 2002) qui défend l’hypothèse du lecteur actif et se lance le défi d’identifier l’assassin du père d’Hamlet, elle rouvre l’enquête sur une énigme qui depuis quatre siècles n’a cessé de faire débat. Que s’est-il réellement passé au royaume d’Elseneur? Qui croire au sujet de la mort du roi ?
+ 
+La Compagnie mikro-kit poursuit sa démarche fondée sur la recherche documentaire et autobiographique, mais qui se déroule cette fois dans les coulisses du drame, pour venir bouleverser le spectacle.
+ 
+Créé d’abord dans des écoles, puis joué plus d’une centaine de fois dans des classes, des foyers ou des hôpitaux Qui a peur d’Hamlet ? est une confrontation directe avec le grand classique shakespearien. Plongé au cœur de l’action scénique, le public est pris à parti dans une enquête qui – même si elle joue avec le fantasme de résoudre un crime – met avant tout en lumière des enjeux humains, sociaux et politiques.
 
-**Luxus/Liebe** führt den Zuschauer mitten hinein in die Wirren der Liebe, nach der sich jeder sehnt, und des Gesetzes, dem niemand entgeht.
-Inspiriert von Gesprächen mit binationalen Paaren und verschiedenen Experten, hinterfragt die Kompanie mikro-kit unsere Vorstellungen von romantischer Liebe. In einem vielstimmigen Dokumentartheaterstück werden bürokratische Feuerproben, die dazu dienen, echte von falschen Paaren zu unterscheiden, in Perspektive gesetzt mit den Biographien der Schauspieler. Wer ist in der Position, über die Aufrichtigkeit unserer Gefühle zu urteilen?
-
-Infolge einer immer restriktiveren Migrationspolitik sind Zivilstandsbeamte in der Schweiz heutzutage dazu angehalten, die Intention heiratswilliger Paare zu überprüfen. Wer nicht aus der EU kommt, aber einen Schweizer oder eine Schweizerin heiraten will, steht unter dem Verdacht, durch die Ehe lediglich das geltende Ausländerrecht umgehen zu wollen. Um ihre Landsleute vor etwaigem „emotionalen Betrug“ oder einem Missbrauch ihrer Gefühle zu schützen, nehmen die Beamten die Paare und das Wesen ihrer Beziehung unter die Lupe.
-
-Was sind wir bereit, für das Leben zu geben, das wir uns erträumen? Um mit dem Menschen
-zusammenzuleben, den wir lieben?
-**Luxus/Liebe** zeigt unser Potential auf, dem Verwaltetwerden etwas entgegenzusetzen und für das zukämpfen, das uns wichtig ist.
-
-**Es spielen:**  
-Manuela Beltran Marulanda  
-Charlotte Dumartheray  
-Moanda Daddy Kamono  
-Luis Alberto Rodriguez Martinez  
-
-**Text und Regie:** Magali Tosato  
-**Text und Dramaturgie:** Lydia Dimitrow  
-**Bühnenbild und Kostüme:** Franziska Keune  
-**Musik:** Hans Block  
-**Licht:** Christophe Glanzmann  
-**Regieassistenz:** Jean-Daniel Piguet  
-
-**Deutsche Übertitel:** Lydia Dimitrow  
-**Training d'Acteur (TAC):** Inez Cierna
-
-Premiere am 28.02. 2017 / Théâtre de Vidy-Lausanne  
+**Text:** nach William Shakespeare, Übersetzung: Pascal Collin
+**Fassung und Regie:** Magali Tosato
+**Fassung und Dramaturgie:** Lydia Dimitrow
+**Bühne und Kostüme:** Franziska Keune
+**Musik:** Hans Block
+**Licht und technische Leitung:** Théo Serez
+**Technische Betreuung:** Céline Ribeiro
+**Regieassistenz:** Magali Heu
+ 
+**Mit**
+Alain Borek, Claire Deutsch, Baptiste Gilliéron und Tamaïti Torlasco
+ 
+**Produktion:** Compagnie mikro-kit
+**Koproduktion:** Théâtre Benno Besson, Yverdon-les-Bains - Théâtre Vidy-Lausanne - Théâtre du Pommier, Neuchâtel
+ 
+Premiere am 30. Oktober 2018 / Théâtre Benno Besson, Yverdon-les-Bains
