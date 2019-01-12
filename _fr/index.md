@@ -12,7 +12,7 @@ réunit des jeunes artistes suisse romands et berlinois. Notre but commun est de
 (Première le 30. Oktober 2018, Théâtre Benno Besson, Yverdon-les-Bains)
 
 **Actuellement** la compagnie mikro-kit est en création pour le projet "Mettlach", une pièce de Lydia Dimitrow et Magali Tosato.
-(Première le 18. Januar 2019, Saarländisches Staatstheater)
+(Première le 18. Januar 2019, Saarländisches Staatstheater, en savoir plus: cliquez [ici](https://www.staatstheater.saarland/nc/stuecke/schauspiel/detail/mettlach/).)
 
 **Als nächstes** wird die Kompanie mikro-kit "Wilde wilde Wesen" zur Uraufführung bringen, ein Objekttheaterstück von Alessandro Maggioni und Magali Tosato.
 (Première le 25. April 2019, Schaubude Berlin)
