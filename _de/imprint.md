@@ -6,22 +6,23 @@ ref: imprint
 permalink: /de/imprint/
 ---
 # Impressum
-Die nachstehenden Informationen enthalten die gesetzlich vorgesehenen Pflichtangaben zur Anbieterkennzeichnung, sowie wichtige rechtliche Hinweise zur Internetpräsenz der Kompagnie mikro-kit
+Die nachstehenden Informationen enthalten die gesetzlich vorgesehenen Pflichtangaben zur Anbieterkennzeichnung sowie wichtige rechtliche Hinweise zur Internetpräsenz der Kompanie mikro-kit
 
 
 ### Anbieterin und Verantwortliche (i.S.d.P.)  
-Magda Muster  
-Musterstr. 3  
-29394 Musterhausen  
+Compagnie mikro-kit
+c/o ch. du Bois-Gentil 38
+1018 Lausanne
+CH - Suisse  
 
-Telefon: 030 / 2660  
+ 
 post@mikro-kit.de
 
 ##### Umsatzsteueridentifikationsnummer
-DE ...--- CH??
+
 
 ##### Register oder Form
-wo mikro-kit eingetragen ist als Unternehmen oder Kompagnie?
+
 
 ### Disclaimer
 
