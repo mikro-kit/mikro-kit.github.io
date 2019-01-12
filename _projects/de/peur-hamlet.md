@@ -1,6 +1,6 @@
 ---
 title: Qui a peur d'Hamlet?
-subtitle: nach William Shakespeare
+subtitle: nach W. Shakespeare
 ref: pr-peur-hamlet
 image: peur-hamlet
 quote: Nur weil etwas geschrieben steht und weil ein Geist was behauptet, muss es noch lange nicht stimmen.
