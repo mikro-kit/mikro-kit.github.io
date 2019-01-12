@@ -11,4 +11,4 @@ project: italy
 
 Was aber am stärksten in Erinnerung bleibt, sind nicht darstellerische Kabinettstückchen, sondern ist die zumeist ganz leise angesetzte Ensembleleistung (...). Viel Beifall für das Ensemble und, wie gesagt, auch für die als Zuschauer anwesenden Großeltern der Autorin. Beinahe ein Familienfest."
 
-*Titel des Artikels: "I love Italy and Italy loves me"
+Titel des Artikels: "I love Italy and Italy loves me"
