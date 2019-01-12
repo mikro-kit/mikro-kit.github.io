@@ -9,5 +9,5 @@ project: italy
 
 «Les jeunes interprètes de la Haute Ecole de théâtre Ernst Busch jouent des scènes tirées de la vie d’Imperia et de Gianni : de leur rencontre, alors qu’ils étaient jeunes travailleurs immigrés en Suisse, jusqu’à leur retraite en Italie. (…) Et chacun de se demander : comment fait-on pour rester aussi longtemps ensemble, et – cela saute aux yeux – avec bonheur même ? Mélange d’amour, d’habitude et de contentement ? Peut-être. Chaque spectateur est libre de trouver sa propre réponse. Une chose est sûre : nous n’avons pas affaire à une comédie sentimentale à l’eau de rose. Même si après une heure et demie de cette histoire d’amour, certains devront peut-être essuyer une larme.»
 
-*Extrait de: "Mama, Papa, Oma auf die Bühne – ein neuer Trend auf Berlins Bühnen?"
+Extrait de: "Mama, Papa, Oma auf die Bühne – ein neuer Trend auf Berlins Bühnen?"
 
