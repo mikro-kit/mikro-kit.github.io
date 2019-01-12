@@ -24,7 +24,7 @@ Felix Maria Richter
 Christophe Vetter  
 Kara Schröder  
 
-**Regie:** Magali Tosato (3. Stj. Regie HfS)  
+**Regie:** Magali Tosato   
 **Bühne und Kostüme:** Franziska Keune  
 **Dramaturgie:** Lydia Dimitrow  
 **Video:** Pary El-Qualquili  
