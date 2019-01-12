@@ -1,6 +1,6 @@
 ---
 title: Qui a peur d'Hamlet?
-subtitle:
+subtitle: d'après William Shakespeare
 ref: pr-peur-hamlet
 image: peur-hamlet
 quote: C’est pas parce que c’est écrit, et qu’un spectre le dit, que c’est vrai.
