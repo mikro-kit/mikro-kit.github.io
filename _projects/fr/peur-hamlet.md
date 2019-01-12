@@ -4,7 +4,7 @@ subtitle:
 ref: pr-peur-hamlet
 image: peur-hamlet
 quote: C’est pas parce que c’est écrit, et qu’un spectre le dit, que c’est vrai.
-speaker: Amour/Luxe
+speaker: Qui a peur d'Hamlet?
 year: 2018
 location: Théâtre de Vidy, Lausanne
 ---
