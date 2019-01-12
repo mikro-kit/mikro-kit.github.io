@@ -14,7 +14,7 @@ vereint junge franko-schweizer und Berliner Künstler_innen. Unser gemeinsames Z
 (Premiere am 30. Oktober 2018 am Théâtre Benno Besson, Yverdon-les-Bains)
 
 **Aktuell** arbeiten wir an der Uraufführung von "Mettlach", einem Stück von Lydia Dimitrow und Magali Tosato.
-(Premiere am 18. Januar 2019 am Saarländischen Staatstheater)
+(Premiere am 18. Januar 2019 am Saarländischen Staatstheater, weitere Spieltermine und Informationen: [hier](https://www.staatstheater.saarland/nc/stuecke/schauspiel/detail/mettlach/).)
 
 **Als nächstes** wird die Kompanie mikro-kit "Wilde wilde Wesen" zur Uraufführung bringen, ein Objekttheaterstück von Alessandro Maggioni und Magali Tosato.
 (Premiere am 25. April 2019 an der Schaubude Berlin)
