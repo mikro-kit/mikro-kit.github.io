@@ -6,7 +6,7 @@ ref: privacy
 permalink: /de/privacy/
 ---
 # Datenschutz
-Wir als Kompagnie mikro-kit repektieren das Recht eine digitale Privatssphäre, daher möchten wir erläutern wie mit Ihren persönlichen Daten umgehen. Im Folgenden erläutern wir daher:
+Wir als Kompagnie mikro-kit repektieren das Recht eine digitale Privatssphäre, daher möchten wir erläutern, wie wir mit Ihren persönlichen Daten umgehen. Im Folgenden erläutern wir daher:
 
 1. wer Verantwortliche ist in Bezug auf den Schutz Eurer Daten
 2. warum und wann wir persönliche Daten erfassen
@@ -15,23 +15,24 @@ Wir als Kompagnie mikro-kit repektieren das Recht eine digitale Privatssphäre, 
 
 ## 1. Verantwortliche im Sinne der DSVGO
 
-Kompagnie mikro-kit  
-Musterstr. 3  
-29394 Musterhausen  
+Compagnie mikro-kit
+c/o ch. du Bois-Gentil 38
+1018 Lausanne
+CH - Suisse  
 
-Telefon: 030 / 2660  
 post@mikro-kit.de
 
 *Datenschutzbeauftragte*
-Magda Muster
-Musterstr. 3  
-29394 Musterhausen  
+Magali Tosato
+c/o ch. du Bois-Gentil 38
+1018 Lausanne
+CH - Suisse    
 
 datenschutz@mikro-kit.de
 
 
 ## 2. Warum und wann wir persönliche Daten erfassen
-Persönliche Daten müssen wir immer dann erfassen und verarbeiten, wenn Ihr mit uns Kontakt tretet, z.B. wenn wir auf eine Email antworten.
+Persönliche Daten müssen wir immer dann erfassen und verarbeiten, wenn Ihr mit uns Kontakt tretet, z.B. wenn wir auf eine E-Mail antworten.
 Einen speziellen Fall stellt das Kontaktformular dar:
 a) Mit dem Abschicken willigt Ihr in die Verarbeitung ein.
 b) Wenn ihr zustimmt unserem Newsletter hinzugefügt zu werden, gilt das als Zustimmung der Speicherung und Verarbeitung eurer angegebnen Daten, damit wir euch Nachrichten zuschicken können. Dem könnt ihr jederzeit widersprechen.
