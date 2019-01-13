@@ -35,3 +35,5 @@ Luis Alberto Rodriguez Martinez
 **Training d'Acteur (TAC) :** Inez Cierna
 
 Première le 28.02.2017 / Théâtre de Vidy Lausanne
+
+Spectacle en français, avec des surtitres allemands
