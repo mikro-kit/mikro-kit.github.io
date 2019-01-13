@@ -28,3 +28,5 @@ Baptiste Coustenoble et Tomas Gonzalez
 **Surtitres allemands :** Lydia Dimitrow  
 
 Première le 22.09.2015 / Théâtre de Vidy, Lausanne
+
+Spectacle en français, avec des surtitres allemands
