@@ -18,10 +18,11 @@ CH - Suisse
  
 post@mikro-kit.de
 
-##### Umsatzsteueridentifikationsnummer
 
 
 ##### Register oder Form
+
+Association nach Schweizer Recht
 
 
 ### Disclaimer
