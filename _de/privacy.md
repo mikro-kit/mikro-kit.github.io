@@ -6,9 +6,9 @@ ref: privacy
 permalink: /de/privacy/
 ---
 # Datenschutz
-Wir als Kompagnie mikro-kit repektieren das Recht eine digitale Privatssphäre, daher möchten wir erläutern, wie wir mit Ihren persönlichen Daten umgehen. Im Folgenden erläutern wir daher:
+Wir als Kompanie mikro-kit respektieren das Recht auf eine digitale Privatssphäre, daher möchten wir erläutern, wie wir mit Euren persönlichen Daten umgehen. Im Folgenden erläutern wir daher:
 
-1. wer Verantwortliche ist in Bezug auf den Schutz Eurer Daten
+1. wer verantwortlich ist in Bezug auf den Schutz Eure Daten
 2. warum und wann wir persönliche Daten erfassen
 3. mit welchen Anbietern wir diese Website zur Verfügung stellen
 4. wie Ihr Erfassung von persönlichen Daten vermeiden könnt
@@ -35,7 +35,7 @@ datenschutz@mikro-kit.de
 Persönliche Daten müssen wir immer dann erfassen und verarbeiten, wenn Ihr mit uns Kontakt tretet, z.B. wenn wir auf eine E-Mail antworten.
 Einen speziellen Fall stellt das Kontaktformular dar:
 a) Mit dem Abschicken willigt Ihr in die Verarbeitung ein.
-b) Wenn ihr zustimmt unserem Newsletter hinzugefügt zu werden, gilt das als Zustimmung der Speicherung und Verarbeitung eurer angegebnen Daten, damit wir euch Nachrichten zuschicken können. Dem könnt ihr jederzeit widersprechen.
+b) Wenn ihr zustimmt, unserem Newsletter hinzugefügt zu werden, gilt das als Zustimmung der Speicherung und Verarbeitung eurer angegebenen Daten, damit wir euch Nachrichten zuschicken können. Dem könnt ihr jederzeit widersprechen.
 
 Weitere Daten werden durch die Nutzung dieser Website von mirko-kit nicht erhoben.
 
@@ -43,7 +43,7 @@ Weitere Daten werden durch die Nutzung dieser Website von mirko-kit nicht erhobe
 ## 3. mit welchen Anbietern wir diese Website zur Verfügung stellen
 a) Die von mirko-kit angebotene Website wird durch den Service **GitHub Pages** des Unternehmens [GitHub Inc.](www.github.com) gehostet und damit euch zur Verfügung gestellt. Laut der [Datenschutzerklärung](https://help.github.com/articles/github-privacy-statement/#githubs-global-privacy-practices) von GitHub ist diese konform mit der europäischen Datenschutzverordnung.
 
-b) Falls es ein Kontaktformular gibt muss dazu hier etwas stehen!
+b) Kontaktformular:
 
 ## 4. wie Ihr Erfassung von persönlichen Daten vermeiden könnt
 Für die unter 2. erläuterten Fälle gilt: Wenn ihr mit der Speicherung und Verarbeitung eurer Daten nicht einverstanden seid, schickt sie uns bitte nicht und seht von einer  Kontaktaufnahme ab. Falls ihr das bereits getan habt, widersprecht bitte der Verarbeitung und Speicherung eurer Daten.
