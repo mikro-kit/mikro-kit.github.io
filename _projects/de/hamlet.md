@@ -28,3 +28,5 @@ Nora Steinig
 **Dramaturgie:** Lydia Dimitrow  
 
 Premiere am 23.02.2015, danach weitere Vorstellungen (2015 bis 2018) in den Klassenräumen verschiedenster Schulen in den Kantonen Waadt und Genf (CH) sowie auf La Réunion (FR).
+
+Sprache: französisch, deutsche Textfassung (als Leseprobe) vorhanden
