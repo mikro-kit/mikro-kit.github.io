@@ -44,3 +44,5 @@ Alain Borek, Claire Deutsch, Baptiste Gilliéron et Tamaïti Torlasco
 
  
 Création le 30 octobre 2018 / Théâtre Benno Besson, Yverdon-les-Bains
+
+Spectacle en français, traduction allemande du texte disponible
