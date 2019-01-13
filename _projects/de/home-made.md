@@ -35,3 +35,5 @@ Baptiste Coustenoble und Tomas Gonzalez
 **Deutsche Übertitel:** Lydia Dimitrow  
 
 Premiere am 22.09.2015 / Théâtre de Vidy, Lausanne
+
+Sprache: französisch, deutsche Übertitel vorhanden
