@@ -31,3 +31,5 @@ Pirmin Sedlmeir
 **Musique :** Hans Block, Felicitas Conrad, Camille Phelep et Arian Stechert  
 
 Première 11.04.2014./ bat-Studiotheater Berlin
+
+Spectacle en allemand
