@@ -35,3 +35,5 @@ Kara Schröder
 **Gastspiel** am 25.05.2013 / am Residenztheater München,  
 im Rahmen des „Heiner Müller Festival“  
 **Kolloquium** am 22.10.2013 / „Bertolt Brecht - Heiner Müller“, Maison Heinrich Heine, Cité Universitaire, Paris (Vortrag von Magali Tosato)  
+
+Sprache: deutsch
