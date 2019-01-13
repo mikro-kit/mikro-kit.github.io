@@ -40,3 +40,5 @@ Anton Weil
 Première le 23.02.2013 au bat-Studiotheater, Berlin  
 Représentation dans le cadre du festival ‘Heiner Müller’ le 25.05.2013 au Residenztheater, Münich  
 Colloque ‘Bertold Brecht - Heiner Müller’ le 22.10.2013 à la Maison Heinrich Heine, Cité Universitaire Paris (Contribution de Magali Tosato)  
+
+Spectacle en allemand
