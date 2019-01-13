@@ -36,6 +36,8 @@ collections:
     output: true
     # permalink: /:collection/:name
 
+  contact:
+
   members:
 
   articles:
@@ -89,6 +91,20 @@ defaults:
       path: "_articles/fr"
     values:
       layout: "article"
+      lang: "fr"
+
+  -
+    scope:
+      path: "_contact/de"
+    values:
+      layout: "default"
+      lang: "de"
+
+  -
+    scope:
+      path: "_contact/fr"
+    values:
+      layout: "default"
       lang: "fr"
 
 github: [metadata]
