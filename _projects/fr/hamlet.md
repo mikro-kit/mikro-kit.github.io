@@ -1,6 +1,6 @@
 ---
-title: Hamlet
-subtitle: dans les écoles
+title: Hamlet dans les écoles
+subtitle: 
 ref: pr-hamlet
 image: hamlet
 quote: Ça commence mal et le pire est à venir.
