@@ -1,6 +1,6 @@
 ---
-title: Hamlet
-subtitle: in den Schulen
+title: Hamlet in den Schulen
+subtitle: 
 ref: pr-hamlet
 image: hamlet
 quote: Schlimm nun beginnt’s, Schlimmres folgt hinterdrein.
