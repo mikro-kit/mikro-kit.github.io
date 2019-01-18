@@ -4,4 +4,4 @@ ref: contact
 
 ---
 
-## Bei Anregungen und Anfragen schreiben Sie uns gern eine Nachricht an unsere Email-Adresse: <info@mikro-kit.de>
+## Bei Anregungen und Anfragen schreiben Sie uns gern eine Nachricht an unsere Email-Adresse: <info@mikrokit.de>
