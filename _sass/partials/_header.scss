@@ -48,3 +48,11 @@ header {
     }
   }
 }
+
+.js-menu-show {
+  display: block;
+
+  @media screen and (min-width: $breakpoint-tablet-landscape + 0px) {
+    display: none;
+  }
+}
