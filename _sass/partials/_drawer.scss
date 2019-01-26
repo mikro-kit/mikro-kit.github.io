@@ -45,6 +45,7 @@
   &__logo {
     border-bottom: 1px solid rgba(255, 255, 255, .6);
     display: flex;
+    min-height: 61 * $to-rems + rem;
     padding: 1.25rem 0 .75rem 1rem;
   }
 
@@ -57,7 +58,7 @@
     height: 100%;
     left: 0;
     max-width: 25rem;
-    //padding: 54 * $to-rems + rem 16 * $to-rems + rem 18 * $to-rems + rem;
+    overflow-y: scroll;
     position: relative;
     top: 0;
     transform: translateX(-103%);
