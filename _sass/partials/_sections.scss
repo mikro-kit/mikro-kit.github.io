@@ -15,7 +15,7 @@
   &__heading {
     @include cols(12);
     margin: 0;
-    padding: 40 * $to-rems + rem 20 * $to-rems + rem;
+    padding: 40 * $to-rems + rem 28 * $to-rems + rem;
 
     &--press {
       color: $color-font-section-press;

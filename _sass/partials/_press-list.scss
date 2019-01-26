@@ -22,7 +22,7 @@
 
   &__title {
     color: $color-font-section-press;
-    padding: 0 20 * $to-rems + rem;
+    padding: 0 28 * $to-rems + rem;
 
     &--home {
       min-height: 64 * $to-rems + rem;
@@ -56,8 +56,8 @@
     border-radius: 3px;
     box-shadow: 0 7px 12px $shadow-grey;
     display: block;
-    margin: 20 * $to-rems + rem;
-    padding: 32 * $to-rems + rem;
+    margin: 28 * $to-rems + rem;
+    padding: 28 * $to-rems + rem;
 
     &__title {
       color: $default-color;
