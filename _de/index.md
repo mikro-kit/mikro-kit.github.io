@@ -23,5 +23,5 @@ vereint junge franko-schweizer und Berliner Künstler_innen. Unser gemeinsames Z
 **Als nächstes** wird die Kompanie mikro-kit "Wilde wilde Wesen" zur Uraufführung bringen, ein Objekttheaterstück von Alessandro Maggioni und Magali Tosato.
 
 
-(Premiere am 25. April 2019 an der Schaubude Berlin. Weitere Spieltermine vom 26. bis zum 25. April an der Schaubude Berlin und am 11. Mai im T-Werk Potsdam; Gastspiele in München und Osnabrück in Planung.)
+(Premiere am 25. April 2019 an der Schaubude Berlin. Weitere Spieltermine vom 25. bis zum 28. April an der Schaubude Berlin und am 11. Mai im T-Werk Potsdam (Ausschnitt); weitere Gastspiele in München und Osnabrück in Planung.)
 
