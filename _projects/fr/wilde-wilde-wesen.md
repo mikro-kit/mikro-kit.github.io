@@ -1,50 +1,53 @@
 ---
-title: Wilde, wilde Wesen
-subtitle: nach W. Shakespeare
+title: Wilde wilde Wesen
+subtitle: Objekttheater
 ref: pr-wilde-wilde-wesen
 image: wilde-wilde-wesen
-quote: Template Quote
-speaker: Template Speaker
-year: 2018
-location: Théâtre Benno Besson, Yverdon-les-Bains
+quote: Welche Geschichten erzählen unsere Wunden?
+speaker: Wilde wilde Wesen
+year: 2019
+location: Schaubude Berlin
 published: FALSE
 ---
 
-TEMPLATE FR
-Comment s’affirmer au sein d’un système contraignant sans sombrer dans la mélancolie, la folie ou la violence ? C’est pour la Compagnie mikro-kit l’énigme que pose Hamlet. En s’attaquant à ce texte fondateur, qui suscite tant de fascination, elle entend questionner notre rapport aux grandes œuvres, à l’autorité du texte et au pouvoir. S’inspirant de l’essai de Pierre Bayard (Enquête sur Hamlet, un dialogue de sourds, 2002) qui défend l’hypothèse du lecteur actif et se lance le défi d’identifier l’assassin du père d’Hamlet, elle rouvre l’enquête sur une énigme qui depuis quatre siècles n’a cessé de faire débat. Que s’est-il réellement passé au royaume d’Elseneur? Qui croire au sujet de la mort du roi?
+Manchmal möchte man die eigene Haut nur zu gern an der Garderobe abgeben und jemand ganz anderes sein. Wie muss man erscheinen, um dazuzugehören? Welche Geschichten erzählen unsere Wunden, Narben, Züge? Welche Erinnerungen haben sich in unsere Körper eingeschrieben? Das plastische Ich trifft auf Projektionen, ein Wesen begegnet sich selbst und dem Publikum. Basierend auf einer kollektiven autobiographischen Recherche sind mikro-kit und Alessandro Maggioni der Frage nachgegangen, wie Verletzungen, die nicht zuletzt durch soziale Strukturen entstehen, in uns wirken und wie wir zu denen werden, die wir sind.
 
+**Objekttheater mit analogen/digitalen Projektionen**
 
+**Termine:** vom 25. bis zum 28. April 2019 an der Schaubude Berlin, Auszug am 11. Mai 2019 im T-Werk Potsdam; weitere Gastspiele in München und Osnabrück in Planung.
 
-La Compagnie mikro-kit poursuit sa démarche fondée sur la recherche documentaire et autobiographique, mais qui se déroule cette fois dans les coulisses du drame, pour venir bouleverser le spectacle.
+**Konzept:** Alessandro Maggioni und Magali Tosato
 
-Créé d’abord dans des écoles, puis joué plus d’une centaine de fois dans des classes, des foyers ou des hôpitaux Qui a peur d’Hamlet ? est une confrontation directe avec le grand classique shakespearien. Plongé au cœur de l’action scénique, le public est pris à parti dans une enquête qui – même si elle joue avec le fantasme de résoudre un crime – met avant tout en lumière des enjeux humains, sociaux et politiques.
+**Regie:** Magali Tosato
 
-**Text:** nach William Shakespeare, Übersetzung: Pascal Collin
+**Dramaturgie:** Lydia Dimitrow
 
-**Fassung und Regie:** Magali Tosato
+**Szenographie:** Alessandro Maggioni
 
-**Fassung und Dramaturgie:** Lydia Dimitrow
+**Kostüme:** Gonzalo Barahona, Alessandro Maggioni
 
-**Bühne und Kostüme:** Franziska Keune
+**Musik:** Oleg Hollmann
 
-**Musik:** Hans Block
+**Licht und technische Leitung:** Benjamin Dimitrow
 
-**Licht und technische Leitung:** Théo Serez
+**Produktionsleitung**: Tine Elbel
 
-**Technische Betreuung:** Céline Ribeiro
-
-**Regieassistenz:** Magali Heu
+**Regieassistenz:** Nina Diestel
 
 
 **Mit**
 
-Alain Borek, Claire Deutsch, Baptiste Gilliéron und Tamaïti Torlasco
+Gonzalo Barahona, Alessandro Maggioni
 
-**Produktion:** Compagnie mikro-kit
+**Produktion:** Kompanie mikro-kit & Alessandro Maggioni
 
-**Koproduktion:** Théâtre Benno Besson, Yverdon-les-Bains - Théâtre Vidy-Lausanne - Théâtre du Pommier, Neuchâtel
+**Koproduktion:** T-Werk Potsdam, Figurentheater Alte Fuhrhalterei
+
+**Förderung:** Hauptstadtkulturfonds
+
+**Unterstützung:** Schaubude Berlin
 
 
-Premiere am 30. Oktober 2018 / Théâtre Benno Besson, Yverdon-les-Bains
+Premiere am 25. April 2019 / Schaubude Berlin
 
-Sprache: französisch, deutsche Textfassung (als Leseprobe) vorhanden
+Sprache: ohne Sprache
