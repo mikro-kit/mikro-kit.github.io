@@ -14,7 +14,7 @@ Manchmal möchte man die eigene Haut nur zu gern an der Garderobe abgeben und je
 
 **Objekttheater mit analogen/digitalen Projektionen**
 
-**Termine:** vom 25. bis zum 28. April 2019 an der Schaubude Berlin, Auszug am 11. Mai 2019 im T-Werk Potsdam; weitere Gastspiele in München und Osnabrück in Planung.
+**Termine:** vom 25. bis zum 28. April 2019 an der Schaubude Berlin, Ausschnitt am 11. Mai 2019 im T-Werk Potsdam; weitere Gastspiele in München und Osnabrück in Planung.
 
 **Konzept:** Alessandro Maggioni und Magali Tosato
 
