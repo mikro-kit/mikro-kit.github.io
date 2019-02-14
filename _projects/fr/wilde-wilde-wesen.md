@@ -7,7 +7,7 @@ quote: Welche Geschichten erzählen unsere Wunden?
 speaker: Wilde wilde Wesen
 year: 2019
 location: Schaubude Berlin
-published: FALSE
+
 ---
 
 Manchmal möchte man die eigene Haut nur zu gern an der Garderobe abgeben und jemand ganz anderes sein. Wie muss man erscheinen, um dazuzugehören? Welche Geschichten erzählen unsere Wunden, Narben, Züge? Welche Erinnerungen haben sich in unsere Körper eingeschrieben? Das plastische Ich trifft auf Projektionen, ein Wesen begegnet sich selbst und dem Publikum. Basierend auf einer kollektiven autobiographischen Recherche sind mikro-kit und Alessandro Maggioni der Frage nachgegangen, wie Verletzungen, die nicht zuletzt durch soziale Strukturen entstehen, in uns wirken und wie wir zu denen werden, die wir sind.
