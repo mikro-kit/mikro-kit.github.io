@@ -1,6 +1,6 @@
 ---
 title: Mettlach
-subtitle: nach W. Shakespeare
+subtitle: Von Lydia Dimitrow & Magali Tosato
 ref: pr-mettlach
 image: mettlach
 quote: Template Quote
@@ -10,20 +10,18 @@ location: Théâtre Benno Besson, Yverdon-les-Bains
 published: FALSE
 ---
 
-TEMPLATE DE
-Comment s’affirmer au sein d’un système contraignant sans sombrer dans la mélancolie, la folie ou la violence ? C’est pour la Compagnie mikro-kit l’énigme que pose Hamlet. En s’attaquant à ce texte fondateur, qui suscite tant de fascination, elle entend questionner notre rapport aux grandes œuvres, à l’autorité du texte et au pouvoir. S’inspirant de l’essai de Pierre Bayard (Enquête sur Hamlet, un dialogue de sourds, 2002) qui défend l’hypothèse du lecteur actif et se lance le défi d’identifier l’assassin du père d’Hamlet, elle rouvre l’enquête sur une énigme qui depuis quatre siècles n’a cessé de faire débat. Que s’est-il réellement passé au royaume d’Elseneur? Qui croire au sujet de la mort du roi?
+Sill muss von zu Hause weg, zumindest für eine gewisse Zeit. Also zieht sie von Luxemburg nach Mettlach zu ihrem Großvater Hermann. Der ist nach vier Jahrzehnten Abwesenheit gerade erst ins Saarland zurückgekehrt und hat weder die Enkelin noch die eigene Tochter je zuvor gesehen. Sill, die nicht weiß, wohin mit sich und ihrer ganzen Zukunft, lernt Mettlach und seine Bewohner nach und nach kennen. Hermann arbeitet sich währenddessen durch das Archiv seiner Vergangenheit – und der Mettlachs, wo vieles in Veränderung ist.
+ 
+Anhand von sechs fiktiven Lebensläufen erzählen die beiden deutsch-frankophonen Autorinnen Magali Tosato und Lydia Dimitrow, die bei ihrer Recherchephase mit den unterschiedlichsten Menschen vor Ort gesprochen haben, eine Familiengeschichte, deren Protagonist am Ende doch Mettlach ist. Kann man, will man hier leben, und wie? Was ist Mettlach außer der Sitz des Weltkonzerns Villeroy & Boch? 
+ 
+Im ersten Teil der Saarland-Saga, die Geschichten aus der Großregion auf die Bühne bringt, geht es um einen Ort, wo nationale Grenzen keine große Rolle mehr spielen; wo Luxemburg und Frankreich näher sind als der Rest von Deutschland und wo die Vergangenheit an allen Ecken und Enden ins Heute hineinragt.
 
 
+**Text:** Lydia Dimitrow & Magali Tosato (Stückauftrag)
 
-La Compagnie mikro-kit poursuit sa démarche fondée sur la recherche documentaire et autobiographique, mais qui se déroule cette fois dans les coulisses du drame, pour venir bouleverser le spectacle.
+**Regie:** Magali Tosato
 
-Créé d’abord dans des écoles, puis joué plus d’une centaine de fois dans des classes, des foyers ou des hôpitaux Qui a peur d’Hamlet ? est une confrontation directe avec le grand classique shakespearien. Plongé au cœur de l’action scénique, le public est pris à parti dans une enquête qui – même si elle joue avec le fantasme de résoudre un crime – met avant tout en lumière des enjeux humains, sociaux et politiques.
-
-**Text:** nach William Shakespeare, Übersetzung: Pascal Collin
-
-**Fassung und Regie:** Magali Tosato
-
-**Fassung und Dramaturgie:** Lydia Dimitrow
+**Dramaturgie:** Simone Kranz
 
 **Bühne und Kostüme:** Franziska Keune
 
