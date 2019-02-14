@@ -13,9 +13,9 @@ vereint junge franko-schweizer und Berliner Künstler_innen. Unser gemeinsames Z
 **Zuletzt** inszenierte die Kompanie mikro-kit unter dem Titel "Qui a peur d'Hamlet?" eine Adaption von Shakespeares "Hamlet".
 
 
-(vom 30. Oktober bis 1. November 2018 am Théâtre Benno Besson, Yverdon-les-Bains, vom 9. bis zum 17. November 2018 am Théâtre de Vidy, Lausanne, und vom 20- bis zum 23. November 2018 am Théâtre du Pommier, Neuchâtel)
+(vom 30. Oktober bis 1. November 2018 am Théâtre Benno Besson, Yverdon-les-Bains, vom 9. bis zum 17. November 2018 am Théâtre de Vidy, Lausanne, und vom 20. bis zum 23. November 2018 am Théâtre du Pommier, Neuchâtel)
 
-**Aktuell** arbeiten wir an der Uraufführung von "Mettlach", einem Stück von Lydia Dimitrow und Magali Tosato.
+**Aktuell** läuft in der Spielzeit 2018/2019 Lydia Dimitrows und Magali Tosatos Stück "Mettlach" am Saarländischen Staatstheater.
 
 
 (Premiere am 18. Januar 2019 am Saarländischen Staatstheater, weitere Informationen: [hier](https://www.staatstheater.saarland/nc/stuecke/schauspiel/detail/mettlach/). Weitere Spieltermine am 22., 25., 27. Januar, 1., 9., 22., 23. Februar, am 7., 8., 22. März und am 3. April 2019 am Saarländischen Staatstheater sowie am 12., 13. und 14. März 2019 an den Théâtres de la Ville du Luxembourg. Mehr dazu [hier](http://www.theatres.lu/SAISON+2018_2019/Théatre_Théâtre+musical/_54+METTLACH-p-20003396.html).)
