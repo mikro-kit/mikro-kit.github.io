@@ -11,6 +11,7 @@ location: Saarländisches Staatstheater
 ---
 
 Sill muss von zu Hause weg, zumindest für eine gewisse Zeit. Also zieht sie von Luxemburg nach Mettlach zu ihrem Großvater Hermann. Der ist nach vier Jahrzehnten Abwesenheit gerade erst ins Saarland zurückgekehrt und hat weder die Enkelin noch die eigene Tochter je zuvor gesehen. Sill, die nicht weiß, wohin mit sich und ihrer ganzen Zukunft, lernt Mettlach und seine Bewohner nach und nach kennen. Hermann arbeitet sich währenddessen durch das Archiv seiner Vergangenheit – und der Mettlachs, wo vieles in Veränderung ist.
+
  
 Anhand von sechs fiktiven Lebensläufen erzählen die beiden deutsch-frankophonen Autorinnen Magali Tosato und Lydia Dimitrow, die bei ihrer Recherchephase mit den unterschiedlichsten Menschen vor Ort gesprochen haben, eine Familiengeschichte, deren Protagonist am Ende doch Mettlach ist. Kann man, will man hier leben, und wie? Was ist Mettlach außer der Sitz des Weltkonzerns Villeroy & Boch? 
  
