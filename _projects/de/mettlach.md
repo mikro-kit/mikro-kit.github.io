@@ -7,7 +7,7 @@ quote: Ich weiß, es ist viel Zeit vergangen, aber jetzt ... jetzt stehen wir be
 speaker: Mettlach
 year: 2019
 location: Saarländisches Staatstheater
-published: FALSE
+
 ---
 
 Sill muss von zu Hause weg, zumindest für eine gewisse Zeit. Also zieht sie von Luxemburg nach Mettlach zu ihrem Großvater Hermann. Der ist nach vier Jahrzehnten Abwesenheit gerade erst ins Saarland zurückgekehrt und hat weder die Enkelin noch die eigene Tochter je zuvor gesehen. Sill, die nicht weiß, wohin mit sich und ihrer ganzen Zukunft, lernt Mettlach und seine Bewohner nach und nach kennen. Hermann arbeitet sich währenddessen durch das Archiv seiner Vergangenheit – und der Mettlachs, wo vieles in Veränderung ist.
