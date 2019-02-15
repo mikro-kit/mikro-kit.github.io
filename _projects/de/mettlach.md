@@ -3,10 +3,10 @@ title: Mettlach
 subtitle: Von Lydia Dimitrow & Magali Tosato
 ref: pr-mettlach
 image: mettlach
-quote: Template Quote
-speaker: Template Speaker
-year: 2018
-location: Théâtre Benno Besson, Yverdon-les-Bains
+quote: Ich weiß, es ist viel Zeit vergangen, aber jetzt ... jetzt stehen wir beide hier.
+speaker: Mettlach
+year: 2019
+location: Saarländisches Staatstheater
 published: FALSE
 ---
 
@@ -16,33 +16,45 @@ Anhand von sechs fiktiven Lebensläufen erzählen die beiden deutsch-frankophone
  
 Im ersten Teil der Saarland-Saga, die Geschichten aus der Großregion auf die Bühne bringt, geht es um einen Ort, wo nationale Grenzen keine große Rolle mehr spielen; wo Luxemburg und Frankreich näher sind als der Rest von Deutschland und wo die Vergangenheit an allen Ecken und Enden ins Heute hineinragt.
 
+**Termine:** am 22., 25., 27. Januar, 1., 9., 22., 23. Februar, am 7., 8., 22. März und am 3. April 2019 am Saarländischen Staatstheater sowie am 12., 13. und 14. März 2019 an den Théâtres de la Ville du Luxembourg.
 
 **Text:** Lydia Dimitrow & Magali Tosato (Stückauftrag)
 
 **Regie:** Magali Tosato
 
-**Dramaturgie:** Simone Kranz
+**Dramaturgie:** Corinna Popp
 
-**Bühne und Kostüme:** Franziska Keune
+**Bühne und Kostüme:** Franziska Keune, Mirella Oestreicher
 
-**Musik:** Hans Block
+**Musik:** Emre Sevindik
 
-**Licht und technische Leitung:** Théo Serez
+**Produktionsleitung Saarland-Saga:** Simone Kranz
 
 **Technische Betreuung:** Céline Ribeiro
 
-**Regieassistenz:** Magali Heu
+**Regieassistenz:** Sue Franz
+
+**Ausstattungsassistenz:** Jasmin Kaege
 
 
 **Mit**
 
-Alain Borek, Claire Deutsch, Baptiste Gilliéron und Tamaïti Torlasco
+Sill: Pauline Schneider
 
-**Produktion:** Compagnie mikro-kit
+Jimmy: Michael Wischniowski
 
-**Koproduktion:** Théâtre Benno Besson, Yverdon-les-Bains - Théâtre Vidy-Lausanne - Théâtre du Pommier, Neuchâtel
+Rita: Lisa Schwindling 
+
+Hermann: Bernd Geiling
+
+Silke: Martina Struppek
+
+Patrick: Sébastien Jacobi
 
 
-Premiere am 30. Oktober 2018 / Théâtre Benno Besson, Yverdon-les-Bains
+**Koproduktion mit Les Théâtres de la Ville de Luxembourg**
 
-Sprache: französisch, deutsche Textfassung (als Leseprobe) vorhanden
+
+Uraufführung am 18. Januar 2019 / Saarländisches Staatstheater
+
+Sprache: deutsch mit französischen Sprachanteilen (liegen in deutscher Übersetzung vor)
