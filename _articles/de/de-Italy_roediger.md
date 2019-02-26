@@ -1,7 +1,7 @@
 ---
 title: Eine Aufführung voller Charme und Authentizität
 author: Horst Rödiger
-published: 19.03.2013
+published: 19.03.2014
 paper: Livekritik.de
 press-ref: pr-italy
 project: italy
