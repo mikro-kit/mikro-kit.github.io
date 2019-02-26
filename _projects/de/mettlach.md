@@ -31,8 +31,6 @@ Im ersten Teil der Saarland-Saga, die Geschichten aus der Großregion auf die B�
 
 **Produktionsleitung Saarland-Saga:** Simone Kranz
 
-**Technische Betreuung:** Céline Ribeiro
-
 **Regieassistenz:** Sue Franz
 
 **Ausstattungsassistenz:** Jasmin Kaege
