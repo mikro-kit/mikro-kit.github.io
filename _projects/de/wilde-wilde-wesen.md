@@ -40,7 +40,7 @@ Wilde wilde Wesen ist die erste Zusammenarbeit von Alessandro Maggioni, der in B
 
 **Produktionsleitung**: Tine Elbel
 
-**Regieassistenz:** Nina Diestel
+**Regieassistenz:** Katharina Diestel
 
 
 **Mit**
