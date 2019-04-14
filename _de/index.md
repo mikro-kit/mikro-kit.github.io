@@ -8,7 +8,7 @@ redirect_from:
   - /
 ---
 # Die Kompanie mikro-kit
-vereint junge franko-schweizer und Berliner Künstler_innen. Unser gemeinsames Ziel ist, gesellschaftlichen Phänomenen nachzuspüren, indem wir individuelle Lebenswege, singuläre Situationen und Mikrokosmen beleuchten und auf die Bühne bringen.
+vereint junge franko-schweizer und Berliner Künstler_innen. Unser gemeinsames Ziel ist, gesellschaftlichen Phänomenen nachzuspüren, indem wir individuelle Lebenswege, singuläre Situationen und Mikrokosmen beleuchten und auf die Bühne bringen.Die Kompanie mikro-kit vereint junge franko-schweizer und Berliner Künstler*innen. Unser gemeinsames Ziel ist es, gesellschaftlichen Phänomenen nachzuspüren, indem wir individuelle Lebenswege, singuläre Situationen und Mikrokosmen beleuchten und auf die Bühne bringen. Unsere Arbeitsweise ist mehrsprachig, kollektiv und von dem Anspruch geprägt, einen multiperspektivischen Blick auf die Welt zu werfen. Indem wir literarische Texte mit dokumentarischem und (auto-) biografischem Material in Perspektive setzen, machen wir uns die Vielstimmigkeit des Theaters zunutze, um zu hinterfragen, was uns umgibt, und zu ergründen, was sein könnte.  
 
 **Zuletzt** inszenierte die Kompanie mikro-kit unter dem Titel "Qui a peur d'Hamlet?" eine Adaption von Shakespeares "Hamlet".
 
@@ -23,5 +23,5 @@ vereint junge franko-schweizer und Berliner Künstler_innen. Unser gemeinsames Z
 **Als nächstes** wird die Kompanie mikro-kit "Wilde wilde Wesen" zur Uraufführung bringen, ein Objekttheaterstück mit digitalen/analogen Projektionen von mikro-kit & Alessandro Maggioni.
 
 
-(Premiere am 25. April 2019 an der Schaubude Berlin. Weitere Spieltermine vom 25. bis zum 28. April an der Schaubude Berlin und am 11. Mai im T-Werk Potsdam (Ausschnitt); weitere Gastspiele in München und Osnabrück in Planung.)
+(Premiere am 25. April 2019 an der Schaubude Berlin, alle Infos dazu [hier] (https://www.schaubude.berlin/spielplan/04/abendprogramm/wilde-wilde-wesen/). Weitere Spieltermine vom 25. bis zum 28. April an der Schaubude Berlin, am 11. Mai im T-Werk Potsdam (Ausschnitt im Rahmen der 14. Langen Nacht der Freien Theater), am 15. und 16. November im Figurentheater Osnabrück, am 18. Januar 2020 im Figurentheater – Münchner Stadtmuseum, und am 21. und 22. Februar noch mal im T-Werk-Potsdam.)
 
