@@ -8,7 +8,7 @@ redirect_from:
   - /
 ---
 # Die Kompanie mikro-kit
-vereint junge franko-schweizer und Berliner Künstler_innen. Unser gemeinsames Ziel ist, gesellschaftlichen Phänomenen nachzuspüren, indem wir individuelle Lebenswege, singuläre Situationen und Mikrokosmen beleuchten und auf die Bühne bringen.Die Kompanie mikro-kit vereint junge franko-schweizer und Berliner Künstler*innen. Unser gemeinsames Ziel ist es, gesellschaftlichen Phänomenen nachzuspüren, indem wir individuelle Lebenswege, singuläre Situationen und Mikrokosmen beleuchten und auf die Bühne bringen. Unsere Arbeitsweise ist mehrsprachig, kollektiv und von dem Anspruch geprägt, einen multiperspektivischen Blick auf die Welt zu werfen. Indem wir literarische Texte mit dokumentarischem und (auto-) biografischem Material in Perspektive setzen, machen wir uns die Vielstimmigkeit des Theaters zunutze, um zu hinterfragen, was uns umgibt, und zu ergründen, was sein könnte.  
+vereint junge franko-schweizer und Berliner Künstler*innen. Unser gemeinsames Ziel ist es, gesellschaftlichen Phänomenen nachzuspüren, indem wir individuelle Lebenswege, singuläre Situationen und Mikrokosmen beleuchten und auf die Bühne bringen. Unsere Arbeitsweise ist mehrsprachig, kollektiv und von dem Anspruch geprägt, einen multiperspektivischen Blick auf die Welt zu werfen. Indem wir literarische Texte mit dokumentarischem und (auto-) biografischem Material in Perspektive setzen, machen wir uns die Vielstimmigkeit des Theaters zunutze, um zu hinterfragen, was uns umgibt, und zu ergründen, was sein könnte.  
 
 **Zuletzt** inszenierte die Kompanie mikro-kit unter dem Titel "Qui a peur d'Hamlet?" eine Adaption von Shakespeares "Hamlet".
 
