@@ -18,4 +18,4 @@ réunit des jeunes artistes suisse romands et berlinois. Notre but commun est de
 
 **Actuellement** la compagnie mikro-kit présente "Wilde wilde Wesen", un projet de théâtre d'objet conçu par Alessandro Maggioni et Magali Tosato. 
 
-(Du 25 au 28 avril 2019 à la Schaubude à Berlin, le 11 mai au T-Werk à Potsdam le 15 et le 16 novembre au Figurentheater à Osnabrück, le 18 janvier 2020 au Figurentheater – Münchner Stadtmuseum et au 21 et 22 février au T-Werk à Potsdam). 
+(Du 25 au 28 avril 2019 à la Schaubude à Berlin (pour en savoir plus, cliquez [ici](https://www.schaubude.berlin/spielplan/04/abendprogramm/wilde-wilde-wesen/)), le 11 mai au T-Werk à Potsdam le 15 et le 16 novembre au Figurentheater à Osnabrück, le 18 janvier 2020 au Figurentheater – Münchner Stadtmuseum et au 21 et 22 février au T-Werk à Potsdam). 
