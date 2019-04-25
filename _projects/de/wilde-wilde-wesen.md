@@ -37,9 +37,9 @@ Haben wir in der Hand, wie wir auf andere wirken? Können wir verbergen, was in 
 
 **Technische Produktion und Lichtdesign:** Benjamin Dimitrow
 
-**Musik:** Oleg Hollmann
+**Musik:** Oleg Hollmann (in Zusammenarbeit mit Tim Coehoorn
 
-**Aufnahmen und Stimmencollage:** Benjamin Dimitrow
+**Aufnahmen und Stimmencollage:** Benjamin Dimitrow)
 
 **Produktionsleitung**: Tine Elbel
 
