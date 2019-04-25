@@ -19,7 +19,8 @@ Welche Erinnerungen haben sich in unsere Körper eingeschrieben? »Wilde wilde W
 In einer ausdrucksstarken, bildnerisch experimentellen Performance (Gonzalo Barahona) wird ein Wesen zum Leben erweckt, das nicht nur den Zuschauer*innen begegnet, sondern auch sich selbst. Sein Versuch, sich mitzuteilen, die eigene Geschichte zu erzählen, trifft auf ein Tableau aus live animierten Projektionen (Alessandro Maggioni), die sich mal in den Dienst des eigenen Narratives stellen, mal entlarven, was unter der Oberfläche liegt. 
 
 Haben wir in der Hand, wie wir auf andere wirken? Können wir verbergen, was in uns schwelt? Wie sehr formen die Erfahrungen, die wir machen, unsere Körper? Basierend auf einer kollektiven autobiografischen Recherche (die im Stück auch hörbar wird) ist das Team der Frage nachgegangen, wie Verletzungen, die nicht zuletzt auch durch soziale Strukturen entstehen, in uns wirken, und wie wir zu denen werden, die wir sind.
- 
+
+[TEASER](https://vimeo.com/332331971) 
 
 **Objekttheater mit analogen/digitalen Projektionen**
 
