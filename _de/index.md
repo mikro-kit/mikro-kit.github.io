@@ -10,18 +10,12 @@ redirect_from:
 # Die Kompanie mikro-kit
 vereint junge franko-schweizer und Berliner Künstler*innen. Unser gemeinsames Ziel ist es, gesellschaftlichen Phänomenen nachzuspüren, indem wir individuelle Lebenswege, singuläre Situationen und Mikrokosmen beleuchten und auf die Bühne bringen. Unsere Arbeitsweise ist mehrsprachig, kollektiv und von dem Anspruch geprägt, einen multiperspektivischen Blick auf die Welt zu werfen. Indem wir literarische Texte mit dokumentarischem und (auto-) biografischem Material in Perspektive setzen, machen wir uns die Vielstimmigkeit des Theaters zunutze, um zu hinterfragen, was uns umgibt, und zu ergründen, was sein könnte.  
 
-**Zuletzt** inszenierte die Kompanie mikro-kit unter dem Titel "Qui a peur d'Hamlet?" eine Adaption von Shakespeares "Hamlet".
+**Zuletzt** lief in der Spielzeit 2018/2019 Lydia Dimitrows und Magali Tosatos Stück “Mettlach” am Saarländischen Staatstheater sowie an den Théâtres de la Ville du Luxembourg.
 
 
-(vom 30. Oktober bis 1. November 2018 am Théâtre Benno Besson, Yverdon-les-Bains, vom 9. bis zum 17. November 2018 am Théâtre de Vidy, Lausanne, und vom 20. bis zum 23. November 2018 am Théâtre du Pommier, Neuchâtel)
+**Außerdem** läuft gerade Magali Tosatos Inszenierung von "Frühlings Erwachen“ nach Frank Wedekind am Saarländischen Staatstheater.
+(Premiere am 8. November 2019. Weitere Vorstellungen am 14.11., 16.11., 6.12., 10.12., 13,12., 19.12., 21.12., 26.12.,2019 und am 03.01., 05.01., 09.01., 10.01., 21.01., 22.01.2020). Mehr dazu [hier](https://www.staatstheater.saarland/nc/stuecke/schauspiel/detail/fruehlings-erwachen/).)
 
-**Außerdem** lief in der Spielzeit 2018/2019 Lydia Dimitrows und Magali Tosatos Stück "Mettlach" am Saarländischen Staatstheater.
+**Aktuell** ist die Kompanie mikro-kit on Tour mit ihrer neusten Produktion “Wilde wilde Wesen”, ein Objekttheaterstück mit digitalen/analogen Projektionen von mikro-kit & Alessandro Maggioni.
 
-
-(Premiere am 18. Januar 2019 am Saarländischen Staatstheater, weitere Informationen: [hier](https://www.staatstheater.saarland/nc/stuecke/schauspiel/detail/mettlach/). Weitere Spieltermine am 22., 25., 27. Januar, 1., 9., 22., 23. Februar, am 7., 8., 22. März und am 3. April 2019 am Saarländischen Staatstheater sowie am 12., 13. und 14. März 2019 an den Théâtres de la Ville du Luxembourg. Mehr dazu [hier](http://www.theatres.lu/SAISON+2018_2019/Théatre_Théâtre+musical/_54+METTLACH-p-20003396.html).)
-
-**Aktuell** zeigt die Kompanie mikro-kit an der Schaubude Berlin ihre neuste Produktions **"Wilde wilde Wesen"**, ein Objekttheaterstück mit digitalen/analogen Projektionen von mikro-kit & Alessandro Maggioni.
-
-
-(Premiere am 25. April 2019 an der Schaubude Berlin! Alle Infos [hier](https://www.schaubude.berlin/spielplan/04/abendprogramm/wilde-wilde-wesen/) . Weitere Spieltermine vom 25. bis zum 28. April an der Schaubude Berlin, am 11. Mai im T-Werk Potsdam (Ausschnitt im Rahmen der 14. Langen Nacht der Freien Theater), am 15. und 16. November im Figurentheater Osnabrück, am 18. Januar 2020 im Figurentheater – Münchner Stadtmuseum, und am 21. und 22. Februar noch mal im T-Werk-Potsdam.)
-
+(Nach mehreren Vorstellungen an der Schaubude Berlin, dem T-Werk Potsdam und dem Figurentheater Osnabrück ist "Wilde wilde Wesen" am 18. Januar 2020 im Figurentheater – Münchner Stadtmuseum, und am 21. und 22. Februar 2020 noch mal im T-Werk-Potsdam zu sehen.)
