@@ -20,7 +20,10 @@ In einer ausdrucksstarken, bildnerisch experimentellen Performance (Gonzalo Bara
 
 Haben wir in der Hand, wie wir auf andere wirken? Können wir verbergen, was in uns schwelt? Wie sehr formen die Erfahrungen, die wir machen, unsere Körper? Basierend auf einer kollektiven autobiografischen Recherche (die im Stück auch hörbar wird) ist das Team der Frage nachgegangen, wie Verletzungen, die nicht zuletzt auch durch soziale Strukturen entstehen, in uns wirken, und wie wir zu denen werden, die wir sind.
 
-[TEASER](https://vimeo.com/332331971) 
+{% raw %}
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/333739880" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/333739880">Wilde wilde Wesen Trailer</a> from <a href="https://vimeo.com/badaboomberlin">BadaboomBerlin</a> on <a href="https://vimeo.com">Vimeo</a>.</p> 
+{% endraw %}
 
 **Objekttheater mit analogen/digitalen Projektionen**
 
