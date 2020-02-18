@@ -1,5 +1,5 @@
 ---
-title: Avec humour et brio
+title: Template
 author: Culturieuse
 published: 12.11.2018
 paper: LE BRUIT DUOFFTRIBUNE
