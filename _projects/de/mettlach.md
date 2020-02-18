@@ -17,11 +17,7 @@ Anhand von sechs fiktiven Lebensläufen erzählen die beiden deutsch-frankophone
  
 Im ersten Teil der Saarland-Saga, die Geschichten aus der Großregion auf die Bühne bringt, geht es um einen Ort, wo nationale Grenzen keine große Rolle mehr spielen; wo Luxemburg und Frankreich näher sind als der Rest von Deutschland und wo die Vergangenheit an allen Ecken und Enden ins Heute hineinragt.
 
-{% raw %}
-
-<iframe src="https://www.youtube.com/embed/Z9Ud7D0Laoo" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-{% endraw %}
+{% include youtube.html id='Z9Ud7D0Laoo' %}
 
 **Termine:** am 22., 25., 27. Januar, 1., 9., 22., 23. Februar, am 7., 8., 22. März und am 3. April 2019 am Saarländischen Staatstheater sowie am 12., 13. und 14. März 2019 an den Théâtres de la Ville du Luxembourg.
 
