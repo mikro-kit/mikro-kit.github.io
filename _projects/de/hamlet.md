@@ -16,8 +16,9 @@ Nach dem verdächtigen Tod seines Vaters und der überstürzten Hochzeit seiner 
 Und wenn die Wortes des Geistes ein Aufruf wären, die eigene Sichtweise zu behaupten? Geht es nicht eher um einen emanzipatorischen Akt für den jungen Prinzen – und vielleicht auch für die Zuschauer?
 
 {% raw %}
+
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/137587181" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p><a href="https://vimeo.com/137587181">MAGALI TOSATO &quot;Hamlet dans les &eacute;coles&quot; // TEASER</a> from <a href="https://vimeo.com/theatredevidy">Th&eacute;&acirc;tre Vidy-Lausanne</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 {% endraw %}
 
 **Es spielen:**  
