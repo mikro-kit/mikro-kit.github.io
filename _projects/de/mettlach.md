@@ -19,9 +19,7 @@ Im ersten Teil der Saarland-Saga, die Geschichten aus der GroÃŸregion auf die BÃ
 
 {% raw %}
 
-<p></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z9Ud7D0Laoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p></p>
 
 {% endraw %}
 
