@@ -20,7 +20,7 @@ La Compagnie mikro-kit poursuit sa démarche fondée sur la recherche documentai
 Créé d’abord dans des écoles, puis joué plus d’une centaine de fois dans des classes, des foyers ou des hôpitaux Qui a peur d’Hamlet ? est une confrontation directe avec le grand classique shakespearien. Plongé au cœur de l’action scénique, le public est pris à parti dans une enquête qui – même si elle joue avec le fantasme de résoudre un crime – met avant tout en lumière des enjeux humains, sociaux et politiques.
 
 **Text:** nach William Shakespeare, Übersetzung: Pascal Collin
-**Fassung und Regie:** Magali Tosato  
+**Fassung und Regie:** Magali Tosato    
 **Fassung und Dramaturgie:** Lydia Dimitrow
 **Bühne und Kostüme:** Franziska Keune
 **Musik:** Hans Block
