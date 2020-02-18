@@ -1,12 +1,12 @@
 ---
-title: TEMP-LATE DE
-subtitle: nach W. Shakespeare
-ref: pr-peur-hamlet
-image: peur-hamlet
-quote: Template Quote
-speaker: Template Speaker
-year: 2018
-location: Théâtre Benno Besson, Yverdon-les-Bains
+title: Profil
+subtitle: Von Moanda Daddy Kamono
+ref: pr-profil
+image: profil
+quote: Premiere am 28.10.2020
+speaker: Profil
+year: 2020
+location: Théâtre de Vidy
 published: FALSE
 ---
 
@@ -20,19 +20,12 @@ La Compagnie mikro-kit poursuit sa démarche fondée sur la recherche documentai
 Créé d’abord dans des écoles, puis joué plus d’une centaine de fois dans des classes, des foyers ou des hôpitaux Qui a peur d’Hamlet ? est une confrontation directe avec le grand classique shakespearien. Plongé au cœur de l’action scénique, le public est pris à parti dans une enquête qui – même si elle joue avec le fantasme de résoudre un crime – met avant tout en lumière des enjeux humains, sociaux et politiques.
 
 **Text:** nach William Shakespeare, Übersetzung: Pascal Collin
-
 **Fassung und Regie:** Magali Tosato
-
 **Fassung und Dramaturgie:** Lydia Dimitrow
-
 **Bühne und Kostüme:** Franziska Keune
-
 **Musik:** Hans Block
-
 **Licht und technische Leitung:** Théo Serez
-
 **Technische Betreuung:** Céline Ribeiro
-
 **Regieassistenz:** Magali Heu
 
 
