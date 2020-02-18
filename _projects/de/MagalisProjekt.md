@@ -1,50 +1,52 @@
 ---
-title: TEMP-LATE DE
-subtitle: nach W. Shakespeare
-ref: pr-peur-hamlet
-image: peur-hamlet
-quote: Template Quote
-speaker: Template Speaker
-year: 2018
-location: Théâtre Benno Besson, Yverdon-les-Bains
+title: ProfilXXX
+subtitle: von Moanda Daddy Kamono
+ref: pr-profil
+image: profil
+quote: NEW
+speaker: Profil
+year: 2020
+location: Théâtre de Vidy, Lausanne
 published: FALSE
 ---
 
 TEMPLATE DE
-Comment s’affirmer au sein d’un système contraignant sans sombrer dans la mélancolie, la folie ou la violence ? C’est pour la Compagnie mikro-kit l’énigme que pose Hamlet. En s’attaquant à ce texte fondateur, qui suscite tant de fascination, elle entend questionner notre rapport aux grandes œuvres, à l’autorité du texte et au pouvoir. S’inspirant de l’essai de Pierre Bayard (Enquête sur Hamlet, un dialogue de sourds, 2002) qui défend l’hypothèse du lecteur actif et se lance le défi d’identifier l’assassin du père d’Hamlet, elle rouvre l’enquête sur une énigme qui depuis quatre siècles n’a cessé de faire débat. Que s’est-il réellement passé au royaume d’Elseneur? Qui croire au sujet de la mort du roi?
+Profil s’ouvre sur une audition de théâtre avec un metteur en scène et un acteur qui n’a pas apparemment pas « le profil ». Moanda Daddy Kamono a quitté Kinshasa, sa ville d’origine pour devenir acteur auprès de Stanislas Nordey, Dieudonné Niangouna, Arnaud Meunier ou Faustin Linyekula. Il écrit et joue Profil pour raconter la guerre, l’exil, la différence et le théâtre, dans un texte qui part du besoin d’exorciser la persistance des stéréotypes raciaux. Magali Tosato accompagne l’acteur devenu auteur dans l’invention d’une forme scénique entre théâtre et autobiographie, poème et manifeste.
+
+{% raw %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z9Ud7D0Laoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% endraw %}
 
 
 
-La Compagnie mikro-kit poursuit sa démarche fondée sur la recherche documentaire et autobiographique, mais qui se déroule cette fois dans les coulisses du drame, pour venir bouleverser le spectacle.
+**Text:** Moanda Daddy Kamono
 
-Créé d’abord dans des écoles, puis joué plus d’une centaine de fois dans des classes, des foyers ou des hôpitaux Qui a peur d’Hamlet ? est une confrontation directe avec le grand classique shakespearien. Plongé au cœur de l’action scénique, le public est pris à parti dans une enquête qui – même si elle joue avec le fantasme de résoudre un crime – met avant tout en lumière des enjeux humains, sociaux et politiques.
+**Regie:** Magali Tosato
 
-**Text:** nach William Shakespeare, Übersetzung: Pascal Collin
-
-**Fassung und Regie:** Magali Tosato
-
-**Fassung und Dramaturgie:** Lydia Dimitrow
+**Dramaturgie:** Lydia Dimitrow
 
 **Bühne und Kostüme:** Franziska Keune
 
-**Musik:** Hans Block
+**Musik:** X
 
-**Licht und technische Leitung:** Théo Serez
+**Licht:** Théo Serez
 
 **Technische Betreuung:** Céline Ribeiro
 
-**Regieassistenz:** Magali Heu
 
 
 **Mit**
 
-Alain Borek, Claire Deutsch, Baptiste Gilliéron und Tamaïti Torlasco
+Moanda Daddy Kamono
+X
 
 **Produktion:** Compagnie mikro-kit
 
-**Koproduktion:** Théâtre Benno Besson, Yverdon-les-Bains - Théâtre Vidy-Lausanne - Théâtre du Pommier, Neuchâtel
+**Koproduktion:** Théâtre Benno Besson, Yverdon-les-Bains - Théâtre Vidy-Lausanne
 
 
-Premiere am 30. Oktober 2018 / Théâtre Benno Besson, Yverdon-les-Bains
+Premiere am 30. Oktober 2020 / Théâtre de Vidy, Lausanne
 
 Sprache: französisch, deutsche Textfassung (als Leseprobe) vorhanden
