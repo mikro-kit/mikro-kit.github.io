@@ -5,7 +5,6 @@ published: 17.11. 2019
 paper: Neue Osnabrücker Zeitung
 press-ref: pr-wilde-wilde-wesen
 project: wilde-wilde-wesen
-published: FALSE
 ---
 
-"Performativ, assoziativ: vielschichtig und facettenreich (...) eine neuartige, so vorher nie gesehene Form des Theaters" 
+"Performativ, assoziativ: vielschichtig und facettenreich (...) eine neuartige, so vorher nie gesehene Form des Theaters." 
