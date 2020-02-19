@@ -1,14 +1,12 @@
 ---
-title: Template
-author: Culturieuse
-published: 12.11.2018
-paper: LE BRUIT DUOFFTRIBUNE
-press-ref: pr-peur-hamlet
-project: peur-hamlet
+title: Wie eine Graphic Novel
+author: Astrid Priebs-Tröger
+published: 12.05.2019
+paper: Potsdamer Neueste Nachrichten
+press-ref: pr-wilde-wilde-wesen
+project: wilde-wilde-wesen
 published: FALSE
 ---
 
-"C’est donc un Hamlet à la portée de toutes et tous qui nous est proposé : une tragédie humaine séculaire empreinte de la nuance contemporaine qui nous en rapproche, tout cela saupoudré d’humour et de connivence avec l’assistance. Et une épatante scénographie."
+"Echtes Handwerk war auch im Stück „Wilde wilde Wesen“ zu erleben. Ein riesiger weißer Hase tanzte mit seinem Spiegelbild, das in Echtzeitprojektionen am Projektionstisch entstand – grandios, die Verwandlung, die er, nachdem er seine Haut abstreifte, vollzog. Die Verschmelzung von analogen und digitalen Projektionen öffnete fantastische Gedankenräume und erinnerte an eine Graphic Novel."
 
-
-Extrait de: "Qui a peur d'Hamlet?, Shakespeare version polar truculent"
