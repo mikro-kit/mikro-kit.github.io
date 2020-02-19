@@ -7,4 +7,4 @@ press-ref: pr-wilde-wilde-wesen
 project: wilde-wilde-wesen
 ---
 
-"Performativ, assoziativ: vielschichtig und facettenreich (...) eine neuartige, so vorher nie gesehene Form des Theaters."
+"Performativ, assoziativ: vielschichtig und facettenreich. (...) Eine neuartige, so vorher nie gesehene Form des Theaters."
