@@ -1,5 +1,5 @@
 ---
-title: Audiovisuelles Spiel - Wer steckt hinter der Maske?
+title: "Audiovisuelles Spiel: Wer steckt hinter der Maske?"
 author: Matthias Liedtke
 published: 17.11.2019
 paper: Neue Osnabrücker Zeitung
