@@ -11,6 +11,8 @@ location: Théâtre de Vidy-Lausanne
 
 Un acteur se présente à une audition pour le rôle de Richard III, habité du désir de se frotter à ce rôle de scélérat et d’en révéler la part d'humanité. 
 Mais dès le premier regard, le couperet tombe: il ne correspond pas au profil … 
+
+
 Pour contrer l’onde de choc provoquée par cette non entrée en matière, l’acteur franco-congolais dilate le temps, y déploie une parole poétique et percutante qui vient réveiller des mémoires enfouies. Qu’est-ce qui se cache derrière ce refus? Une simple opportunité manquée, une condamnation, un manque d’imagination? Musique et parole nous entraînent dans le tourbillon intérieur d’un être envahi par des images de guerre et de violences, percuté par de vieux héritages, préjugés tenaces, nous associant à sa lutte pour faire du théâtre un terrain de résilience et d’invention. 
 
 **Texte:** Moanda Daddy Kamono
