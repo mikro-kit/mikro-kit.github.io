@@ -36,7 +36,7 @@ Moanda Daddy Kamono et Rodriguez Vangama
 
 **Production:** Compagnie mikro-kit, Compagnie Na Kati, Théâtre de Vidy-Lausanne
 
-**Koproduktion:** Théâtre Benno Besson, Yverdon-les-Bains 
+**Coproduction:** Théâtre Benno Besson, Yverdon-les-Bains 
 
 
 Création le 28 octobre 2020 / Théâtre de Vidy-Lausanne
