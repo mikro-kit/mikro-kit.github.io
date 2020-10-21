@@ -7,7 +7,6 @@ quote: Je veux sortir d’ici le désir amplifié
 speaker: Profil
 year: 2020
 location: Théâtre de Vidy-Lausanne
-published: FALSE
 ---
 
 Un acteur se présente à une audition pour le rôle de Richard III, habité du désir de se frotter à ce rôle de scélérat et d’en révéler la part d'humanité. 
