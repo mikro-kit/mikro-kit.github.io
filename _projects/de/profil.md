@@ -7,7 +7,6 @@ quote: Je veux sortir d’ici le désir amplifié
 speaker: Profil
 year: 2020
 location: Théâtre de Vidy-Lausanne
-published: FALSE
 ---
 
 Ein Schauspieler spricht für die Rolle von Shakespeares Richard III. vor. Er ist fest entschlossen, diesen Bösewicht zu geben, sich an seiner Widersprüchlichkeit zu reiben und seine Menschlichkeit freizulegen. Doch das Urteil über ihn fällt schnell und einhellig aus: Er entspricht nicht dem Profil.
