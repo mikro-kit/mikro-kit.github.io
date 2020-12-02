@@ -1,12 +1,12 @@
 ---
 title: Mettlach
-subtitle: Von Lydia Dimitrow & Magali Tosato
+subtitle: de Lydia Dimitrow & Magali Tosato
 ref: pr-mettlach
 image: mettlach
-quote: Ich weiß, es ist viel Zeit vergangen, aber jetzt ... jetzt stehen wir beide hier.
+quote: Je sais, il s'est écoulé beaucoup de temps, mais aujourd'hui ... aujourd'hui nous sommes ici tous les deux.
 speaker: Mettlach
 year: 2019
-location: Saarländisches Staatstheater
+location: Théâtre National de la Sarre
 
 ---
 
