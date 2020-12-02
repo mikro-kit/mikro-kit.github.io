@@ -1,5 +1,5 @@
 ---
-title: Wie eine Graphic Novel
+title: Comme un roman graphique
 author: Astrid Priebs-Tröger
 published: 12.05.2019
 paper: Potsdamer Neueste Nachrichten
@@ -7,4 +7,4 @@ press-ref: pr-wilde-wilde-wesen
 project: wilde-wilde-wesen
 ---
 
-"Echtes Handwerk war auch im Stück „Wilde wilde Wesen“ zu erleben. Ein riesiger weißer Hase tanzte mit seinem Spiegelbild, das in Echtzeitprojektionen am Projektionstisch entstand – grandios, die Verwandlung, die er, nachdem er seine Haut abstreifte, vollzog. Die Verschmelzung von analogen und digitalen Projektionen öffnete fantastische Gedankenräume und erinnerte an eine Graphic Novel."
+"C’est tout un art que le spectacle Wilde Wilde Wesen déploie. On y voit danser un lapin géant avec son reflet, animé – en temps réel – depuis la table de projection. La métamorphose qu’il accomplit une fois qu’il s’est débarrassé de sa peau est grandiose. Le mélange des projections numériques et digitales ouvre d’incroyables espaces de réflexion, rappelant le roman graphique."
