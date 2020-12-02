@@ -3,7 +3,7 @@ title: Mettlach
 subtitle: de Lydia Dimitrow & Magali Tosato
 ref: pr-mettlach
 image: mettlach
-quote: Je sais, il s'est écoulé beaucoup de temps, mais aujourd'hui ... aujourd'hui nous sommes ici tous les deux.
+quote: Beaucoup de temps a passé, je sais, mais aujourd'hui ... aujourd'hui nous sommes tous les deux ici.
 speaker: Mettlach
 year: 2019
 location: Théâtre National de la Sarre
