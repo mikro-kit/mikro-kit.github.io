@@ -1,10 +1,10 @@
 ---
-title: Wilde wilde Wesen
-subtitle: Objekttheater
+title: Sauvages sauvages
+subtitle: Théâtre d'objets
 ref: pr-wilde-wilde-wesen
 image: wilde-wilde-wesen
-quote: Welche Geschichten erzählen unsere Wunden?
-speaker: Wilde wilde Wesen
+quote: Qu'est-ce que nos corps, leurs traits et blessures ont à nous révéler?
+speaker: Sauvages sauvage
 year: 2019
 location: Schaubude Berlin
 
@@ -41,7 +41,7 @@ Sommes-nous maîtres de l’effet que nous produisons sur les autres ? Parvenons
 
 **Collage audio :** Benjamin Dimitrow
 
-**Chargée de production : ** Tine Elbel
+**Chargée de production :** Tine Elbel
 
 **Assistanat à la mise en scène :** Katharina Diestel
 
