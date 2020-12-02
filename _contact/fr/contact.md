@@ -4,4 +4,4 @@ ref: contact
 
 ---
 
-## Pour toute question vous pouvez nous contacter par notre adresse e-mail: <info@mikrokit.de>
+## Pour toute information vous pouvez nous contacter par mail à l'adresse suivante : <info@mikrokit.de>
