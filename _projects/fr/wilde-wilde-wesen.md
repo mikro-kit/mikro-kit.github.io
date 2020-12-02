@@ -21,7 +21,7 @@ Sommes-nous maîtres de l’effet que nous produisons sur les autres ? Parvenons
 
 [TEASER](https://vimeo.com/332331971) 
 
-**Théâtre d’objet avec projections numériques/digitales **
+**Théâtre d’objet avec projections numériques/digitales**
 
 **Représentations :** du 25 au 28 avril 2019 à la Schaubude Berlin, présentation d’un extrait le 11 mai 2019 au T-Werk Potsdam à l’occasion de la 14ème Longue Nuit des Théâtres Indépendants ; en tournée les 15 et 16 novembre au Figurentheater d’Osnabrück, le 18 janvier 2020 au Figurentheater – Münchner Stadtmuseum ainsi que les 21 et 22 février au T-Werk Potsdam.
 
@@ -41,7 +41,7 @@ Sommes-nous maîtres de l’effet que nous produisons sur les autres ? Parvenons
 
 **Collage audio :** Benjamin Dimitrow
 
-**Chargée de production **: Tine Elbel
+**Chargée de production : ** Tine Elbel
 
 **Assistanat à la mise en scène :** Katharina Diestel
 
