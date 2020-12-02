@@ -10,32 +10,33 @@ location: Saarländisches Staatstheater
 
 ---
 
-Sill muss von zu Hause weg, zumindest für eine gewisse Zeit. Also zieht sie von Luxemburg nach Mettlach zu ihrem Großvater Hermann. Der ist nach vier Jahrzehnten Abwesenheit gerade erst ins Saarland zurückgekehrt und hat weder die Enkelin noch die eigene Tochter je zuvor gesehen. Sill, die nicht weiß, wohin mit sich und ihrer ganzen Zukunft, lernt Mettlach und seine Bewohner nach und nach kennen. Hermann arbeitet sich währenddessen durch das Archiv seiner Vergangenheit – und der Mettlachs, wo vieles in Veränderung ist.
- 
-Anhand von sechs fiktiven Lebensläufen erzählen die beiden deutsch-frankophonen Autorinnen Magali Tosato und Lydia Dimitrow, die bei ihrer Recherchephase mit den unterschiedlichsten Menschen vor Ort gesprochen haben, eine Familiengeschichte, deren Protagonist am Ende doch Mettlach ist. Kann man, will man hier leben, und wie? Was ist Mettlach außer der Sitz des Weltkonzerns Villeroy & Boch? 
- 
-Im ersten Teil der Saarland-Saga, die Geschichten aus der Großregion auf die Bühne bringt, geht es um einen Ort, wo nationale Grenzen keine große Rolle mehr spielen; wo Luxemburg und Frankreich näher sind als der Rest von Deutschland und wo die Vergangenheit an allen Ecken und Enden ins Heute hineinragt.
+Sill doit partir de chez elle pour quelque temps. Du Luxembourg, elle vient s’installer à Mettlach, chez son grand-père Hermann. Tout juste revenu dans la Sarre après quarante ans passés à l’étranger, le vieil homme ne l’a jamais vue, pas plus que sa propre fille. Ne sachant trop que faire ni de son temps ni de son avenir, Sill découvre peu à peu Mettlach et ses habitants. De son côté, Hermann se plonge dans ses archives personnelles et dans celles de sa ville d’origine, en grande transformation. 
 
-**Termine:** am 22., 25., 27. Januar, 1., 9., 22., 23. Februar, am 7., 8., 22. März und am 3. April 2019 am Saarländischen Staatstheater sowie am 12., 13. und 14. März 2019 an den Théâtres de la Ville du Luxembourg.
+Inspirées par des entretiens menés auprès de différents acteurs du lieu, les autrices franco-germanophones Magali Tosato et Lydia Dimitrow racontent au travers de six trajectoires fictives une histoire de famille dont le protagoniste principal se révèle en fin de compte le village de Mettlach. Peut-on, veut-on y vivre ? Comment ?  Qu’est-ce que Mettlach, en dehors du siège de l’entreprise mondiale Villeroy & Boch ?
 
-**Text:** Lydia Dimitrow & Magali Tosato (Stückauftrag)
-
-**Regie:** Magali Tosato
-
-**Dramaturgie:** Corinna Popp
-
-**Bühne und Kostüme:** Franziska Keune, Mirella Oestreicher
-
-**Musik:** Emre Sevindik
-
-**Produktionsleitung Saarland-Saga:** Simone Kranz
-
-**Regieassistenz:** Sue Franz
-
-**Ausstattungsassistenz:** Jasmin Kaege
+Dans ce premier volet de la « Saga de la Sarre » qui met en scène des histoires de la région, il est question d’un lieu où les frontières nationales n’ont plus grande importance, où le Luxembourg et la France sont plus proches que le reste de l’Allemagne, et où les souvenirs du passé surgissent à chaque coin de rue. 
 
 
-**Mit**
+**Représentations :** les 22, 25, 27 janvier, les 1, 9, 22, 23 février, les 7, 8, 22 mars et le 3 avril 2019 au Théâtre National de la Sarre ainsi que les 12, 13 et 14 mars 2019 aux Théâtres de la Ville du Luxembourg.
+
+**Texte :** Lydia Dimitrow & Magali Tosato
+
+**Mise en scène :** Magali Tosato
+
+**Dramaturgie :** Corinna Popp
+
+**Scénographie et costumes :** Franziska Keune, Mirella Oestreicher
+
+**Musique :** Emre Sevindik
+
+**Chargée de production « Saga de la Sarre » :** Simone Kranz
+
+**Assistanat à la mise en scène :** Sue Franz
+
+**Assistanat à la scénographie :** Jasmin Kaege
+
+
+**Avec**
 
 Sill: Pauline Schneider
 
@@ -50,9 +51,9 @@ Silke: Martina Struppek
 Patrick: Sébastien Jacobi
 
 
-**Koproduktion mit Les Théâtres de la Ville de Luxembourg**
+**En coproduction avec les Théâtres de la Ville de Luxembourg**
 
 
-Uraufführung am 18. Januar 2019 / Saarländisches Staatstheater
+Première le 18 janvier 2019 / Théâtre national de la Sarre
 
-Sprache: deutsch mit französischen Sprachanteilen (liegen in deutscher Übersetzung vor)
+Langue : allemand avec des passages en français (surtitrés)
