@@ -33,3 +33,5 @@ Pirmin Sedlmeir
 Premiere am 11.04.2014./ bat-Studiotheater Berlin  
 
 Sprache: deutsch
+
+Fotos ©Pablo Lauf
