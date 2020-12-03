@@ -63,3 +63,5 @@ Patrick: Sébastien Jacobi
 Uraufführung am 18. Januar 2019 / Saarländisches Staatstheater
 
 Sprache: deutsch mit französischen Sprachanteilen (liegen in deutscher Übersetzung vor)
+
+Fotos ©Martin Kaufhold
