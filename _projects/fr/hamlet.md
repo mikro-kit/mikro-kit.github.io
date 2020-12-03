@@ -29,3 +29,5 @@ Nora Steinig
 Première le 23.02.2015, après des tournées en 2015, 2016, 2017 et 2018 dans des salles de classes des cantons de Vaud et de Genève (CH) ainsi qu'à la Réunion (FR).
 
 Spectacle en français, traduction allemande du texte disponible
+
+Photos ©Samuel Rubio
