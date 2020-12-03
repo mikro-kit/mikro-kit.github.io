@@ -1,6 +1,6 @@
 ---
 title: La Mission
-subtitle: De Heiner Müller
+subtitle: de Heiner Müller
 ref: pr-auftrag
 image: auftrag
 quote: gib mir dein auto und dein geld. ich fahre fort. ich gründe eine welt.
@@ -20,7 +20,7 @@ Que faire? Ranger la mission dans l’étagère, souvenir d’une révolution? L
 Eine Inszenierung des dritten Studienjahres der HfS Ernst Busch.
 
 
-**Jeu:**
+**Avec**
 Jan Breustedt  
 Jan Gerrit Brüggemann  
 Felix Maria Richter  
@@ -29,12 +29,12 @@ Christophe Vetter
 Anton Weil  
 
 
-**Mise en scène:** Magali Tosato  
-**Scénographie et costumes:** Franziska Keune  
-**Dramaturgie:** Lydia Dimitrow  
-**Vidéo:** Pary El-Qualquili  
-**Caméra:** Christiane Schmidt  
-**Montage vidéo et Sound-Design:** Jakob Klaffs  
+**Mise en scène :** Magali Tosato  
+**Scénographie et costumes :** Franziska Keune  
+**Dramaturgie :** Lydia Dimitrow  
+**Vidéo :** Pary El-Qualquili  
+**Caméra :** Christiane Schmidt  
+**Montage vidéo et Sound-Design :** Jakob Klaffs  
 
 
 Première le 23.02.2013 au bat-Studiotheater, Berlin  
@@ -42,3 +42,5 @@ Représentation dans le cadre du festival ‘Heiner Müller’ le 25.05.2013 au 
 Colloque ‘Bertold Brecht - Heiner Müller’ le 22.10.2013 à la Maison Heinrich Heine, Cité Universitaire Paris (Contribution de Magali Tosato)  
 
 Spectacle en allemand
+
+Fotos ©B. Rudis
