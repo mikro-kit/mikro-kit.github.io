@@ -46,3 +46,5 @@ Alain Borek, Claire Deutsch, Baptiste Gilliéron und Tamaïti Torlasco
 Premiere am 30. Oktober 2018 / Théâtre Benno Besson, Yverdon-les-Bains
 
 Sprache: französisch, deutsche Textfassung (als Leseprobe) vorhanden
+
+Fotos ©François Graf
