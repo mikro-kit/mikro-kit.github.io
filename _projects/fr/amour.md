@@ -19,7 +19,7 @@ Poursuivant sa recherche d’un théâtre documentaire polyphonique, la compagni
 
 Peut-on imaginer un lien plus puissant que l’amour pour s’inscrire dans le monde? Amour/Luxe célèbre avec poésie les ressources individuelles, la capacité des hommes et des femmes à briser ces mécaniques administratives, à trouver des alternatives pour défendre leurs choix et leur intégrité.
 
-**Avec:**  
+**Avec**  
 Manuela Beltran Marulanda  
 Charlotte Dumartheray  
 Moanda Daddy Kamono  
@@ -37,3 +37,5 @@ Luis Alberto Rodriguez Martinez
 Première le 28.02.2017 / Théâtre de Vidy Lausanne
 
 Spectacle en français, avec des surtitres allemands
+
+Photos ©Loan Nguyen
