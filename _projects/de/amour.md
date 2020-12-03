@@ -47,3 +47,5 @@ Luis Alberto Rodriguez Martinez
 Premiere am 28.02. 2017 / Théâtre de Vidy-Lausanne  
 
 Sprache: Französisch, deutsche Übertitel vorhanden
+
+Fotos ©Loan Nguyen
