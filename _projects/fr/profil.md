@@ -44,4 +44,4 @@ Création le 28 octobre 2020 / Théâtre de Vidy-Lausanne
 
 Spectacle en français
 
-Photo ©Samuel Rubio
+Photos ©Samuel Rubio
