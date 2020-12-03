@@ -42,3 +42,5 @@ Moanda Daddy Kamono et Rodriguez Vangama
 Premiere am 28. Oktober 2020 / Théâtre de Vidy-Lausanne
 
 Sprache: Französisch
+
+Fotos ©Samuel Rubio
