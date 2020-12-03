@@ -37,3 +37,5 @@ im Rahmen des „Heiner Müller Festival“
 **Kolloquium** am 22.10.2013 / „Bertolt Brecht - Heiner Müller“, Maison Heinrich Heine, Cité Universitaire, Paris (Vortrag von Magali Tosato)  
 
 Sprache: deutsch
+
+Fotos ©B. Rudis
