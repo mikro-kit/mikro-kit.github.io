@@ -57,3 +57,5 @@ Patrick: Sébastien Jacobi
 Première le 18 janvier 2019 / Théâtre national de la Sarre
 
 Langue : allemand avec des passages en français (surtitrés)
+
+Photos ©Martin Kaufhold
