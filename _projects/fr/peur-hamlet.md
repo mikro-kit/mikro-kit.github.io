@@ -17,32 +17,34 @@ La Compagnie mikro-kit poursuit sa démarche fondée sur la recherche documentai
  
 Créé d’abord dans des écoles, puis joué plus d’une centaine de fois dans des classes, des foyers ou des hôpitaux Qui a peur d’Hamlet ? est une confrontation directe avec le grand classique shakespearien. Plongé au cœur de l’action scénique, le public est pris à parti dans une enquête qui – même si elle joue avec le fantasme de résoudre un crime – met avant tout en lumière des enjeux humains, sociaux et politiques.
 
-**Texte:** d’après William Shakespeare dans une traduction de Pascal Collin
+**Texte :** d’après William Shakespeare dans une traduction de Pascal Collin
 
-**Adaptation et mise en scène:** Magali Tosato
+**Adaptation et mise en scène :** Magali Tosato
 
-**Adaptation et dramaturgie:** Lydia Dimitrow
+**Adaptation et dramaturgie :** Lydia Dimitrow
 
-**Scénographie et costumes:** Franziska Keune
+**Scénographie et costumes :** Franziska Keune
 
-**Musique:** Hans Block
+**Musique :** Hans Block
 
-**Lumière et régie générale:** Théo Serez
+**Lumière et régie générale :** Théo Serez
 
-**Régie son et lumière:** Céline Ribeiro
+**Régie son et lumière :** Céline Ribeiro
 
-**Assistanat mise en scène:** Magali Heu
+**Assistanat mise en scène :** Magali Heu
 
  
 **Avec**
 
 Alain Borek, Claire Deutsch, Baptiste Gilliéron et Tamaïti Torlasco
  
-**Production:** Compagnie mikro-kit
+**Production :** Compagnie mikro-kit
 
-**Coproduction:** Théâtre Benno Besson, Yverdon-les-Bains - Théâtre Vidy-Lausanne - Théâtre du Pommier, Neuchâtel
+**Coproduction :** Théâtre Benno Besson, Yverdon-les-Bains - Théâtre Vidy-Lausanne - Théâtre du Pommier, Neuchâtel
 
  
 Création le 30 octobre 2018 / Théâtre Benno Besson, Yverdon-les-Bains
 
 Spectacle en français, traduction allemande du texte disponible
+
+Photos ©François Graf
