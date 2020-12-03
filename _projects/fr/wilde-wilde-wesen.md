@@ -60,3 +60,5 @@ Gonzalo Barahona, Alessandro Maggioni
 Première le 25 avril 2019 / Schaubude Berlin
 
 Langue : principalement sans parole
+
+Photos ©Holger Diedrich
