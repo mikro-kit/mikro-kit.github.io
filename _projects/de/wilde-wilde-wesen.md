@@ -67,3 +67,5 @@ Gonzalo Barahona, Alessandro Maggioni
 Premiere am 25. April 2019 / Schaubude Berlin
 
 Sprache: hauptsächlich ohne Sprache
+
+Fotos ©Holger Diedrich
