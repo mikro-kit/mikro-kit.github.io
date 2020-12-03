@@ -45,3 +45,5 @@ Baptiste Coustenoble und Tomas Gonzalez
 Premiere am 22.09.2015 / Théâtre de Vidy, Lausanne
 
 Sprache: französisch, deutsche Übertitel vorhanden
+
+Fotos ©Samuel Rubio
