@@ -30,3 +30,5 @@ Baptiste Coustenoble et Tomas Gonzalez
 Première le 22.09.2015 / Théâtre de Vidy, Lausanne
 
 Spectacle en français, avec des surtitres allemands
+
+Photos ©Samuel Rubio
