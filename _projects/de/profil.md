@@ -14,6 +14,12 @@ Ein Schauspieler spricht für die Rolle von Shakespeares Richard III. vor. Er is
 
 In Form eines kraftvollen, poetischen Monologs blickt der französisch-kongolesische Schauspieler auf diese Erfahrung zurück, er hält die Zeit an und lässt uns eintauchen in einen Sog von tiefvergrabenen Erinnerungen, um sich der Frage zu stellen, was hinter dieser Absage steckt. Ist es ein Mangel an Vorstellungskraft? Die Angst oder das Unvermögen, sich von alten Zuschreibungen zu lösen? Und was bedeutet diese Zurückweisung für ihn: Ist es das Ende von allem oder der Anfang von etwas? Musik und Text schleudern uns mitten hinein in das Ringen mit tiefliegenden Wunden, hartnäckigen Vorurteilen, Erfahrungen von Krieg, Gewalt und Ausgrenzung; denn die Hoffnung, dass das Theater ein Ort des Widerstands, des Wandels, der Auseinandersetzung sein kann, besteht nicht – sie muss erkämpft werden.
 
+{% raw %}
+
+https://www.rts.ch/play/tv/19h30/video/profil-au-theatre-de-vidy-cest-lhistoire-dun-acteur-noir-qui-se-presente-a-un-casting-mais-il-na-pas-le-profil---?urn=urn:rts:video:11711734
+
+{% endraw %}
+
 **Text:** Moanda Daddy Kamono
 
 **Regie:** Magali Tosato
