@@ -16,7 +16,7 @@ In Form eines kraftvollen, poetischen Monologs blickt der französisch-kongolesi
 
 {% raw %}
 
-https://www.rts.ch/play/tv/19h30/video/profil-au-theatre-de-vidy-cest-lhistoire-dun-acteur-noir-qui-se-presente-a-un-casting-mais-il-na-pas-le-profil---?urn=urn:rts:video:11711734
+<iframe width="560" height="315" src="https://www.rts.ch/play/tv/19h30/video/profil-au-theatre-de-vidy-cest-lhistoire-dun-acteur-noir-qui-se-presente-a-un-casting-mais-il-na-pas-le-profil---?urn=urn:rts:video:11711734" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% endraw %}
 
