@@ -14,7 +14,6 @@ Drei französische Revolutionäre werden nach Jamaika geschickt, um dort einen S
 
 Währenddessen sitze wir in unserem Wohnzimmer und grübeln. Aber was tun? Den Auftrag zurück ins Regal stellen – Erinnerung an eine Revolution? Soll die Welt wieder das werden, was sie war, "eine Heimat für Herren und Sklaven", oder sind wir, "solange es Herren und Sklaven gibt, aus unserem Auftrag nicht entlassen"? Habe ich  einen Auftrag? Und wer hat ihn mir gegeben?
 
-Eine Inszenierung des dritten Studienjahres der HfS Ernst Busch.
 
 **Es spielen:**  
 Jan Breustedt  
