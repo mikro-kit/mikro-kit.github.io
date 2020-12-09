@@ -19,5 +19,5 @@ Politische Themen, wie Diskriminierung rassistischer oder heterosexistischer Art
 
 Ihre Arbeiten basieren auf Feldforschungen und auf (auto)biographische Erzählungen der Teilhabenden. Das daraus entstandene Material wird in den Projekten auf verschiedenste Weisen verarbeitet. Persönliche Erfahrungen stehen neben oder stecken hinter Archivdokumenten, Visuals oder Literatur, um eine zugleich persönliche und mehrstimmige Perspektive auf ein gesellschaftlich relevantes Thema zu ermöglichen. Im Geist der Mikrogeschichte, werden große, komplexe Zusammenhänge über kleine, singuläre Erlebnisse greifbar gemacht und kritisch reflektiert. 
 
-Ein spielerischer Zugang, eine poetische Einfachheit und Direktheit im Spiel, sowie ein leiser Humor, kennzeichnen ihre Arbeiten und bilden ein Gegengewicht zu den meist komplexen, auffordernden und schonungslosen Auseinandersetzungen, mit denen die Zuschauer*innen konfrontiert werden. 
+Ein spielerischer Zugang, eine poetische Einfachheit und Direktheit im Spiel, sowie ein leiser Humor, kennzeichnen ihre Arbeiten und bilden ein Gegengewicht zu den meist komplexen, auffordernden und schonungslosen Auseinandersetzungen, mit denen die ZuschauerInnen konfrontiert werden. 
 
