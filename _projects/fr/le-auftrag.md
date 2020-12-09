@@ -17,8 +17,6 @@ Et nous, nous sommes là installés dans notre salon et nous y réflechissons.
 
 Que faire? Ranger la mission dans l’étagère, souvenir d’une révolution? Le monde doit-il à nouveau devenir ce qu’il était, « une patrie pour maîtres et esclaves », ou ne sommes-nous pas plutôt tenus de remplir notre mission tant qu’il y aura quelque part des maîtres et des esclaves ?
 
-Eine Inszenierung des dritten Studienjahres der HfS Ernst Busch.
-
 
 **Avec**
 
