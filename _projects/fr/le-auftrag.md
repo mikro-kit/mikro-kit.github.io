@@ -18,6 +18,12 @@ Et nous, nous sommes là installés dans notre salon et nous y réflechissons.
 Que faire? Ranger la mission dans l’étagère, souvenir d’une révolution? Le monde doit-il à nouveau devenir ce qu’il était, « une patrie pour maîtres et esclaves », ou ne sommes-nous pas plutôt tenus de remplir notre mission tant qu’il y aura quelque part des maîtres et des esclaves ?
 
 
+{% raw %}
+
+<iframe width="560" height="315" src="https://vimeo.com/59440607" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% endraw %}
+
+
 **Avec**
 
 Jan Breustedt  
@@ -42,4 +48,4 @@ Colloque ‘Bertold Brecht - Heiner Müller’ le 22.10.2013 à la Maison Heinri
 
 Spectacle en allemand
 
-Fotos ©B. Rudis
+Fotos ©B.Rudis
