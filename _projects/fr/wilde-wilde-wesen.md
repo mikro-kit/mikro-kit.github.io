@@ -19,7 +19,12 @@ Sur scène un être est appelé à la vie. Il part à la découverte aussi bien 
 Sommes-nous maîtres de l’effet que nous produisons sur les autres ? Parvenons-nous à dissimuler ce qui bouillonne en nous ? Jusqu’à quel point nos corps sont-ils façonnés par les expériences vécues ? Partant d’une recherche autobiographique collective, dont on entend des bribes, l’équipe s’est penchée sur les blessures, y compris celles d’origine structurelle, pour dévoiler comment elles agissent et contribuent à faire de nous celles et ceux que nous sommes. 
 
 
-[TEASER](https://vimeo.com/332331971) 
+{% raw %}
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/333739880" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+ 
+<p></p>
+{% endraw %}
+
 
 **Théâtre d’objet avec projections numériques/digitales**
 
