@@ -18,6 +18,17 @@ Qu'y a-t-il de plus 'fait maison' qu’un enfant ? Maison – mère, foyer, mili
 Oscillant entre adhésion et contestation, "Home-made" révèle les tensions qui marquent le rapport de l’individu à l'édifice familial et social sur lequel il se construit. Mêlant certains motifs de Mars à une écriture personnelle issue d'improvisations et de recherches documentaires, la compagnie mikro-kit s'intéresse à la fabrique de l’identité par le prisme de trajectoires individuelles, croisant personnages de fiction et matériau documentaire.
 
 
+
+{% raw %}
+<p></p>
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/143252481" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+<p></p>
+{% endraw %}
+
+
+
 **Avec :**  
 Baptiste Coustenoble et Tomas Gonzalez  
 
