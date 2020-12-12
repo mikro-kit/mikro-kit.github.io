@@ -20,8 +20,9 @@ Pour contrer l’onde de choc provoquée par cette non entrée en matière, l’
 
 <iframe width="560" height="315" src="https://www.rts.ch/play/tv/19h30/video/profil-au-theatre-de-vidy-cest-lhistoire-dun-acteur-noir-qui-se-presente-a-un-casting-mais-il-na-pas-le-profil---?urn=urn:rts:video:11711734" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 {% endraw %}
+
+Un reportage de la Radio Télévision Suisse romande : de Julie Evard pour Le Journal de 19h30 le 28.10.2020. 
 
 **Texte :** Moanda Daddy Kamono
 
