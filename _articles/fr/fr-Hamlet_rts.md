@@ -2,7 +2,7 @@
 title: Une bombe dʹénergie et dʹintelligence
 author: Thierry Sartoretti
 published: 12.05.2016
-paper: Vertigo, RTS
+paper: Radio-Télévision suisse, Vertigo
 press-ref: pr-hamlet
 project: hamlet
 ---
