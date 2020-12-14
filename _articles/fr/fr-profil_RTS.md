@@ -1,8 +1,8 @@
 ---
-title: "La diversification des récits"
+title: Un projet qui a du sens
 author: Julie Evard
 published: 28.10.2020
-paper: Le 19h30, RTS - Télévision
+paper: Radio Télévision suisse, Téléjournal - Le 19h30
 press-ref: pr-profil
 project: profil
 ---
