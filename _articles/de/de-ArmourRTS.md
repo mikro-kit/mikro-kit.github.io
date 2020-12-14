@@ -1,8 +1,8 @@
 ---
-title: Une pièce pour explorer les arcanes du mariage d’amour ou de raison
+title: Explorer les arcanes du mariage d’amour ou de raison
 author: Thierry Sartoretti
 published: 03.03.2017
-paper: RTS Radio Culture
+paper: Radio-Télévision suisse, Radio Culture
 press-ref: pr-amour
 project: amour
 ---
