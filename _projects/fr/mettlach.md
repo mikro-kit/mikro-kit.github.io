@@ -10,7 +10,7 @@ location: Théâtre National de la Sarre
 
 ---
 
-Sill doit impérativement partir, du moins pour un temps. Du Luxembourg, elle vient s’installer à Mettlach, chez son grand-père Hermann. Tout juste revenu dans la Sarre après quarante ans passés à l’étranger, le vieil homme ne l’a jamais vue, pas plus que sa propre fille. Ne sachant trop que faire ni de son temps ni de son avenir, Sill découvre peu à peu Mettlach et ses habitants. De son côté, Hermann se plonge dans ses archives personnelles et dans celles de sa ville d’origine, en grande transformation. 
+Sill doit s'en aller, du moins pour un temps. Du Luxembourg, elle vient s’installer à Mettlach, chez son grand-père Hermann. Tout juste revenu dans la Sarre après quarante ans passés à l’étranger, le vieil homme ne l’a jamais vue, pas plus que sa propre fille. Ne sachant trop que faire ni de son temps ni de son avenir, Sill découvre peu à peu Mettlach et ses habitants. De son côté, Hermann se plonge dans ses archives personnelles et dans celles de sa ville d’origine, en grande transformation. 
 
 Inspirées par des entretiens menés auprès de différents acteurs du lieu, les autrices franco-germanophones Magali Tosato et Lydia Dimitrow racontent au travers de six trajectoires fictives une histoire de famille dont le protagoniste principal se révèle en fin de compte le village de Mettlach. Peut-on, veut-on y vivre ? Comment ?  Qu’est-ce que Mettlach, en dehors du siège de l’entreprise mondiale Villeroy & Boch ?
 
