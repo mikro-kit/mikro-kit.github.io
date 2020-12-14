@@ -1,5 +1,5 @@
 ---
-title: Der Auftrag
+title: Reizvolle Denkanstöße
 author: Horst Roediger
 published: 26.02.2013
 paper: Livekritik.de
