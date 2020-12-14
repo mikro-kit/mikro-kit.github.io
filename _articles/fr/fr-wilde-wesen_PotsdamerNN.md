@@ -1,5 +1,5 @@
 ---
-title: Comme un roman graphique
+title: Roman graphique
 author: Astrid Priebs-Tröger
 published: 12.05.2019
 paper: Potsdamer Neueste Nachrichten
