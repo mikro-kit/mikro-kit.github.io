@@ -1,5 +1,5 @@
 ---
-title: "Jeu audiovisuel : Qu’est-ce qui se cache sous le masque ?"
+title: Du jamais vu
 author: Matthias Liedtke
 published: 17.11.2019
 paper: Neue Osnabrücker Zeitung
