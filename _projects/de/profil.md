@@ -21,7 +21,7 @@ In Form eines kraftvollen, poetischen Monologs blickt der französisch-kongolesi
 
 {% endraw %}
 
-*Ein Fernsehbeitrag des schweizer öffentlich-rechtlicher Rundfunk RTS von Julie Evard für die Tagesschau von 19:30 am 28.10.2020.* 
+*Ein Beitrag im RTS Fernsehen am 28.10.2020.* 
 
 
 **Text:** Moanda Daddy Kamono
