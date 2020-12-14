@@ -24,7 +24,7 @@ Pour contrer l’onde de choc provoquée par cette non entrée en matière, l’
 {% endraw %}
 
 
-*Un reportage de la Radio Télévision Suisse romande : de Julie Evard pour Le Journal de 19h30 le 28.10.2020.* 
+*Reportage de la RTS du 28.10.2020.* 
 
 
 **Texte :** Moanda Daddy Kamono
