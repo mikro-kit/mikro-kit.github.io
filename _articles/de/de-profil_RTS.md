@@ -1,5 +1,5 @@
 ---
-title: "Der Vielstimmigkeit eine Bühne geben"
+title: "Ein wichtiges Stück"
 author: Julie Evard
 published: 28.10.2020
 paper: Le 19h30, RTS - Fernsehen
