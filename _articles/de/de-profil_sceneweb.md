@@ -1,5 +1,5 @@
 ---
-title: "Briser les stéréotypes éculés"
+title: "Une forme qui sort des canons habituels"
 author: Vincent Bouquet
 published: 02.11.2020
 paper: www.sceneweb.fr
