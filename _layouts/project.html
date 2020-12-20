@@ -46,27 +46,8 @@ layout: default
     <h3 class="press-list__title">Presse zu „{{ page.title }}“:</h3>
   </div>
 
-  <div class="row press-list">
+  {% include press-content-list-html %}
 
-  {% for article in articles %}
-
-    <div class="press-article">
-      <div class="press-article-div">
-        <h6 class="press-article-div__title">{{ article.title }}</h6>
-        <p>
-          <span class="press-article-div__author">{{ article.author }}</span><br>
-          <span class="press-article-div__press">{{ article.paper }} - </span>
-          <span class="press-article-div__date">{{ article.published}}</span>
-        </p>
-        <p>
-          {{ article.content }}
-        </p>
-      </div>
-    </div>
-
-    {% endfor %}
-
-  </div> <!-- end press-list -->
 </div> <!-- end section__press -->
 
 {% endif %}
