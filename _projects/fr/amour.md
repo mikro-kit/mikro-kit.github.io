@@ -19,15 +19,7 @@ Poursuivant sa recherche d’un théâtre documentaire polyphonique, la compagni
 
 Peut-on imaginer un lien plus puissant que l’amour pour s’inscrire dans le monde? Amour/Luxe célèbre avec poésie les ressources individuelles, la capacité des hommes et des femmes à briser ces mécaniques administratives, à trouver des alternatives pour défendre leurs choix et leur intégrité.
 
-
-{% raw %}
-<p></p>
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/205223196" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-<p></p>
-{% endraw %}
-
+{% include vimeoPlayer.html id='205223196' %}
 
 **Avec**  
 Manuela Beltran Marulanda  

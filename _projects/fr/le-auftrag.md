@@ -17,14 +17,7 @@ Et nous, nous sommes là installés dans notre salon et nous y réflechissons.
 
 Que faire? Ranger la mission dans l’étagère, souvenir d’une révolution? Le monde doit-il à nouveau devenir ce qu’il était, « une patrie pour maîtres et esclaves », ou ne sommes-nous pas plutôt tenus de remplir notre mission tant qu’il y aura quelque part des maîtres et des esclaves ?
 
-
-{% raw %}
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/59440607" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
- 
-<p></p>
-{% endraw %}
-
-
+{% include vimeoPlayer.html id='59440607' %}
 
 **Avec**
 

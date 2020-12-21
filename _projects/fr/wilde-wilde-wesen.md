@@ -10,21 +10,15 @@ location: Schaubude Berlin
 
 ---
 
-Déposer, en même temps que son manteau, sa peau au vestiaire… Qui n’en a jamais rêvé, et souhaité devenir quelqu’un d’autre, de radicalement différent ? Sait-on à quoi il faut ressembler pour être dans le coup ? Et ce que nos corps, leurs traits et blessures, ont à nous révéler ? 
+Déposer, en même temps que son manteau, sa peau au vestiaire… Qui n’en a jamais rêvé, et souhaité devenir quelqu’un d’autre, de radicalement différent ? Sait-on à quoi il faut ressembler pour être dans le coup ? Et ce que nos corps, leurs traits et blessures, ont à nous révéler ?
 
 Théâtre d’objet, pratiquement sans paroles, le spectacle «Wilde wilde Wesen» («Sauvages sauvages») est le fruit d’une collaboration inédite entre le designer et artiste indépendant Alessandro Maggioni et la Compagnie mikro-kit. Il explore les synergies entre jeu, musique, projections numériques et digitales.
 
 Sur scène un être est appelé à la vie. Il part à la découverte aussi bien du public que de lui-même (Gonzalo Barahona). Entre performance physique et visuelle, sa tentative d’entrer en communication et de raconter son histoire se traduit dans une série de projections animées (Alessandro Maggioni). Tantôt elles illustrent son récit, tantôt elles en montrent la face cachée.
 
-Sommes-nous maîtres de l’effet que nous produisons sur les autres ? Parvenons-nous à dissimuler ce qui bouillonne en nous ? Jusqu’à quel point nos corps sont-ils façonnés par les expériences vécues ? Partant d’une recherche autobiographique collective, dont on entend des bribes, l’équipe s’est penchée sur les blessures, y compris celles d’origine structurelle, pour dévoiler comment elles agissent et contribuent à faire de nous celles et ceux que nous sommes. 
+Sommes-nous maîtres de l’effet que nous produisons sur les autres ? Parvenons-nous à dissimuler ce qui bouillonne en nous ? Jusqu’à quel point nos corps sont-ils façonnés par les expériences vécues ? Partant d’une recherche autobiographique collective, dont on entend des bribes, l’équipe s’est penchée sur les blessures, y compris celles d’origine structurelle, pour dévoiler comment elles agissent et contribuent à faire de nous celles et ceux que nous sommes.
 
-
-{% raw %}
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/333739880" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
- 
-<p></p>
-{% endraw %}
-
+{% include vimeoPlayer.html id='333739880' %}
 
 **Théâtre d’objet avec projections numériques/digitales**
 

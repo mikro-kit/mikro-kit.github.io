@@ -14,14 +14,7 @@ Drei französische Revolutionäre werden nach Jamaika geschickt, um dort einen S
 
 Währenddessen sitze wir in unserem Wohnzimmer und grübeln. Aber was tun? Den Auftrag zurück ins Regal stellen – Erinnerung an eine Revolution? Soll die Welt wieder das werden, was sie war, "eine Heimat für Herren und Sklaven", oder sind wir, "solange es Herren und Sklaven gibt, aus unserem Auftrag nicht entlassen"? Habe ich  einen Auftrag? Und wer hat ihn mir gegeben?
 
-
-{% raw %}
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/59440607" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
- 
-<p></p>
-{% endraw %}
-
-
+{% include vimeoPlayer.html id='59440607' %}
 
 **Es spielen:**  
 Jan Breustedt  

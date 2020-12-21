@@ -1,6 +1,6 @@
 ---
 title: Hamlet dans les écoles
-subtitle: 
+subtitle:
 ref: pr-hamlet
 image: hamlet
 quote: Ça commence mal et le pire est à venir.
@@ -15,15 +15,7 @@ Mêlant le texte de Shakespeare à des réécritures contemporaines, les comédi
 
 Et si les paroles du spectre étaient un appel à affirmer son propre point de vue? Un acte d’émancipation pour le jeune prince comme pour le spectateur?
 
-
-{% raw %}
-<p></p>
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/137587181" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-<p></p>
-{% endraw %}
-
+{% include vimeoPlayer.html id='137587181' %}
 
 **Jeu :**  
 Alain Borek  

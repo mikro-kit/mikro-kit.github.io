@@ -1,6 +1,6 @@
 ---
 title: Hamlet in den Schulen
-subtitle: 
+subtitle:
 ref: pr-hamlet
 image: hamlet
 quote: Schlimm nun beginnt’s, Schlimmres folgt hinterdrein.
@@ -15,13 +15,7 @@ Nach dem verdächtigen Tod seines Vaters und der überstürzten Hochzeit seiner 
 
 Und wenn die Wortes des Geistes ein Aufruf wären, die eigene Sichtweise zu behaupten? Geht es nicht eher um einen emanzipatorischen Akt für den jungen Prinzen – und vielleicht auch für die Zuschauer?
 
-{% raw %}
-<p></p>
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/137587181" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-<p></p>
-{% endraw %}
+{% include vimeoPlayer.html id='137587181' %}
 
 **Es spielen:**  
 Alain Borek  
