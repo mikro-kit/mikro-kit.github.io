@@ -21,3 +21,6 @@ Ihre Arbeiten basieren auf Feldforschungen und auf (auto)biographische Erzählun
 
 Ein spielerischer Zugang, eine poetische Einfachheit und Direktheit im Spiel, sowie ein leiser Humor, kennzeichnen ihre Arbeiten und bilden ein Gegengewicht zu den meist komplexen, auffordernden und schonungslosen Auseinandersetzungen, mit denen die ZuschauerInnen konfrontiert werden. 
 
+Presse (FR): [Quotidien "Le Temps", 28.10.2018 (Marie-Pierre Genecand)](https://www.letemps.ch/culture/magali-tosato-theatre-conscient), [Quotidien "La Liberté", 18.02.2017 (Elisabeth Haas)](http://vidy.ch/sites/default/files/20170218_laliberte_tosato2_0.pdf) et [Quotidien "24heures", 14.09.2015 (Gérald Cordonnier)](http://www.24heures.ch/culture/theatre/La-jeune-metteur-en-scene-Magali-Tosato-ose-le-grand-saut-a-Vidy/story/22110262).
+
+Audio (FR): [Radio Télévision suisse romande "La tête à l'envers", 26.09.2015 (Laurence Froidevaux & Marlène Métrailler)](http://www.rts.ch/espace-2/programmes/la-tete-a-l-envers/7077676-la-tete-a-l-envers-du-26-09-2015.html).
