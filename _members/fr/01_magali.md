@@ -17,7 +17,7 @@ Poursuivant une démarche d’empowerment, elle s’intéresse spécialement aux
 
 Ses projets se fondent sur travail de recherche approfondi et sur la récolte de témoignages (auto)biographiques. Ils allient récits, documents d’archives, projections et littérature, visant une perspective à la fois personnelle et polyphonique sur un sujet de société. Dans la veine de la micro-histoire, une réflexion critique sur des macros phénomènes complexes se dégage de petites expériences singulières.
 
-Portraits Presse: [Quotidien "Le Temps", 28.10.2018 (Marie-Pierre Genecand)](https://www.letemps.ch/culture/magali-tosato-theatre-conscient), [Quotidien "La Liberté", 18.02.2017 (Elisabeth Haas)](http://vidy.ch/sites/default/files/20170218_laliberte_tosato2_0.pdf) et [Quotidien "24heures", 14.09.2015 (Gérald Cordonnier)](http://www.24heures.ch/culture/theatre/La-jeune-metteur-en-scene-Magali-Tosato-ose-le-grand-saut-a-Vidy/story/22110262)
+Portraits Presse: [Quotidien "Le Temps", 28.10.2018 (Marie-Pierre Genecand)](https://www.letemps.ch/culture/magali-tosato-theatre-conscient), [Quotidien "La Liberté", 18.02.2017 (Elisabeth Haas)](http://vidy.ch/sites/default/files/20170218_laliberte_tosato2_0.pdf) et [Quotidien "24heures", 14.09.2015 (Gérald Cordonnier)](http://www.24heures.ch/culture/theatre/La-jeune-metteur-en-scene-Magali-Tosato-ose-le-grand-saut-a-Vidy/story/22110262).
 
-Portraits Audio: [Radio Télévision suisse romande "La tête à l'envers", 26.09.2015 (Laurence Froidevaux & Marlène Métrailler)](http://www.rts.ch/espace-2/programmes/la-tete-a-l-envers/7077676-la-tete-a-l-envers-du-26-09-2015.html)
+Portrait Audio: [Radio Télévision suisse romande "La tête à l'envers", 26.09.2015 (Laurence Froidevaux & Marlène Métrailler)](http://www.rts.ch/espace-2/programmes/la-tete-a-l-envers/7077676-la-tete-a-l-envers-du-26-09-2015.html).
 
