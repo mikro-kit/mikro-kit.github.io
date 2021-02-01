@@ -12,3 +12,4 @@ Outre des romans – d’Isabelle Flükiger, Bruno Pellegrino, Joseph Incardona 
 
 Elle travaille depuis 2011 avec Magali Tosato et Franziska Keune en tant qu’autrice et dramaturge (2013: "La Mission" de Heiner Müller, bat-Studiotheater Berlin // 2014: "I love Italy and Italy loves me", bat-Studiotheater Berlin // 2015: « Hamlet dans les écoles» et «Home-Made», Théâtre de Vidy-Lausanne // 2017: «Amour / Luxe», Théâtre de Vidy-Lausanne // 2018: «Qui a peur d'Hamlet?», Théâtre Benno Besson Yverdon-les-Bains // 2019: «Mettlach», Théâtre national de la Sarre, et «Wilde wilde Wesen», Schaubude Berlin // 2020: «Profi »l, Théâtre de Vidy-Lausanne).
 
+Pour plus d'informations : [www.lydia-dimitrow.de](https://www.lydia-dimitrow.de)
