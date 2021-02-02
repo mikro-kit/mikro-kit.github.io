@@ -5,7 +5,7 @@ role: Mise en scène
 ref: magali
 ---
 
-Magali Tosato écrit et met en scène des œuvres dramatiques, des projets documentaires et du théâtre d'objets, principalement avec la compagnie mikro-kit, qu’elle a fondée avec Lydia Dimitrow et Franziska Keune. Elle est née à Lausanne (CH) et s’est formée à la mise en scène à la haute école de théâtre « Ernst Busch » de Berlin.
+Magali Tosato écrit et met en scène des œuvres dramatiques, des projets documentaires et du théâtre d'objets, principalement avec la compagnie mikro-kit, qu’elle a fondée avec Lydia Dimitrow et Franziska Keune. Elle est née à Lausanne (CH) et s’est formée à la mise en scène à la haute école de théâtre "Ernst Busch" de Berlin.
 
 Elle a été sélectionnée pour plusieurs séminaires prestigieux, dont le Séminaire en Avignon Pro Helvetia (2016), le Séminaire des Jeunes Artistes du Théâtre de Vidy (2016) et le Watch & Talk du Festival Belluard Bollwerk International (2018). En 2014, son projet « Il y a quelqu’un » remporte le premier prix du festival international francophone des arts vivants Passe-Portes à l’Île Maurice. En 2015 elle obtient la Bourse de compagnonnage théâtral de la Ville de Lausanne et du Canton de Vaud. En 2017, elle est lauréate du Fonds de dotation Porosus pour la relève artistique.
 
