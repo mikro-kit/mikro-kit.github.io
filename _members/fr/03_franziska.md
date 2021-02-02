@@ -1,7 +1,7 @@
 ---
 title: Franziska Keune
 image: fk
-role: Scènographie
+role: Scénographie
 ref: franziska
 ---
 Franziska Keune est scénographe et costumière. Après l’obtention du baccalauréat, elle effectue divers assistanats au Deutsches Theater à Berlin, à la Volksbühne à Berlin et au Hans-Otto-Theater à Potsdam. Elle étudie la scénographie à l’Universität der Künste de Berlin, où elle obtient son diplôme en 2012 avec l'opéra "Calisto" (m.e.s: Matthias Schönfeldt).
