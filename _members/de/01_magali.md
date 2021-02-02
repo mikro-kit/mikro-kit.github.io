@@ -5,9 +5,9 @@ role: Regie
 ref: magali
 ---
 
-Magali Tosato schreibt und inszeniert dramatische Texte, dokumentarische Theaterstücke, sowie Objekttheaterstücke, zumeist mit der von ihr mitgegründeten Kompanie mikro-kit. Sie ist in Lausanne (CH) geboren, hat Regie an der Hochschule für Schauspielkunst ‚Ernst Busch‘ Berlin studiert und ist für verschiedene renommierte Weiterbildungsseminare ausgewählt worden: Séminaire en Avignon, ProHelvetia 2016; Séminaire des Jeunes Artistes, Théâtre de Vidy, Lausanne 2016, Watch & Talk, Festival Belluard Bollwerk International, Fribourg 2018.
+Magali Tosato schreibt und inszeniert dramatische Texte, dokumentarische Theaterstücke, sowie Objekttheaterstücke, zumeist mit der von ihr mitgegründeten Kompanie mikro-kit. Sie ist in Lausanne (CH) geboren und hat Regie an der Hochschule für Schauspielkunst ‚Ernst Busch‘ Berlin studiert.
 
-2014 gewinnt ihr Projekt „Il y a quelqu’un“ den ersten Preis des Festival international francophone des arts vivants Passe-Portes auf Mauritius. 2015 erhält sie die Bourse de compagnonnage théâtral der Stadt Lausanne und des Kanton Waadts. 2017 ist sie Stipendiatin des französischen Fonds de Dotation Porosus für Nachwuchsförderung. 
+Sie ist für verschiedene renommierte Weiterbildungsseminare ausgewählt worden: Séminaire en Avignon, ProHelvetia 2016; Séminaire des Jeunes Artistes, Théâtre de Vidy, Lausanne 2016, Watch & Talk, Festival Belluard Bollwerk International, Fribourg 2018. 2014 gewinnt ihr Projekt „Il y a quelqu’un“ den ersten Preis des Festival international francophone des arts vivants Passe-Portes auf Mauritius. 2015 erhält sie die Bourse de compagnonnage théâtral der Stadt Lausanne und des Kanton Waadts. 2017 ist sie Stipendiatin des französischen Fonds de Dotation Porosus für Nachwuchsförderung. 
 
 Für die Inszenierung „Nachlass, pièces sans personne“ von Stefan Kaegi/Rimini Protokoll (Théâtre de Vidy-Lausanne, 2016/17) übernimmt sie die Recherchearbeit sowie die Koordination und Redaktion des Stückkatalogs. Als Dramaturgin und Regieassistentin hat sie mit verschiedenen RegisseurInnen und freien Theatergruppen zusammengearbeitet, u.a. mit der Cie Full Petal Machine, Cie Un Air de Rien, Cie Pasquier-Rossier, Cie Gianni Schneider, Cie Champs d’Action, Cie Théâtre en Flammes und mit Stefan Kaegi/Rimini Protokoll.
 
