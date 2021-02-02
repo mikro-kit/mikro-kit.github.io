@@ -1,6 +1,6 @@
 ---
 layout: intro
-title: Actuél
+title: Actuel
 lang: fr
 permalink: /fr/
 ref: aktuell
