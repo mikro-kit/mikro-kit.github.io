@@ -4,7 +4,7 @@ image: fk
 role: Scénographie
 ref: franziska
 ---
-Franziska Keune est scénographe et costumière. Après l’obtention du baccalauréat, elle effectue divers assistanats au Deutsches Theater à Berlin, à la Volksbühne à Berlin et au Hans-Otto-Theater à Potsdam. Elle étudie la scénographie à l’Universität der Künste de Berlin, où elle obtient son diplôme en 2012 avec l'opéra "Calisto" (m.e.s: Matthias Schönfeldt).
+Franziska Keune est scénographe et costumière. Après l’obtention du baccalauréat, elle effectue divers assistanats au Deutsches Theater à Berlin, à la Volksbühne à Berlin et au Hans-Otto-Theater à Potsdam. Elle étudie la scénographie à l’Universität der Künste de Berlin, obtenant son diplôme en 2012 avec l'opéra "Calisto" (m.e.s: Matthias Schönfeldt).
 
 Au cours de ses études, elle réalise notamment la scénographie et les costumes pour "Two Pieces + 2 - Preparation" (chorégraphie: Anna Melnikova) au Monaco Dance Forum et pour l'un des opéras du musée de cire de K.A. Hartmann (Komische Oper Berlin / UNI-T Théâtre).  Elle travaille en outre comme scénographe pour des projets de la Deutsche Film und Fernsehakademie Berlin ainsi que pour la Hochschule für Film und Fernsehn de Potsdam, entre autres pour le court-métrage ARTE "Dunkelblau". D'autres travaux suivent au Théâtre Pathos de Munich avec la metteuse en scène Philine Velhagen et, en 2011, avec Bülent Kullukcu pour "Carpma - Der Aufprall" présenté au Spielart Festival Munich. En 2012, elle reçoit le prix du théâtre berlinois Ikarus.
 
