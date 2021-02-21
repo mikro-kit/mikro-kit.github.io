@@ -6,7 +6,7 @@ image: peur-hamlet
 quote: C’est pas parce que c’est écrit, et qu’un spectre le dit, que c’est vrai.
 speaker: Qui a peur d'Hamlet?
 year: 2018
-location: Théâtre de Vidy, Lausanne
+location: Théâtre Benno Besson, Yverdon
 ---
 
 Comment s’affirmer au sein d’un système contraignant sans sombrer dans la mélancolie, la folie ou la violence ? C’est pour la Compagnie mikro-kit l’énigme que pose Hamlet. En s’attaquant à ce texte fondateur, qui suscite tant de fascination, elle entend questionner notre rapport aux grandes œuvres, à l’autorité du texte et au pouvoir. S’inspirant de l’essai de Pierre Bayard (Enquête sur Hamlet, un dialogue de sourds, 2002) qui défend l’hypothèse du lecteur actif et se lance le défi d’identifier l’assassin du père d’Hamlet, elle rouvre l’enquête sur une énigme qui depuis quatre siècles n’a cessé de faire débat. Que s’est-il réellement passé au royaume d’Elseneur? Qui croire au sujet de la mort du roi ?
