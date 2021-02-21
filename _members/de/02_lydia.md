@@ -10,7 +10,7 @@ Lydia Dimitrow übersetzt Prosa und Theaterstücke aus dem Französischen und au
 
 Außerdem begleitet Lydia Dimitrow als Moderatorin verschiedene Veranstaltungen in den Bereichen Kultur und Bildung, etwa die Verleihung des Deutschen Kindertheaterpreises und des Deutschen Jugendtheaterpreises (2016, 2018 und 2020). Von 2008 bis 2015 war sie Mitglied der Festivalzeitungsredaktion des Theatertreffen der Jugend (Berliner Festspiele).
 
-Seit 2011 arbeitet sie als Autorin und Dramaturgin mit Magali Tosato und Franziska Keune zusammen (2013: **„Der Auftrag“** von Heiner Müller, bat-Studiotheater Berlin // 2014 : **„I love Italy and Italy loves me“**, bat-Studiotheater Berlin // 2015 : **„Hamlet dans les écoles“** und **„Home-Made“**, Théâtre de Vidy-Lausanne // 2017: **„Amour/Luxe“**, Théâtre de Vidy-Lausanne // 2018: **„Qui a peur d'Hamlet?“**, Théâtre Benno Besson Yverdon-les-Bains // 2019: **„Mettlach“**, Saarländisches Staatstheater, und **"Wilde wilde Wesen"**, Schaubude Berlin // 2020: **"Profil**, Théâtre de Vidy-Lausanne).
+Seit 2011 arbeitet sie als Autorin und Dramaturgin mit Magali Tosato und Franziska Keune zusammen (2013: **„Der Auftrag“** von Heiner Müller, bat-Studiotheater Berlin / 2014 : **„I love Italy and Italy loves me“**, bat-Studiotheater Berlin / 2015 : **„Hamlet dans les écoles“** und **„Home-Made“**, Théâtre de Vidy-Lausanne / 2017: **„Amour/Luxe“**, Théâtre de Vidy-Lausanne / 2018: **„Qui a peur d'Hamlet?“**, Théâtre Benno Besson Yverdon-les-Bains / 2019: **„Mettlach“**, Saarländisches Staatstheater, und **"Wilde wilde Wesen"**, Schaubude Berlin / 2020: **"Profil**, Théâtre de Vidy-Lausanne).
 
 Mehr Informationen unter: [www.lydia-dimitrow.de](https://www.lydia-dimitrow.de)
 
