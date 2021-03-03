@@ -1,5 +1,5 @@
 ---
-title: Eine Welt im Brennglas
+title: Un univers sous la loupe
 author: Kerstin Krämer
 published: 21.01.2019
 paper: Saarbrücker Zeitung
@@ -7,4 +7,4 @@ press-ref: pr-mettlach
 project: mettlach
 ---
 
-"Doch im Grunde werden übers Ortsspezifische allgegenwärtige Probleme verhandelt: Generationen- und Eltern-Kind-Konflikte, Vergangenheitsbewältigung versus Zukunftsgestaltung, Abhängigkeit gegen Selbstbehauptung, Gehen oder Bleiben. Wenn aber Mettlach überall ist, wie man aus dieser Welt im Brennglas schließen darf: hat sich dann die geplante Trilogie nicht bereits nach diesem ersten Akt erschöpft? Warten wir ab…"
+" Les problèmes évoqués ici sont omniprésents, bien au-delà de l’échelle locale : le conflit générationnel parents-enfants, le dépassement du passé pour construire l'avenir, la dépendance comme obstacle à l’affirmation de soi, le dilemme entre rester ou partir. Mais si Mettlach est partout, comme cet univers passé à la loupe en convainc, la trilogie prévue ne serait-elle pas déjà épuisée après ce premier acte ? Attendons pour voir … "
