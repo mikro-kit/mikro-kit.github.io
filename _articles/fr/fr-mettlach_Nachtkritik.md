@@ -1,5 +1,5 @@
 ---
-title: Das Saarland beschwört die eigene Zukunft
+title: La Sarre conjure son avenir
 author: Reingart Saupe
 published: 18.01.2019
 paper: Nachtkritik
@@ -7,4 +7,4 @@ press-ref: pr-mettlach
 project: mettlach
 ---
 
-"Sechs Figuren, sechs Lebensläufe und eine von enttäuschter Liebe und Verlassenwerden getränkte grenzüberschreitende Familiensoap haben die Autorinnen Lydia Dimitrow und Magali Tosato nach ihrem Rechercheaufenthalt vor Ort erfunden. (...) ’Großes entsteht immer im Kleinen’: Mit diesem trotzig-selbstbewussten Werbeslogan beschwört das Saarland die eigene Zukunft.."
+" Les petits ruisseaux font les grandes rivières.» C’est avec ce fier slogan publicitaire que la Sarre défie son avenir. Les deux autrices Lydia Dimitrow et Magali Tosato, en visant elles aussi, dans leur feuilleton, à généraliser le propos à partir d’événements locaux, ont trop demandé à leurs acteurs. Mais malgré les faiblesses de ce premier chapitre de la Saga de la Sarre, le public, qui se sent un peu chez lui ce soir au théâtre, applaudit chaleureusement. "
