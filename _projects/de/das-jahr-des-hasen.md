@@ -39,7 +39,7 @@ Mit „Das Jahr des Hasen“ lassen die Kompanie mikro-kit und Alessandro Maggio
 
 **Produktionsleitung:** Christine Elbel 
 
-**Videodokumentation:** Alexander Hektor
+**Videodokumentation:** Alexander Hector
 
 **Mit**
 
