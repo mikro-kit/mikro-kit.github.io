@@ -7,7 +7,7 @@ quote: Eine Landstraße, ein Fluss, Bäume, Dickicht und eine ganz und gar unerw
 speaker: Das Jahr des Hasen
 year: 2021
 location: Schaubude Berlin
-published: FALSE
+
 ---
 
 Wie fühlt es sich an, wenn man von jetzt auf gleich aus dem Leben gerissen wird, das einem vertraut ist? Nach einer ganz und gar unerwarteten Begegnung begeben sich ein Mann und ein Hase auf eine Reise, deren Ziel vielleicht erst klar und dann immer ungewisser scheint. 
