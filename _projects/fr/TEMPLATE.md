@@ -2,7 +2,7 @@
 title: TEMP-LATE FR
 subtitle: nach W. Shakespeare
 ref: pr-peur-hamlet
-image: peur-hamlet
+image-url: URL de contentful
 quote: Template Quote
 speaker: Template Speaker
 year: 2018

@@ -2,7 +2,6 @@
 title: Home-Made
 subtitle: Écriture de plateau
 ref: pr-home-made
-image: homemade
 image-url: https://images.ctfassets.net/mhi86m0yrn9x/19i41x3KK8CEUbc470zo6l/1c1084a3b8ee70f2a964cbf962a91179/homemade.jpg
 quote: Qui devrais-je épargner par mon silence ?
 speaker: Home-Made

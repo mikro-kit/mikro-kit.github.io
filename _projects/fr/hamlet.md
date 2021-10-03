@@ -2,7 +2,6 @@
 title: Hamlet dans les écoles
 subtitle:
 ref: pr-hamlet
-image: hamlet
 image-url: https://images.ctfassets.net/mhi86m0yrn9x/7aPzljqXD9AjekKPCPKCIz/b1b42ec0dacc03f39009c9b960dfdbbd/hamlet.jpg
 quote: Ça commence mal et le pire est à venir.
 speaker: Hamlet dans les écoles

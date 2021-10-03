@@ -2,7 +2,6 @@
 title: I love Italy and Italy loves me
 subtitle: Création collective
 ref: pr-italy
-image: italy
 image-url: https://images.ctfassets.net/mhi86m0yrn9x/2yN7esgCM7GAaSkgMmW2pa/af102f08d57261e69344850973979d4f/italy.jpg
 quote: Youkali ist ein Land, das man sucht; ein Stern, dem man folgt; ein Traum.
 speaker: I love Italy and Italy loves me

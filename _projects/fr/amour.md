@@ -2,7 +2,6 @@
 title: Amour /Luxe
 subtitle: Écriture de plateau
 ref: pr-amour
-image: amourluxe
 image-url: https://images.ctfassets.net/mhi86m0yrn9x/3qiTBhXWczvttvdKd1H2Ka/75704a041ffe0190e388e479b2cb1899/amourluxe.jpg
 quote: Est-ce que l’amour a un potentiel utopique ?
 speaker: Amour/Luxe
