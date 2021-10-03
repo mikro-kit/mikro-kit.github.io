@@ -3,6 +3,7 @@ title: Mettlach
 subtitle: Von Lydia Dimitrow & Magali Tosato
 ref: pr-mettlach
 image: mettlach
+image-url: https://images.ctfassets.net/mhi86m0yrn9x/7D7vlY39mxv1ssKZreopr7/fbb2e7a0878598830f0124a4ccbc3263/mettlach.jpg
 quote: Ich weiß, es ist viel Zeit vergangen, aber jetzt ... jetzt stehen wir beide hier.
 speaker: Mettlach
 year: 2019

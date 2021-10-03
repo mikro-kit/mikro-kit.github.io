@@ -3,6 +3,7 @@ title: Qui a peur d'Hamlet?
 subtitle: nach W. Shakespeare
 ref: pr-peur-hamlet
 image: peur-hamlet
+image-url: https://images.ctfassets.net/mhi86m0yrn9x/DfZbzclTEYgg4jOk0vnuG/138918186dd8f2c9c83b1c54c5cd386c/peur-hamlet.jpg
 quote: Nur weil etwas geschrieben steht und weil ein Geist was behauptet, muss es noch lange nicht stimmen.
 speaker: Qui a peur d'Hamlet?
 year: 2018

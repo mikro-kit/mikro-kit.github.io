@@ -3,6 +3,7 @@ title: Der Auftrag
 subtitle: von Heiner Müller
 ref: pr-auftrag
 image: auftrag
+image-url: https://images.ctfassets.net/mhi86m0yrn9x/35W42TbaIScYhO2N8Uuhn9/a70c403fba379d5ae51dd451efb4c9c3/auftrag.jpg
 quote: gib mir dein auto und dein geld. ich fahre fort. ich gründe eine welt.
 speaker: Der Auftrag
 year: 2013

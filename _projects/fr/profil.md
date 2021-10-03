@@ -3,6 +3,7 @@ title: Profil
 subtitle: Moanda Daddy Kamono
 ref: pr-profil
 image: profil
+image-url: https://images.ctfassets.net/mhi86m0yrn9x/4q1jrEnIjj23dCSJYfKAB6/067db610bf650810301b3960e3141c1d/profil.jpg
 quote: Je veux sortir d’ici le désir amplifié
 speaker: Profil
 year: 2020

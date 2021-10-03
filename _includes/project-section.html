@@ -13,19 +13,18 @@
       <a href="{{ project.url | relative_url  }}" class="project-card__link">
         <div class="col-8">
           <div class="project-card__img-padding">
-            {% capture imagepath %}/assets/images/projects/{{ project.ref }}/{{ project.image }}{% endcapture %}
-            <img src="{{ imagepath }}-square-1507.jpg" alt="" class="project-card__img"
-            srcset="{{ imagepath }}-square-488.jpg 488w,
-                    {{ imagepath }}-square-560.jpg 560w,
-                    {{ imagepath }}-square-587.jpg 587w,
-                    {{ imagepath }}-square-636.jpg 636w,
-                    {{ imagepath }}-square-670.jpg 670w,
-                    {{ imagepath }}-square-754.jpg 754w,
-                    {{ imagepath }}-square-984.jpg 984w,
-                    {{ imagepath }}-square-1122.jpg 1122w,
-                    {{ imagepath }}-square-1272.jpg 1272w,
-                    {{ imagepath }}-square-1456.jpg 1456w,
-                    {{ imagepath }}-square-1507.jpg 1507w"
+            <img src="{{ project.image-url | append: '?f=top&fit=fill&'}}w=1507&h=1507" alt="" class="project-card__img"
+            srcset="{{ project.image-url | append: '?f=top&fit=fill&'}}w=488&h=488 488w,
+                    {{ project.image-url | append: '?f=top&fit=fill&'}}w=560&h=560 560w,
+                    {{ project.image-url | append: '?f=top&fit=fill&'}}w=587&h=587 587w,
+                    {{ project.image-url | append: '?f=top&fit=fill&'}}w=636&h=636 636w,
+                    {{ project.image-url | append: '?f=top&fit=fill&'}}w=670h=670 670w,
+                    {{ project.image-url | append: '?f=top&fit=fill&'}}w=754&h=754 754w,
+                    {{ project.image-url | append: '?f=top&fit=fill&'}}w=984&h=984 984w,
+                    {{ project.image-url | append: '?f=top&fit=fill&'}}w=1122&h=1122 1122w,
+                    {{ project.image-url | append: '?f=top&fit=fill&'}}w=1272&h=1272 1272w,
+                    {{ project.image-url | append: '?f=top&fit=fill&'}}w=1456&h=1456 1456w,
+                    {{ project.image-url | append: '?f=top&fit=fill&'}}w=1507&h=1507 1507w"
             sizes="(max-width: 414px) 100%,
                    (max-width: 737px) 50%,
                    (max-width: 768px) 100%,

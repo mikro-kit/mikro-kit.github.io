@@ -3,6 +3,7 @@ title: Wilde wilde Wesen
 subtitle: Objekttheater
 ref: pr-wilde-wilde-wesen
 image: wilde-wilde-wesen
+image-url: https://images.ctfassets.net/mhi86m0yrn9x/26kcaGJ2771xJnHXaB0GLb/19e740f1b029fe0407a005ab8924a806/wilde-wilde-wesen.jpg
 quote: Welche Geschichten erzählen unsere Wunden?
 speaker: Wilde wilde Wesen
 year: 2019

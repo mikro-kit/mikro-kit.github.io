@@ -3,6 +3,7 @@ title: Sauvages sauvages
 subtitle: Théâtre d'objets
 ref: pr-wilde-wilde-wesen
 image: wilde-wilde-wesen
+image-url: https://images.ctfassets.net/mhi86m0yrn9x/26kcaGJ2771xJnHXaB0GLb/19e740f1b029fe0407a005ab8924a806/wilde-wilde-wesen.jpg
 quote: Qu'est-ce que nos corps, leurs traits et blessures ont à nous révéler?
 speaker: Sauvages sauvage
 year: 2019
