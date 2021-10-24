@@ -10,8 +10,7 @@ location: Schaubude Berlin
 
 ---
 
-**Schattentheater mit Live-Projektionen, analog und digital, frei nach dem gleichnamigen Roman von Arto Paasilinna**
-
+**Schattentheater mit Live-Projektionen, analog und digital, frei nach dem gleichnamigen Roman von Arto Paasilinna.**
 Vom 3. bis zum 5. Dezember 2021 an der Schaubude Berlin
 
 **3. Dezember 2021** – 20 Uhr
@@ -25,6 +24,7 @@ Vom 3. bis zum 5. Dezember 2021 an der Schaubude Berlin
 **Ort:** Schaubude Berlin, Greifswalder Straße 81-84, 10405 Berlin
 
 **Tickets:** www.schaubude.berlin
+
 
 
 Wie fühlt es sich an, wenn man von jetzt auf gleich aus dem Leben gerissen wird, das einem vertraut ist? Nach einer ganz und gar unerwarteten Begegnung begeben sich ein Mann und ein Hase auf eine Reise, deren Ziel vielleicht erst klar und dann immer ungewisser scheint. 
