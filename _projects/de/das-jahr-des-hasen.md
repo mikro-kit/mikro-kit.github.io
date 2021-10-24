@@ -23,7 +23,7 @@ Vom 3. bis zum 5. Dezember 2021 an der Schaubude Berlin
 
 **Ort:** Schaubude Berlin, Greifswalder Straße 81-84, 10405 Berlin
 
-**Tickets:** www.schaubude.berlin
+**Tickets:** unter www.schaubude.berlin
 
 
 
