@@ -10,18 +10,22 @@ location: Schaubude Berlin
 
 ---
 
-Wie fühlt es sich an, wenn man von jetzt auf gleich aus dem Leben gerissen wird, das einem vertraut ist? Nach einer ganz und gar unerwarteten Begegnung begeben sich ein Mann und ein Hase auf eine Reise, deren Ziel vielleicht erst klar und dann immer ungewisser scheint. 
+**Schattentheater mit Live-Projektionen, analog und digital, frei nach dem gleichnamigen Roman von Arto Paasilinna**
+Vom 3. bis zum 5. Dezember 2021 an der Schaubude Berlin
 
+**3. Dezember 2021** – 20 Uhr
+**4. Dezember 2021** – 20 Uhr
+**5. Dezember 2021** – 19 Uhr
+**Eintritt:** 16,50 EUR, ermäßigt 11,50 EUR
+**Ort:** Schaubude Berlin, Greifswalder Straße 81-84, 10405 Berlin
+**Tickerts:** www.schaubude.berlin
+
+Wie fühlt es sich an, wenn man von jetzt auf gleich aus dem Leben gerissen wird, das einem vertraut ist? Nach einer ganz und gar unerwarteten Begegnung begeben sich ein Mann und ein Hase auf eine Reise, deren Ziel vielleicht erst klar und dann immer ungewisser scheint. 
 
 Gemeinsam erkunden Mann und Hase Landschaften aus Licht und Farben, sich wandelnde Welten, unerforschte Räume – und müssen sich am Ende der Frage stellen, ob die Freiheit des einen auch die Freiheit des anderen bedeutet.
 
 Mit „Das Jahr des Hasen“ lassen die Kompanie mikro-kit und Alessandro Maggioni auf der Bühne ein Laboratorium entstehen, in dem alles um die Kraft einer Begegnung kreist. Mit den Mitteln von Schattenspiel und Papierkunst, digitalen Videotechniken und analogen Live-Projektionen entstehen Bilder, die von der Suche und der Sehnsucht nach Freiheit erzählen, aber auch von der Frage, wie weit wir uns auf jemand anderes einlassen können und wie weit der gemeinsame Weg uns führt.
 
-
-**Schattentheater mit Live-Projektionen, analog und digital, frei nach dem gleichnamigen Roman von Arto Paasilinna**
-
-
-**Termine:** vom 3. bis zum 5. Dezember 2021 an der Schaubude Berlin
 
 **Idee und Produktion:** Kompanie mikro-kit & Alessandro Maggioni 
 
