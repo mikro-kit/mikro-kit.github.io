@@ -44,7 +44,7 @@ Mit „Das Jahr des Hasen“ lassen die Kompanie mikro-kit und Alessandro Maggio
 
 **Technische Produktion, Licht- und Sounddesign:** Benjamin Dimitrow 
 
-**Kostüm und Bühnenassistenz:** Larissa Jenne 
+**Kostüm und Mitarbeit Szenographie:** Larissa Jenne 
 
 **Puppenspiel-Coaching:** Franziska Dittrich 
 
