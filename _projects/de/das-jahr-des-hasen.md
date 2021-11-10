@@ -48,9 +48,11 @@ Mit „Das Jahr des Hasen“ lassen die Kompanie mikro-kit und Alessandro Maggio
 
 **Puppenspiel-Coaching:** Franziska Dittrich 
 
-**Produktionsleitung:** Christine Elbel 
+**Technische Beratung:** Daniel Huber
 
 **Videodokumentation:** Alexander Hector
+
+**Produktionsleitung:** Christine Elbel 
 
 **Mit**
 
