@@ -59,7 +59,7 @@ Mit „Das Jahr des Hasen“ lassen die Kompanie mikro-kit und Alessandro Maggio
 
 **Mit**
 
-Alessandro Maggioni, Magali Tosato, Lydia Dimitrow und Benjamin Dimitrow
+Alessandro Maggioni und Magali Tosato
 
 **Unterstützt** von der Schaubude Berlin 
 
