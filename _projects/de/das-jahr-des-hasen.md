@@ -8,6 +8,8 @@ speaker: Das Jahr des Hasen
 year: 2021
 location: Schaubude Berlin
 
+{% include vimeoPlayer.html id='652685025' %}
+
 ---
 
 **Schattentheater mit Live-Projektionen, analog und digital, frei nach dem gleichnamigen Roman von Arto Paasilinna.**
