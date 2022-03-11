@@ -10,10 +10,10 @@ location: Schaubude Berlin
 
 ---
 
-{% include vimeoPlayer.html id='652685025' %}
-
 **Théâtre d'ombres avec des projections live, analogues et digitales, librement inspiré du roman éponyme d'Arto Paasilinna.**
 Du 3 au 5 décembre 2021 à la Schaubude Berlin
+
+{% include vimeoPlayer.html id='652685025' %}
 
 **3 décembre 2021** – 20h
 
