@@ -8,65 +8,65 @@ speaker: Das Jahr des Hasen
 year: 2021
 location: Schaubude Berlin
 
+{% include vimeoPlayer.html id='652685025' %}
+
 ---
 
 
-**Schattentheater mit Live-Projektionen, analog und digital, frei nach dem gleichnamigen Roman von Arto Paasilinna.**
-Vom 3. bis zum 5. Dezember 2021 an der Schaubude Berlin
+**Théâtre d'ombres avec des projections live, analogues et digitales, librement inspiré du roman éponyme d'Arto Paasilinna.**
+Du 3 au 5 décembre 2021 à la Schaubude Berlin
 
-**3. Dezember 2021** – 20 Uhr
+**3 décembre 2021** – 20h
 
-**4. Dezember 2021** – 20 Uhr
+**4 décembre 2021** – 20h
 
-**5. Dezember 2021** – 19 Uhr
+**5 décembre 2021** – 19h
 
-**Eintritt:** 16,50 EUR, ermäßigt 11,50 EUR
+**Prix:** 16,50€, réduit 11,50€
 
-**Ort:** Schaubude Berlin, Greifswalder Straße 81-84, 10405 Berlin
+**Lieu:** Schaubude Berlin, Greifswalder Straße 81-84, 10405 Berlin
 
-**Tickets:** www.schaubude.berlin
-
-
-
-Wie fühlt es sich an, wenn man von jetzt auf gleich aus dem Leben gerissen wird, das einem vertraut ist? Nach einer ganz und gar unerwarteten Begegnung begeben sich ein Mann und ein Hase auf eine Reise, deren Ziel vielleicht erst klar und dann immer ungewisser scheint. 
+**Réservations:** www.schaubude.berlin
 
 
-Gemeinsam erkunden Mann und Hase Landschaften aus Licht und Farben, sich wandelnde Welten, unerforschte Räume – und müssen sich am Ende der Frage stellen, ob die Freiheit des einen auch die Freiheit des anderen bedeutet.
+Qu'est-ce que cela fait d'être brusquement arraché à son quotidien? Suite à une rencontre fortuite, un homme et un lapin entament un voyage dont la destination d'abord claire se révèle toujours plus incertaine. 
 
-Mit „Das Jahr des Hasen“ lassen die Kompanie mikro-kit und Alessandro Maggioni auf der Bühne ein Laboratorium entstehen, in dem alles um die Kraft einer Begegnung kreist. Mit den Mitteln von Schattenspiel und Papierkunst, digitalen Videotechniken und analogen Live-Projektionen entstehen Bilder, die von der Suche und der Sehnsucht nach Freiheit erzählen, aber auch von der Frage, wie weit wir uns auf jemand anderes einlassen können und wie weit der gemeinsame Weg uns führt.
+Ensemble, l'homme et le lapin explorent des paysages de lumière et de couleurs, des mondes changeants, des espaces inexplorés - et doivent finalement se demander si la liberté de l'un signifie aussi la liberté de l'autre.
 
-
-**Idee und Produktion:** Kompanie mikro-kit & Alessandro Maggioni 
-
-**Regie:** Lydia Dimitrow & Magali Tosato 
-
-**Szenographie:** Alessandro Maggioni 
-
-**Musik:** Marco Bianchi 
-
-**Technische Produktion, Licht- und Sounddesign:** Benjamin Dimitrow 
-
-**Kostüm und Mitarbeit Szenographie:** Larissa Jenne 
-
-**Puppenspiel-Coaching:** Franziska Dittrich 
-
-**Videodokumentation:** Alexander Hector
-
-**Technische Beratung:** Daniel Huber
-
-**Produktionsleitung:** Christine Elbel 
+Avec "L'année du Lièvre", la compagnie mikro-kit et Alessandro Maggioni font naître sur scène un laboratoire dans lequel tout tourne autour de la force d'attraction d'une rencontre. Un théâtre d'ombres innovant, mêlant des découpages papier, des vidéos et des projections 3D analogues en direct, fait naître des images qui parlent de notre insatiable quête de liberté et nous interrogent sur les limites de notre engagement envers l'autre. 
 
 
-**Mit**
+**idée & production:** compagnie mikro-kit & Alessandro Maggioni 
 
-Alessandro Maggioni und Magali Tosato
+**mise en scène:** Lydia Dimitrow & Magali Tosato 
 
-**Unterstützt** von der Schaubude Berlin 
+**scénographie:** Alessandro Maggioni 
 
-**Gefördert** durch das #TakeAction Programm des Fonds DAKU	
+**musique:** Marco Bianchi 
+
+**direction technique, création son et lumières:** Benjamin Dimitrow 
+
+**costumes et collaboration à la scénographie:** Larissa Jenne 
+
+**coaching d'animation:** Franziska Dittrich 
+
+**documentation vidéo:** Alexander Hector
+
+**support technique:** Daniel Huber
+
+**production:** Christine Elbel 
+
+
+**avec**
+
+Alessandro Maggioni et Magali Tosato
+
+**coproduit par** Schaubude Berlin 
+
+**soutenu par** #TakeAction Programm des Fonds DAKU	
 
 
 
-Premiere am 3. Dezember 2021 / Schaubude Berlin
+Première le 3 décembre 2021 / Schaubude Berlin
 
-Sprache: deutsch, in wenigen Worten
+Langue: allemand, en peu de mots
