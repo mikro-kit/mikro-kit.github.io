@@ -36,37 +36,39 @@ Ensemble, l'homme et le lapin explorent des paysages de lumière et de couleurs,
 Avec "L'année du Lièvre", la compagnie mikro-kit et Alessandro Maggioni font naître sur scène un laboratoire dans lequel tout tourne autour de la force d'attraction d'une rencontre. Un théâtre d'ombres innovant, mêlant des découpages papier, des vidéos et des projections 3D analogues en direct, fait naître des images qui parlent de notre insatiable quête de liberté et nous interrogent sur les limites de notre engagement envers l'autre. 
 
 
-**idée & production:** compagnie mikro-kit & Alessandro Maggioni 
+**Conception:** compagnie mikro-kit & Alessandro Maggioni 
 
-**mise en scène:** Lydia Dimitrow & Magali Tosato 
+**Mise en scène:** Lydia Dimitrow & Magali Tosato 
 
-**scénographie:** Alessandro Maggioni 
+**Scénographie:** Alessandro Maggioni 
 
-**musique:** Marco Bianchi 
+**Musique:** Marco Bianchi 
 
-**direction technique, création son et lumières:** Benjamin Dimitrow 
+**Régie générale, création son et lumières:** Benjamin Dimitrow 
 
-**costumes et collaboration à la scénographie:** Larissa Jenne 
+**Costumes et collaboration à la scénographie:** Larissa Jenne 
 
-**coaching d'animation:** Franziska Dittrich 
+**Coaching d'animation:** Franziska Dittrich 
 
-**documentation vidéo:** Alexander Hector
+**Documentation vidéo:** Alexander Hector
 
-**support technique:** Daniel Huber
+**Support technique:** Daniel Huber
 
-**production:** Christine Elbel 
+**Chargée de production:** Christine Elbel 
 
 
-**avec**
+**Avec**
 
 Alessandro Maggioni et Magali Tosato
 
-**coproduit par** Schaubude Berlin 
+**Coproduction** Schaubude Berlin
 
-**soutenu par** #TakeAction Programm des Fonds DAKU	
+**Avec le soutien de** #TakeAction Programm des Fonds DAKU	
 
 
 
 Première le 3 décembre 2021 / Schaubude Berlin
 
 Langue: allemand, en peu de mots
+
+Photos ©Zé de Paiva et Kathleen Kunath
