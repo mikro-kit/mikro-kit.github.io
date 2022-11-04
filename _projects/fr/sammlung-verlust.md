@@ -2,7 +2,7 @@
 title: Sammlung der schier verlorenen Dinge
 subtitle: interaktive Ausstellung
 ref: pr-sammlung-verlust
-image-url: images.ctfassets.net/mhi86m0yrn9x/5JJtwczNxluCvSU6SjfsHS/f61d07761dbe18e2a01905f4879feadd/sammlung-verlust_preview.jpg
+image-url: https://images.ctfassets.net/mhi86m0yrn9x/4vZeQAtiwZEfIO64Ev1tal/b12190f3e6032337c429c9904b7b4341/sammlung_verlust.jpg
 quote: Was erzählen uns die Überreste unserer Verluste?
 speaker: Sammlung der schier verlorenen Dinge
 year: 2022

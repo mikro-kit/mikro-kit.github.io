@@ -2,7 +2,7 @@
 title: Das Jahr des Hasen
 subtitle: nach Arto Paasilinna
 ref: pr-das-jahr-des-hasen
-image-url: //images.ctfassets.net/mhi86m0yrn9x/6vpgkV1WmvDZIP754nrGf9/2d90cf50765bb6799f1f083939e105af/Das_Jahr_des_Hasen_small.jpeg
+image-url: https://images.ctfassets.net/mhi86m0yrn9x/4oA83598iFsXVd76PCkkf2/7b6588c613ab6d02ed61e17074e99965/jahr_des_hasen.jpg
 quote: Eine Landstraße, ein Fluss, Bäume, Dickicht und eine ganz und gar unerwartete Begegnung. 
 speaker: Das Jahr des Hasen
 year: 2021
