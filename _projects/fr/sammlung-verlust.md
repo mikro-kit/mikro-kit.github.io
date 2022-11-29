@@ -22,6 +22,7 @@ Die Ausstellung war während des gesamten Festivals zugänglich und konnte steti
 
 
 **Sammlung der schier verlorenen Dinge**
+
 Erstmals präsentiert im Rahmen des Literaturfestivals "Archäologie des Verlusts"
 Vom 14. bis zum 16. Oktober 2022 im Roten Salon der Volksbühne Berlin
 Ein Projekt von Lydia Dimitrow, Magali Tosato, Larissa Jenne und Benjamin Dimitrow
