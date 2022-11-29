@@ -7,7 +7,6 @@ quote: Was erzählen uns die Überreste unserer Verluste?
 speaker: Sammlung der schier verlorenen Dinge
 year: 2022
 location: Roter Salon der Volksbühne Berlin
-published: FALSE
 ---
 
 Was immer wir auch verlieren, es hinterlässt Spuren. In uns, aber auch um uns. Einiges davon hüten wir vielleicht wie einen Schatz, anderes wollen wir lieber abschütteln. Ein altes Foto, ein Möbelstück, ein Brief. Was erzählen uns die Überreste unserer Verluste? Was kann jemand anderes in ihnen lesen?
