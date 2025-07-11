@@ -3,17 +3,16 @@ title: Trafiqué Désir
 subtitle: Solo Show
 ref: pr-Tir
 image-url: URL von Contentful
-quote: Template Quote
+quote: Nothing excites me anymore.
 speaker: Template Speaker
 year: 2025
 location: Projet itinérant
 published: FALSE
 ---
 
-„Trafiqué Désir“ ist eine autofiktionale Performance mit burlesken, absurden und drag-inspirierten Elementen. 
+"Trafiqué Désir" ist ein Solo, das auf einer autofiktionalen Erzählung basiert und burleske, absurde sowie vom Drag inspirierte Elemente vereint. Auf Tour durch Kiezkneipen lädt die Performance ein nicht eingeweihtes Publikum dazu ein, aktiv an einem künstlerischen, kreativen und kollektiven Erlebnis teilzunehmen. 
 
-In einem politischen Klima, das persönliche Freiheiten bedroht und soziale Ungleichheit verschärft, stellt die Show eine zentrale Frage:
-Wie bewahrt man die Freude – angesichts von Alter, Tod und einer Aging-App, die verborgene Ängste weckt?
+In einem politischen Klima, das persönliche Freiheiten bedroht und soziale Ungleichheit verschärft, stellt die Show eine zentrale Frage: Wie bewahrt man die Freude – angesichts von Alter, Tod und einer Aging-App, die verborgene Ängste weckt?
 
 Begleitet von ihrer Kokosnuss führt uns die Performerin durch eine poetische Welt und den Versuch, sich mit einem einfachen, solidarischen Glück zu verbinden.
 
@@ -34,6 +33,8 @@ Begleitet von ihrer Kokosnuss führt uns die Performerin durch eine poetische We
 Hélisenne Lestringant
 
 **Produktion:** Hélisenne Lestringant und compagnie mikro-kit
+
+**Sprache:** Englisch, Deutsch
 
 
 Premiere am 24. Februar 2024 / Donna Bar, Berlin
