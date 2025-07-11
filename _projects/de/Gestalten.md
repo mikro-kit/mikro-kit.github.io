@@ -16,7 +16,7 @@ Aus diesem Fundus wird eine kollektive, anonyme und mehrstimmige Textcollage ent
 
 **GESTALTEN**
 
-Erstmals präsentiert im Rahmen des Literaturfestivals "Ost*|West*|Frau*"
+Erstmals präsentiert im Rahmen des Literaturfestivals "Ost* | West* | Frau*"
 Vom 8. bis zum 10. März 2024 im Roten Salon der Volksbühne Berlin
 Ein Projekt von Magali Tosato, Larissa Jenne, Benjamin Dimitrow und Lydia Dimitrow
 
