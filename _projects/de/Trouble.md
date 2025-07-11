@@ -3,7 +3,7 @@ title: Trouble in the bubble
 subtitle: immersive Performance
 ref: pr-trouble
 image-url: URL von Contentful
-quote: Template Quote
+quote: What would you sacrifice to join us?
 speaker: Template Speaker
 year: 2023
 location: Pa58 Wedding
@@ -36,4 +36,4 @@ Odile Almuneau,  Ruzi, Jean Chaize, Brigitte Cuvelier, Kantatach Kijtikhun, Jako
 
 Premiere am 24. Juni 2023 / Hausgenossenschaft Pa58 Berlin Wedding
 
-Sprache: französisch, deutsche Textfassung (als Leseprobe) vorhanden
+Sprache: Überwiegend auf English und Deutsch
