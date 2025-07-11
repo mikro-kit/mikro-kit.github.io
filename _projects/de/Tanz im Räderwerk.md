@@ -10,7 +10,11 @@ location: Schaubude, Berlin
 published: FALSE
 ---
 
-Hans Christian Andersen war fasziniert von den neuen Technologien seiner Zeit: In unbekannteren Märchen, mit Scherenschnitten und Collagen erzählt er von Telegrafie, der Eisenbahn, dem Mikroskop oder imaginierte sogar Flugzeuge. Der Medienkünstler Alessandro Maggioni und die Performerin Magali Tosato tauchen mit analogem Papierschnitt und digitalen Projektion durch diese fantastischen Welten und laden das Publikum auf eine Reise durch alte und aktuelle Zukunftsvisionen ein.
+Hans Christian Andersen war fasziniert von den neuen Technologien seiner Zeit: In unbekannteren Märchen, mit Scherenschnitten und Collagen erzählt er von Telegrafie, der Eisenbahn, dem Mikroskop oder imaginierte sogar Flugzeuge. 
+
+Der Medienkünstler Alessandro Maggioni und die Performerin Magali Tosato tauchen mit analogem Papierschnitt und digitalen Projektion durch diese fantastischen Welten und laden das Publikum auf eine Reise durch alte und aktuelle Zukunftsvisionen ein.
+
+Die Vorstellung wird von einem Workshop begleitet, der Schulklassen und begleitete Kinder dazu einlädt, eigene Papierschnitte zu gestalten, die in die Aufführung integriert werden (Anmeldung erforderlich).
 
 
 **Konzept und Szenographie:** Alessandro Maggioni 
