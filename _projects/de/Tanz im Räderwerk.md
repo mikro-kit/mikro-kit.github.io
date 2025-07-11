@@ -3,7 +3,7 @@ title: Tanz im Räderwerk
 subtitle: 
 ref: pr-Tir
 image-url: URL von Contentful
-quote: Template Quote
+quote: Schau, eine Seeschlange unter dem Tisch!
 speaker: Template Speaker
 year: 2024
 location: Schaubude, Berlin
