@@ -3,15 +3,17 @@ title: Gestalten
 subtitle: interaktive Ausstellung
 ref: pr-gestalten
 image-url: https://images.ctfassets.net/mhi86m0yrn9x/4vZeQAtiwZEfIO64Ev1tal/b12190f3e6032337c429c9904b7b4341/sammlung_verlust.jpg
-quote: Welche Erinnerungen steigen in dir auf? 
+quote: Arbeit, Kraft und Selbstbestimmung.
 speaker: Gestalten
 year: 2024
 location: Roter Salon der Volksbühne Berlin
 ---
 
-Mit unser interaktiven Ausstellung versammeln wir die Stimmen des Festivals und schaffen einen kollektiven Chor aus gemeinschaftliche sowie individuelle Erinnerungen, Eindrücken und Assoziationen. 
+Eine Kittelschürze aus Jeansstoff, drei rote Haselnüsse, eine Packung „Antiwunschkind-Pille“, ein pelzüberzogener Stempel… 
 
-Aus diesem Fundus wird eine kollektive, anonyme und mehrstimmige Textcollage entstehen, die das Künstlerisch:innen Kollektiv am Sonntag, den 10. März um 19:00 präsentieren wird.
+Über die gesamte Festivalzeit haben wir die Besucher:innen dazu eingeladen, sich von solchen Zwitterobjekten inspirieren zu lassen, Erinnerungen nachzugehen und selbst zu erzählen, zu schreiben und miteinander in den Austausch zu treten. Uns ging es darum, die Stimmen dieses Festivals zu sammeln, einen kollektiven Chor aus Erinnerungen, Eindrücken und Assoziationen zu schaffen und einen Raum für gemeinschaftliche wie individuelle Erinnerungen zu eröffnen. 
+
+Aus diesem Fundus collagierten wir einen kollektiven, anonymen und mehrstimmigen Text, den wir zum Abschluss präsentiert haben.
 
 
 **GESTALTEN**
