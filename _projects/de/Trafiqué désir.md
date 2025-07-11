@@ -1,6 +1,6 @@
 ---
 title: Trafiqué Désir
-subtitle: 
+subtitle: Solo Show
 ref: pr-Tir
 image-url: URL von Contentful
 quote: Template Quote
@@ -10,31 +10,34 @@ location: Projet itinérant
 published: FALSE
 ---
 
-« Trafiqué Désir » est une performance autofictionnelle mêlant des éléments burlesques, absurdes et inspirés du drag.
-Dans un climat politique où les libertés individuelles sont menacées et les inégalités sociales se creusent, le spectacle pose une question centrale :
+„Trafiqué Désir“ ist eine autofiktionale Performance mit burlesken, absurden und drag-inspirierten Elementen. 
 
-Comment préserver la joie – face à la vieillesse, à la mort, et à une application de vieillissement qui réveille des peurs enfouies ?
+In einem politischen Klima, das persönliche Freiheiten bedroht und soziale Ungleichheit verschärft, stellt die Show eine zentrale Frage:
+Wie bewahrt man die Freude – angesichts von Alter, Tod und einer Aging-App, die verborgene Ängste weckt?
 
-Accompagnée de sa noix de coco, la performeuse nous guide à travers un monde poétique et une quête pour se reconnecter à un bonheur simple et solidaire.
+Begleitet von ihrer Kokosnuss führt uns die Performerin durch eine poetische Welt und den Versuch, sich mit einem einfachen, solidarischen Glück zu verbinden.
 
+**Text & Spiel:** Hélisenne Lestringant
 
-**Texte & jeu:** Hélisenne Lestringant
+**Text & Regie:** Magali Tosato
 
-**Texte & mise en scène:** Magali Tosato
+**Kostümbild :** Larissa Jenne
 
-**Costume & accessoires :** Larissa Jenne
+**Musik:** Emmanuel Girondin
 
-**Musique:** Emmanuel Girondin
-
-**Documentation photo et Video:** Ulas Yunus Tosun
-
+**Foto- und Videodokumentation:** Ulas Yunus Tosun
 
 
-**Avec**
+
+**Mit**
 
 Hélisenne Lestringant
 
-**Production:** Hélisenne Lestringant & compagnie mikro-kit
+**Produktion:** Hélisenne Lestringant und compagnie mikro-kit
+
+
+Premiere am 24. Februar 2024 / Donna Bar, Berlin
+
 
 
 Première le 24. Februar 2024 / Donna Bar, Berlin
