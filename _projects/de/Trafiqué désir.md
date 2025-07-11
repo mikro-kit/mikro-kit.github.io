@@ -10,11 +10,12 @@ location: Projet itinérant
 published: FALSE
 ---
 
-Hans Christian Andersen war fasziniert von den neuen Technologien seiner Zeit: In unbekannteren Märchen, mit Scherenschnitten und Collagen erzählt er von Telegrafie, der Eisenbahn, dem Mikroskop oder imaginierte sogar Flugzeuge. 
+« Trafiqué Désir » est une performance autofictionnelle mêlant des éléments burlesques, absurdes et inspirés du drag.
+Dans un climat politique où les libertés individuelles sont menacées et les inégalités sociales se creusent, le spectacle pose une question centrale :
 
-Der Medienkünstler Alessandro Maggioni und die Performerin Magali Tosato tauchen mit analogem Papierschnitt und digitalen Projektion durch diese fantastischen Welten und laden das Publikum auf eine Reise durch alte und aktuelle Zukunftsvisionen ein.
+Comment préserver la joie – face à la vieillesse, à la mort, et à une application de vieillissement qui réveille des peurs enfouies ?
 
-Die Vorstellung wird von einem Workshop begleitet, der Schulklassen und begleitete Kinder dazu einlädt, eigene Papierschnitte zu gestalten, die in die Aufführung integriert werden (Anmeldung erforderlich).
+Accompagnée de sa noix de coco, la performeuse nous guide à travers un monde poétique et une quête pour se reconnecter à un bonheur simple et solidaire.
 
 
 **Texte & jeu:** Hélisenne Lestringant
@@ -33,7 +34,7 @@ Die Vorstellung wird von einem Workshop begleitet, der Schulklassen und begleite
 
 Hélisenne Lestringant
 
-**Produktion:** Hélisenne Lestringant & compagnie mikro-kit
+**Production:** Hélisenne Lestringant & compagnie mikro-kit
 
 
 Première le 24. Februar 2024 / Donna Bar, Berlin
