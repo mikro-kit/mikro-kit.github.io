@@ -3,7 +3,7 @@ title: Tanz im Räderwerk
 subtitle: Kinderstück
 ref: pr-Tir
 image-url: URL von Contentful
-quote: Template Quote
+quote: Regarde, sous la table, un serpent de mer!
 speaker: Template Speaker
 year: 2024
 location: Schaubude, Berlin
