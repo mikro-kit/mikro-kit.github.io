@@ -10,5 +10,5 @@ réunit des artistes suisse romandEs et berlinoisEs. Notre but commun est de cr�
 
 **Actuellement** nous présentons le solo **"Trafiqué Désir"**, à voir une dernière fois cette saison le **vendredi 18 juillet à 20h à la Galerie Zeitzone, Adelbertstrasse 79 Berlin-Kreuzberg**. Mêlant burlesque, dabsurde et drag kinging, la performeuse Hélisenne Lestringant y explore notre aptitude au bonheur face à l'angoisse du vieillissement et de la mort.
 
-**Prochainement** Magali Tosato présentera "Slow-motion" le 23 août 2025 à 18h au Festival di Narrazione à Arzo au Tessin. Spectacle en plein air, cette écriture de plateau réunit des personnes en procédure de demande d'asile et des membres d'associations locales pour un voyage qui bouleverse nos perceptions de l'espace et du temps. 
+**Prochainement** Magali Tosato présentera "Slow-motion" le 23 août 2025 à 18h au Festival di Narrazione à Arzo au Tessin. Spectacle en plein air, cette écriture de plateau réunit des personnes en procédure de demande d'asile et des membres d'associations locales pour un voyage qui bouleverse nos perceptions de l'espace et du temps, challenge nos a prioris et explore de nouvelles formes de coexistence.
 
