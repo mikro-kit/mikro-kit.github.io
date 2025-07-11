@@ -9,7 +9,7 @@ year: 2024
 location: Roter Salon der Volksbühne Berlin
 ---
 
-Tout au long du festival notre installation interactive rassemble diverses impressions, associations d'idées et souvenirs. 
+Invitant le public du festival à lui confier des impressions, associations d'idées et souvenirs, notre installation participative réflète la polyphonie de voix et la pluralité d'expériences convoquées ici. 
 
 Le dimanche 10 mars à 19h, le collectif artistique présente un choeur polyphonique, collage de ses voix singulières et collectives.
 
