@@ -1,31 +1,33 @@
 ---
 title: Sammlung der schier verlorenen Dinge
-subtitle: interaktive Ausstellung
+subtitle: installation participative
 ref: pr-sammlung-verlust
 image-url: https://images.ctfassets.net/mhi86m0yrn9x/4vZeQAtiwZEfIO64Ev1tal/b12190f3e6032337c429c9904b7b4341/sammlung_verlust.jpg
-quote: Was erzählen uns die Überreste unserer Verluste?
+quote: Que nous disent les traces de ce qu'on a perdu? 
 speaker: Sammlung der schier verlorenen Dinge
 year: 2022
 location: Roter Salon der Volksbühne Berlin
 ---
 
-Was immer wir auch verlieren, es hinterlässt Spuren. In uns, aber auch um uns. Einiges davon hüten wir vielleicht wie einen Schatz, anderes wollen wir lieber abschütteln. Ein altes Foto, ein Möbelstück, ein Brief. Was erzählen uns die Überreste unserer Verluste? Was kann jemand anderes in ihnen lesen?
+Quoi que nous perdions, cela laisse des traces. En nous, mais aussi autour de nous. Certaines choses, nous les gardons comme des trésors : une vieille photo, une lettre, un meuble chargé de souvenirs. D’autres, au contraire, nous cherchons à les oublier, à les jeter. Quelles histoires se cachent derrière les traces de ce qu'on a perdu? Qu'est-ce qu'une autre personne peut y lire? 
 
 
-In einer "Sammlung der schier verlorenen Dinge" versammelt das Kollektiv mikro-kit Fundstücke realer persönlicher Verluste und versieht sie mit einer fiktiven Provenienz. Aus womöglich schmerzhaften Leerstellen entsteht etwas Neues, Spuren anderer werden zur Inspiration für eigene Geschichten – und legen so vielleicht sogar Verluste frei, die vorher verschüttet waren. 
+Avec son installation participative, le collectif mikro-kit réunit des objets trouvés correspondant à de véritables pertes personnelles et leur attribue une provenance fictive. De ces vides potentiellement douloureux naît quelque chose de nouveau : les traces laissées par d’autres deviennent source d’inspiration pour ses propres histoires – et révèlent peut-être même des pertes enfouies jusque-là.
 
 
-Bei unserer Sammlung handelt es sich um eine interaktive Ausstellung, die erstmals vom 14. bis zum 16. Oktober 2022 auf dem Literaturfestival "Archäologie des Verlust" im Roten Salon der Volksbühne Berlin zu sehen war. In einem Call for photos hatten wir alle Interessierten eingeladen, uns anonym und unkommentiert Bilder von Objekten zu schicken, die entweder ganz konkret oder auch symbolisch im Zusammenhang mit einem persönlichen Verlust stehen. Das konnte ein Familienerbstück sein, ein eingedellter Kronkorken, ein Häufchen Sand. Was kann man alles verlieren? Einen Menschen, eine Freundschaft, ein Zuhause, eine Gewissheit, eine Fähigkeit? Im Anschluss schrieben die Besucher:innen und die Autor:innen des Festivals in einem fikitiven Rekonstruktionsprozess die Geschichte, die hinter den eingesandten Fotos stecken könnte. Mal ausschweifend, mal fragmentarisch, mal nüchtern, mal poetisch.  
+Notre installation s'appuie sur un appel à photos invitant toute personne intéressée à nous envoyer, de manière anonyme et sans commentaire, des images d’objets liés à une perte personnelle – de manière concrète ou symbolique. Héritage familial,  capsule de bouteille cabossée, petit tas de sable... Que peut-on perdre ? Une être cher, un grand amour, un foyer, une certitude?
+
+Durant le festival les visiteur·euses et les auteur·rices ont écrit, dans un processus fictif de reconstitution, l’histoire que ces photos auraient pu raconter. Parfois de manière prolixe, parfois fragmentaire, sobre ou poétique. 
 
 
-Die Ausstellung war während des gesamten Festivals zugänglich und konnte stetig erkundet und erweitert werden. In unserem Workshopformat "Offene Sammlung" hatten die Beteiligten und die Besucher:innen des Festivals zusätzlich die Möglichkeit, mit den Kurator:innen der Sammlung ins Gespräch zu kommen und die zusammengetragenen Fundstücke näher zu erforschen. An verschiedenen Stationen konnte untersucht, recherchiert und kreativ bearbeitet werden. Eine Publikation in der Literaturzeitschrift "Akzente" des Carl Hanser Verlags, die Ausschnitte der Sammlung zeigen soll, ist für 2023 in Planung. 
+L’installation, accessible tout au long du festival, pouvait être explorée et enrichie de façon librement ou en dialogue avec l'équipe aritsitque à l'occasion d'ateliers collectifs. Des extraits des textes issus de cette installation participative ont été publiés dans une publication de la revue littéraire "Akzente" aux éditions Carl Hanser.
 
 
 **Sammlung der schier verlorenen Dinge**
 
-Erstmals präsentiert im Rahmen des Literaturfestivals "Archäologie des Verlusts"
-Vom 14. bis zum 16. Oktober 2022 im Roten Salon der Volksbühne Berlin
-Ein Projekt von Lydia Dimitrow, Magali Tosato, Larissa Jenne und Benjamin Dimitrow
+Présentée pour la première fois à l'occasion du festival de littérature "Archäologie des Verlusts"
+Du 14 au  16 octobre 2022 au Roter Salon der Volksbühne Berlin
+Un projet Lydia Dimitrow, Magali Tosato, Larissa Jenne et Benjamin Dimitrow
 
 
 Foto: Christian Schulz
