@@ -8,7 +8,7 @@ ref: aktuell
 # La compagnie mikro-kit
 réunit des artistes suisse romandEs et berlinoisEs. Notre but commun est de créer des spectacles qui explorent des phénomènes sociaux au travers de trajectoires humaines spécifiques, de situations singulières et de gestes microscopiques. Notre méthode de travail est plurilingue, collective et basée sur l’essai. Faisant résonner des œuvres littéraires avec un matériau documentaire et (auto)biographique, nous sommes à la recherche d’un théâtre polyphonique, critique, qui rende compte de la diversité des perspectives tout en déployant une parole singulière. 
 
-**Actuellement** nous avons présenté l'installation interactive GESTALTEN à l'occasion du Festival de littérature Ost*|West*|Frau* du 8 au 10 mars au Roter Salon de la Volksbühne de Berlin. Pendant toute la durée du festival, nous avons invité les visiteurs à s'inspirer des objets hybrides que nous avons créé pour se remémorer des souvenirs , les raconter, les écrire et échanger des idées autour du thème du Festival.
+**Actuellement** nous présentons le solo **"Trafiqué Désir"**, à voir une dernière fois cette saison le **vendredi 18 juillet à 20h à la Galerie Zeitzone, Adelbertstrasse 79 Berlin-Kreuzberg**. Mêlant les genre du burlesque, de l'absurde et du drag kinging, la performeuse Hélisenne Lestringant y explore notre aptitude au bonheur face à l'angoisse du vieillissement et de la mort.
 
-**Prochainement** 
+**Prochainement** Magali Tosato présentera "Slow-motion" le 23 août 2025 à 18h au Festival di Narrazione à Arzo au Tessin. Spectacle en plein air, cette écriture de plateau réunit des personnes en procédure de demande d'asile et des membres d'associations locales pour un voyage bouleversant les notions d'espace et de temps. 
 
