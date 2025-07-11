@@ -12,6 +12,8 @@ published: FALSE
 
 Hélisenne Lestringant und Magali Tosato haben über 20 internationale Künstlerinnen und Künstler aus unterschiedlichen Kunstsparten eingeladen, eine immersive Performance in der Hausgenossenschaft Pa58 in Berlin Wedding korekativ zu erschaffen.
 
+Diese mehrsprachige Performance fand für 200 Zuschauer:innen in den Räumen der Wohngemeinschaft Pa58 statt: privaten Wohnungen, Treppenhäusern, Innenhof, Waschküche, Gemeinschaftsraum und -café.
+
 „Trouble in the bubble“ beschäftigt sich mit Gruppendynamiken und erforscht die ambivalenten Gefühle von Zugehörigkeit, Solidarität sowie Abgeschiedenheit, soziale Trägheit, Druck oder Zwang. 
 
 **Konzept & Kuration:** Hélisenne Lestringant und Magali Tosato
@@ -29,9 +31,9 @@ Odile Almuneau,  Ruzi, Jean Chaize, Brigitte Cuvelier, Kantatach Kijtikhun, Jako
 
 **Produktion:** Compagnie mikro-kit
 
-**Mit der Unterstützung von:** Ahmed Soura, Raksa Alice Seelapan, Noémie Fantôme, GET INTO PLAY und die Bewohner*innen der Pa58
+**Mit der Unterstützung von:** Ahmed Soura, Raksa Alice Seelapan, Noémie Fantôme, GET INTO PLAY und die Bewohner*innen der Hausgenossenschaft Pa58
 
 
-Premiere am 30. Oktober 2018 / Théâtre Benno Besson, Yverdon-les-Bains
+Premiere am 24. Juni 2023 / Hausgenossenschaft Pa58 Berlin Wedding
 
 Sprache: französisch, deutsche Textfassung (als Leseprobe) vorhanden
