@@ -15,7 +15,7 @@ Le dimanche 10 mars à 19h, le collectif artistique présente un choeur polyphon
 
 **GESTALTEN**
 
-Présenté pour la première fois à l'occasion du festival de littérature "Ost*|West*|Frau*"
+Présenté pour la première fois à l'occasion du festival de littérature "Ost* | West* | Frau*"
 Du 8 au 10 mars 2024 au Roter Salon der Volksbühne Berlin
 Un projet de  Magali Tosato, Larissa Jenne, Benjamin Dimitrow et Lydia Dimitrow
 
