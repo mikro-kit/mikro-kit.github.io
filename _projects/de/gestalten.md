@@ -2,7 +2,7 @@
 title: Gestalten
 subtitle: interaktive Ausstellung
 ref: pr-gestalten
-image-url: images.ctfassets.net/mhi86m0yrn9x/7KFQrBunPfiynvBT0siJsy/7d3ab60f1f10eda76aafef4b8b8aeecc/gestalten.jpg
+image-url: https://images.ctfassets.net/mhi86m0yrn9x/7KFQrBunPfiynvBT0siJsy/7d3ab60f1f10eda76aafef4b8b8aeecc/gestalten.jpg
 quote: Arbeit, Kraft und Selbstbestimmung.
 speaker: Gestalten
 year: 2024
