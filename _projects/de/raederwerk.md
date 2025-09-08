@@ -7,7 +7,6 @@ quote: Schau, eine Seeschlange unter dem Tisch!
 speaker: Template Speaker
 year: 2024
 location: Schaubude, Berlin
-published: FALSE
 ---
 
 Hans Christian Andersen war fasziniert von den neuen Technologien seiner Zeit: In unbekannteren Märchen, mit Scherenschnitten und Collagen erzählt er von Telegrafie, der Eisenbahn, dem Mikroskop oder imaginierte sogar Flugzeuge. 
