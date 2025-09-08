@@ -2,7 +2,7 @@
 title: Gestalten
 subtitle: installation participative
 ref: pr-gestalten
-image-url: https://images.ctfassets.net/mhi86m0yrn9x/4vZeQAtiwZEfIO64Ev1tal/b12190f3e6032337c429c9904b7b4341/sammlung_verlust.jpg
+image-url: https://images.ctfassets.net/mhi86m0yrn9x/7KFQrBunPfiynvBT0siJsy/7d3ab60f1f10eda76aafef4b8b8aeecc/gestalten.jpg
 quote: Travail, force et autodétermination.
 speaker: Gestalten
 year: 2024
