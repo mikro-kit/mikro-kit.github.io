@@ -7,7 +7,6 @@ quote: What would you sacrifice to join us?
 speaker: Template Speaker
 year: 2023
 location: Pa58 Wedding
-published: FALSE
 ---
 
 Hélisenne Lestringant und Magali Tosato haben über 20 internationale Künstlerinnen und Künstler aus unterschiedlichen Kunstsparten eingeladen, eine immersive Performance in der Hausgenossenschaft Pa58 in Berlin Wedding korekativ zu erschaffen.
