@@ -1,10 +1,10 @@
 ---
 title: Trafiqué Désir
 subtitle: Solo Show
-ref: pr-Tir
+ref: trafique
 image-url: URL von Contentful
 quote: Nothing excites me anymore.
-speaker: Template Speaker
+speaker: Trafiqué Désir
 year: 2025
 location: Projet itinérant
 published: FALSE
