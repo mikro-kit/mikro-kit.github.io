@@ -7,7 +7,6 @@ quote: Every action matters – because silence helps oppression, but solidarity
 speaker: Farukh
 year: 2025
 location: Festival Internazionale di Narrazione, Arzo (CH)
-published: FALSE
 ---
 
 Un gruppo di persone che vivono nel nostro territorio - alcune con un passato migratorio, altre residenti da sempre - si ritrova, si conosce e crea. Nasce cosí Slow-motion, esito scenico di un laboratorio di teatro partecipato ideato e prodotto dal Festival internazionale di narrazione. 
