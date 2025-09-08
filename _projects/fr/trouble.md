@@ -7,7 +7,6 @@ quote: What would you sacrifice to join us?
 speaker: Template Speaker
 year: 2023
 location: Pa58 Wedding
-published: FALSE
 ---
 
 Hélisenne Lestringant et Magali Tosato ont rassemblé plus de 20 artistes dans un collectif interculturel et interdisciplinaire pour co-créer une performance immersive avec les habitantes et les habitants de la coopérative d'habitation Pa58 à Berlin-Wedding.
