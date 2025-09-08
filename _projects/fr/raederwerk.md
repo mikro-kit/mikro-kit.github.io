@@ -7,7 +7,6 @@ quote: Regarde, sous la table, un serpent de mer!
 speaker: Template Speaker
 year: 2024
 location: Schaubude, Berlin
-published: FALSE
 ---
 
 Hans Christian Andersen était fasciné par les nouvelles technologies de son époque : dans des contes moins connus, à travers des découpages et des collages, il raconte le télégraphe, le chemin de fer, le microscope, et imagine même des avions. 
