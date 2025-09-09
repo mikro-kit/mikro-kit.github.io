@@ -4,7 +4,7 @@ subtitle: Kinderstück
 ref: pr-Tir
 image-url: https://images.ctfassets.net/mhi86m0yrn9x/2xniGSuROcs89JFLqLAna5/de8ffa21335307fee6d4d04c0684091d/raederwerk.jpg
 quote: Regarde, sous la table, un serpent de mer!
-speaker: Template Speaker
+speaker: Tanz im Räderwerk
 year: 2024
 location: Schaubude, Berlin
 ---
