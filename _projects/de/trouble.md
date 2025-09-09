@@ -4,7 +4,7 @@ subtitle: immersive Performance
 ref: pr-trouble
 image-url: https://images.ctfassets.net/mhi86m0yrn9x/1b10sXSe0aSrt4VR6VFk4X/55b7d5550ddb98a6acddb0b7e376d9aa/trouble.jpg
 quote: What would you sacrifice to join us?
-speaker: Template Speaker
+speaker: Trouble in the bubble
 year: 2023
 location: Pa58 Wedding
 ---
