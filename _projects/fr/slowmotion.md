@@ -4,7 +4,7 @@ subtitle: écriture de plateau
 ref: pr-slowmo
 image-url: https://images.ctfassets.net/mhi86m0yrn9x/ZxfefUNnZokWILm5vdfsg/e94de7220f8d4aa109dd5021b06a3604/slowmotion.jpg
 quote: Every action matters – because silence helps oppression, but solidarity builds freedom.
-speaker: Farukh
+speaker: Slow-motion
 year: 2025
 location: Festival Internazionale di Narrazione, Arzo (CH)
 ---
