@@ -2,7 +2,7 @@
 title: Trafiqué Désir
 subtitle: Solo Show
 ref: pr-trafique
-image-url: URL von Contentful
+image-url: https://images.ctfassets.net/mhi86m0yrn9x/3byZs53HXeyZywDwTGvKut/00deba868a883f2982968b106e7992ef/trafique.jpeg
 quote: Nothing excites me anymore.
 speaker: Trafiqué Désir
 year: 2025
