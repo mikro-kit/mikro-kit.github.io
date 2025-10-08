@@ -7,7 +7,7 @@ quote: Rien ne m'excite plus.
 speaker: Trafiqué Désir
 year: 2025
 location: Projet itinérant
-published: FALSE
+published:
 ---
 
 Construit autour d'un récit d'autofiction, « Trafiqué Désir » est un solo qui mêle des éléments burlesques, absurdes et inspirés du drag. En tournée dans des bars de quartier et des lieux alternatifs, il invite un public non-initié à participer activement à une expérience artistique, créative et collective. 
