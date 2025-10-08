@@ -7,7 +7,7 @@ quote: Nothing excites me anymore.
 speaker: Trafiqué Désir
 year: 2025
 location: Projet itinérant
-published: FALSE
+published:
 ---
 
 "Trafiqué Désir" ist ein Solo, das auf einer autofiktionalen Erzählung basiert und burleske, absurde sowie vom Drag inspirierte Elemente vereint. Auf Tour durch Kiezkneipen lädt die Performance ein nicht eingeweihtes Publikum dazu ein, aktiv an einem künstlerischen, kreativen und kollektiven Erlebnis teilzunehmen. 
